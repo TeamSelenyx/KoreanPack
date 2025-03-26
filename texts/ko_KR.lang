@@ -1,4 +1,3 @@
-hbui.Sample.hello=안녕하세요 %1$s!	#
 hbui.BackButton.back=뒤로	#
 hbui.BackButton.narrationComponentType=버튼	#
 hbui.BackButton.narrationGoBack=돌아가기	#
@@ -15,11 +14,15 @@ hbui.DescriptionList.progressLabel=진행	#
 hbui.Dropdown.elementType=드롭다운	#
 hbui.Dropdown.narrationComponentType=드롭다운	#
 hbui.Dropdown.narrationDisabled=사용 안 함	#
+hbui.Dropdown.option=옵션	#
 hbui.Dropdown.selected=선택됨	#
 hbui.Dropdown.stateCollapsed=축소됨	#
 hbui.Dropdown.stateDisabled=비활성화됨	#
 hbui.Dropdown.toggleElementType=옵션	#
 hbui.DropdownItem.disabled=비활성화됨	#
+hbui.DropdownItem.elementType=아이템	#
+hbui.DropdownItem.select=선택	#
+hbui.DropdownItem.selected=선택됨	#
 hbui.DropdownItem.unselected=선택하지 않음	#
 hbui.EmptyStateMessage.buttonSelectInputLegend=선택	#
 hbui.EmptyStateMessage.narrationTextBlock=텍스트 차단	#
@@ -137,6 +140,45 @@ hbui.TreeView.collapse=축소	#
 hbui.TreeView.expand=확장	#
 hbui.TreeView.open=열기	#
 hbui.Accordion.closeInputLegend=닫기	#
+hbui.Accordion.openInputLegend=열기	#
+hbui.BackButton.back=뒤로	#
+hbui.BackButton.narration.backButton=뒤로 버튼	#
+hbui.BaseDropdown.close=닫기	#
+hbui.BaseDropdown.enumeration=%1$s/%2$s	#
+hbui.BaseDropdown.open=열기	#
+hbui.BaseDropdown.selected=선택됨	#
+hbui.BaseDropdown.stateCollapsed=축소됨	#
+hbui.BaseDropdown.stateExpanded=확장됨	#
+hbui.BaseDropdown.toggleElementType=옵션	#
+hbui.BaseSlider.currentValue=현재 값은	#
+hbui.BaseSlider.elementType=슬라이더	#
+hbui.BaseSlider.maxValueIs=최대 값은	#
+hbui.BaseSlider.minValueIs=최소 값은	#
+hbui.BaseSwitch.elementType=스위치	#
+hbui.BaseSwitch.narrationDisabled=비활성화	#
+hbui.BaseSwitch.off=끄기	#
+hbui.BaseSwitch.on=켜기	#
+hbui.BaseSwitch.toggle=전환	#
+hbui.BaseTextField.addedNarration=추가됨	#
+hbui.BaseTextField.deselect=선택 취소	#
+hbui.BaseTextField.hint=현재 텍스트 입력 중입니다. %1$s 내용을 입력하려면 타이핑하세요.	#
+hbui.BaseTextField.invalidNarration=유효하지 않음	#
+hbui.BaseTextField.removedNarration=제거됨	#
+hbui.BaseTextField.replacedNarration=다음으로 교체됨:	#
+hbui.BaseTextField.select=선택	#
+hbui.BaseTextField.selected=선택됨	#
+hbui.DropdownItem.elementType=아이템	#
+hbui.DropdownItem.narrationComponentType=옵션	#
+hbui.DropdownItem.select=선택	#
+hbui.DropdownItem.selected=선택됨	#
+hbui.DropdownItem.unselected=선택하지 않음	#
+hbui.ScrollView.loadingState=불러오는 중	#
+hbui.ScrollView.narrationScrollViewComponentType=콘텐츠	#
+hbui.TitleBar.Buttons.Back.inputLegend=뒤로	#
+hbui.TitleBar.Buttons.Back.narration=뒤로 버튼	#
+hbui.TitleBar.Buttons.Close.inputLegend=닫기	#
+hbui.TitleBar.Buttons.Close.narration=닫기 버튼	#
+hbui.Accordion.closeInputLegend=닫기	#
 hbui.Accordion.narrationComponentType=아코디언	#
 hbui.Accordion.narrationCountLabel=%1$s - (%2$s)	#
 hbui.Accordion.openInputLegend=열기	#
@@ -192,6 +234,18 @@ hbui.AchievementListItem.rewardLockedNarration=보상 잠김	#
 hbui.AchievementListItem.rewardUnlockedNarration=보상 잠금 해제됨	#
 hbui.AchievementListItem.siblingNarration=버튼 %1$s/%2$s	#
 hbui.AchievementListItem.view=상세 정보 보기	#
+hbui.AchievementPermanentlyDisabledModal.cheats=치트가 사용함으로 설정되어 있습니다		#### Reason why the world has achievements disabled, world has cheats enabled {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.close=닫기		#### Button to dismiss the modal {MaxLength="40"}
+hbui.AchievementPermanentlyDisabledModal.creative=크리에이티브 모드에서 생성한 월드입니다		#### Reason why the world has achievements disabled, world is in creative mode {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.description=이 월드는 설정 방식으로 인해 플레이 중에는 도전 과제를 얻을 수 없습니다. 지금 월드 설정을 편집해도 변경되지 않습니다. 도전 과제를 달성하려면 다른 월드에 접속해야 합니다.		#### Text shown in the modal when the world have the achievements permanently disabled {MaxLength="600"}
+hbui.AchievementPermanentlyDisabledModal.experiments=베타 기능이 켜져 있습니다		#### Reason why the world has achievements disabled, experiments are turned on in the world {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.flat=평지로 생성한 월드입니다		#### Reason why the world has achievements disabled, world is in flat mode {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.pack=행동 팩이 활성화되어 있습니다		#### Reason why the world has achievements disabled, the world has a behaviour pack enabled {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.permissions=월드 제작자가 운영자 권한을 갖고 있습니다		#### Reason why the world has achievements disabled, player has operator permissions by default {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.reasonText=다음의 경우 이 월드에서 도전 과제를 달성할 수 없습니다.		#### Text shown in the modal when the world have the achievements permanently disabled {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.template=월드가 템플릿에서 생성되었습니다		#### Reason why the world has achievements disabled, the world was created from a template {MaxLength="150"}
+hbui.AchievementPermanentlyDisabledModal.title=도전 과제를 달성할 수 없습니다		#### Title of modal shown to let the player that in this world achievements are permanently disabled {MaxLength="40"}
+hbui.AchievementPermanentlyDisabledModal.trial=월드 제작자가 Minecraft 체험판 버전을 사용합니다 		#### Reason why the world has achievements disabled, player is using a trial version of the game {MaxLength="150"}
 hbui.AchievementReward.narration.rewardLocked=보상 잠김	#
 hbui.AchievementReward.narration.rewardUnlocked=보상 잠금 해제됨	#
 hbui.AchievementReward.reward=보상	#
@@ -361,8 +415,8 @@ hbui.Bedtime.messageAllPlayersSleeping=밤새 잠자기	#
 hbui.Bedtime.messageWaitingForOthersPlural=플레이어 중 %1$s 명이 더 잠을 자면 밤을 건너뜁니다.	#
 hbui.Bedtime.messageWaitingForOthersSingular=다른 플레이어가 한 명 더 잠을 자면 밤을 건너뜁니다.	#
 hbui.Bedtime.openChatButton=대화 열기	#
-hbui.Bedtime.sleepingNotPossibleNotWorldOwner='침대 작동' 설정이 꺼져 있습니다. 이 월드의 소유자가 월드 편집에서 이 설정을 켜야 합니다.	#
-hbui.Bedtime.sleepingNotPossibleWorldOwner='침대 작동' 설정이 꺼져 있습니다. 월드 편집의 고급 설정에서 켜십시오.	#
+hbui.Bedtime.sleepingNotPossibleNotWorldOwner='취침하여 밤 건너뛰기' 설정이 꺼져 있습니다. 이 월드의 소유자가 월드 편집에서 이 설정을 켜야 합니다.		####This string refers to name of a specific setting (Skip night by sleeping) in a specific screen (Edit world) of the game.{MaxLength=240}
+hbui.Bedtime.sleepingNotPossibleWorldOwner='취침하여 밤 건너뛰기' 설정이 꺼져 있습니다. 월드 편집의 고급 설정에서 켜십시오.		####This string refers to name of a specific setting (Skip night by sleeping) in specifc UI tab (advanced) a specific screen (Edit world) of the game.{MaxLength=290}
 hbui.ChooseRealmRoute.addNewBetaRealm=베타 Realm 추가	#
 hbui.ChooseRealmRoute.addNewPreviewRealm=Realm 미리 보기 추가	#
 hbui.ChooseRealmRoute.adventure=모험	#
@@ -406,12 +460,6 @@ hbui.CompareStatsRoute.header=현항 비교	#
 hbui.CompareStatsRoute.playerItemsListRole=가로 목록	#
 hbui.CompareStatsRoute.playerItemsNarration=두 플레이어의 능력치 비교	#
 hbui.ConnectionErrorRoute.backToMenu=메뉴로 돌아가기	#
-hbui.ConnectionErrorRoute.codewordDetailsHelp=자세한 정보는 help.Minecraft.net에서 위의 코드워드로 검색하세요.	#
-hbui.ConnectionErrorRoute.codewordHelp=자세한 정보는 help.Minecraft.net에서 '%1$s' 검색을 통해 확인하세요.	#
-hbui.ConnectionErrorRoute.errorDetailsHelp=추가 지원이 필요하면 해당 세부 정보가 담긴 스크린샷과 함께 지원 티켓을 제출하세요.	#
-hbui.ConnectionErrorRoute.header=오류 세부정보	#
-hbui.ConnectionErrorRoute.learnMore=더 알아보기	#
-hbui.ConnectionErrorRoute.showDetails=세부정보 표시	#
 hbui.ControllerSpecificButtonNarration.Gamepad.A.KEYBOARD=A 누르기	#
 hbui.ControllerSpecificButtonNarration.Gamepad.A.PS=A 누르기	#
 hbui.ControllerSpecificButtonNarration.Gamepad.A.QUEST=A 누르기	#
@@ -785,7 +833,7 @@ hbui.CreateNewWorld.advanced.sleepSlider.some=일부 %1$s     	#### The word som
 hbui.CreateNewWorld.advanced.sleepToSkipNightDescription=밤에 침대에서 잠을 자면 아침으로 건너뜁니다	#
 hbui.CreateNewWorld.advanced.sleepToSkipNightPercentDescription=밤을 건너뛰려면 몇 명의 플레이어가 침대에서 자야 하나요?	#
 hbui.CreateNewWorld.advanced.sleepToSkipNightPercentTitle=잠자는 플레이어 필요	#
-hbui.CreateNewWorld.advanced.sleepToSkipNightTitle=침대 작동	#
+hbui.CreateNewWorld.advanced.sleepToSkipNightTitle=취침하여 밤 건너뛰기	#
 hbui.CreateNewWorld.advanced.startWithMapDescription=빈 지도에 스폰되어 월드를 탐험합니다	#
 hbui.CreateNewWorld.advanced.startWithMapTitle=시작 지도	#
 hbui.CreateNewWorld.advanced.tileDropsDescription=파괴된 블록을 떨어뜨립니다	#
@@ -824,12 +872,12 @@ hbui.CreateNewWorld.behaviorPacks.packPriorityInfoMessage=여러 팩이 동일�
 hbui.CreateNewWorld.behaviorPacks.tryAgainButton=다시 시도	#
 hbui.CreateNewWorld.behaviorPacksRemoveModal.activateTitle=월드를 업데이트하시겠습니까?	#
 hbui.CreateNewWorld.behaviorPacksRemoveModal.addPackLabel=그래도 팩 추가	#
-hbui.CreateNewWorld.behaviorPacksRemoveModal.deactivateTitle=위험한 행동입니다!	#
+hbui.CreateNewWorld.behaviorPacksRemoveModal.continueLabel=계속하기	#
+hbui.CreateNewWorld.behaviorPacksRemoveModal.copyContinueLabel=사본 생성 및 계속하기	#
+hbui.CreateNewWorld.behaviorPacksRemoveModal.deactivateTitle=잠깐만요!	#
 hbui.CreateNewWorld.behaviorPacksRemoveModal.dontAddPackLabel=팩을 추가하지 않음	#
-hbui.CreateNewWorld.behaviorPacksRemoveModal.keepLabel=팩 유지	#
 hbui.CreateNewWorld.behaviorPacksRemoveModal.messageActivate=이 월드는 모드가 없는 월드와는 모양이나 동작이 다를 수 있습니다. 계속하기 전에 월드의 복사본을 저장해야 합니다.	#
-hbui.CreateNewWorld.behaviorPacksRemoveModal.messageDeactivate=월드를 플레이한 후 팩을 추가하거나 삭제하면 월드가 손상되어 생성한 콘텐츠를 잃을 수 있습니다.	#
-hbui.CreateNewWorld.behaviorPacksRemoveModal.removeLabel=그래도 팩 제거	#
+hbui.CreateNewWorld.behaviorPacksRemoveModal.messageDeactivate=이전에 플레이한 월드에서 팩을 제거하면 영구적인 데이터 손실을 야기할 수 있습니다. 먼저 월드의 사본을 만들어 보세요!	#
 hbui.CreateNewWorld.cheats.commandBlocksDescription=명령어를 사용해 블록 프로그래밍	#
 hbui.CreateNewWorld.cheats.commandBlocksTitle=커맨드 블록	#
 hbui.CreateNewWorld.cheats.daylightCycleAlwaysDayDescription=게임 내 시간은 정오로 고정되어 있습니다	#
@@ -912,8 +960,8 @@ hbui.CreateNewWorld.experimentalFeatures.activateExperimentsConfirmationConfirmI
 hbui.CreateNewWorld.experimentalFeatures.activateExperimentsConfirmationDescriptionPart1=월드를 생성한 후에는 실험 기능을 끌 수 없습니다.	#
 hbui.CreateNewWorld.experimentalFeatures.activateExperimentsConfirmationDescriptionPart2=실험 기능은 언제든지 게임을 중단시킬 수 있습니다. 진행 내역을 잃어버릴 수 있으므로 중요한 것을 만들지 마세요.	#
 hbui.CreateNewWorld.experimentalFeatures.activateExperimentsConfirmationTitle=계속하시겠습니까?	#
-hbui.CreateNewWorld.experimentalFeatures.addOnCreatorsDescription=게임 팩 및 기타 추가 콘텐츠 제작자용	#
-hbui.CreateNewWorld.experimentalFeatures.addOnCreatorsTitle=추가 콘텐츠 제작자	#
+hbui.CreateNewWorld.experimentalFeatures.addOnCreatorsDescription=게임 팩 및 기타 애드온 제작자용	#
+hbui.CreateNewWorld.experimentalFeatures.addOnCreatorsTitle=애드온 제작자	#
 hbui.CreateNewWorld.experimentalFeatures.gameplayDescription=월드 작동 방식을 바꿉니다	#
 hbui.CreateNewWorld.experimentalFeatures.gameplayTitle=게임 플레이	#
 hbui.CreateNewWorld.experimentalFeatures.internalTestsDescription=개발자 전용 기능으로, 상용 제품에는 나타나지 않습니다.	#
@@ -1075,7 +1123,7 @@ hbui.CreateNewWorld.resourcePacks.contentKeyErrorBodyNoName=팩 중 하나를 �
 hbui.CreateNewWorld.resourcePacks.contentKeyErrorTitle=오류!	#
 hbui.CreateNewWorld.resourcePacks.downloadNoInternetTitle=연결을 확인하세요	#
 hbui.CreateNewWorld.resourcePacks.downloadWorldTemplateMsgRemovePacks=이 월드의 자원 및 행동 팩 설정에 가서 해당 팩을 삭제하고 계속 진행할 수 있지만 월드는 더 이상 플레이할 수 없습니다.	#
-hbui.CreateNewWorld.resourcePacks.downloadWorldTemplateNoInternetMsg=이 월드 생성에 사용한 템플릿을 다운로드할 마켓플레이스에 연결할 수 없습니다. 해당 템플릿은 이 월드를 플레이하는데 필요한 추가 콘텐츠 팩을 포함하고 있습니다. 계속 진행하려면 인터넷에 다시 연결하고 템플릿을 다운로드하세요.	#
+hbui.CreateNewWorld.resourcePacks.downloadWorldTemplateNoInternetMsg=이 월드 생성에 사용한 템플릿을 다운로드할 마켓플레이스에 연결할 수 없습니다. 해당 템플릿은 이 월드를 플레이하는데 필요한 애드온 팩을 포함하고 있습니다. 계속 진행하려면 인터넷에 다시 연결하고 템플릿을 다운로드하세요.	#
 hbui.CreateNewWorld.resourcePacks.downloadWorldTemplateNoInternetTitle=템플릿은 인터넷 연결이 필요합니다	#
 hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageDescription=월드의 외형을 변경하시겠습니까? '사용 가능'에서 리소스 팩을 활성화해 보세요.	#
 hbui.CreateNewWorld.resourcePacks.emptyLocalActivePacksMessageTitle=활성화된 리소스 팩 없음	#
@@ -1150,7 +1198,7 @@ hbui.CreateNewWorld.resourcePacks.sharedPacksDescription=플레이어는 게임�
 hbui.CreateNewWorld.resourcePacks.sharedPacksTitle=공유 팩	#
 hbui.CreateNewWorld.resourcePacks.storeConnectionFailedBody=현재 마켓플레이스에 연결하는 데 문제를 겪고 있습니다. 나중에 다시 시도하세요!	#
 hbui.CreateNewWorld.resourcePacks.storeConnectionFailedTitle=오류가 발생했습니다.	#
-hbui.CreateNewWorld.resourcePacks.userOwnsNoMessageDescription=마켓플레이스 또는 온라인으로 이동하여 다른 방식으로 월드를 플레이 할 팩을 찾으세요!	#
+hbui.CreateNewWorld.resourcePacks.userOwnsNoMessageDescription=마켓플레이스 또는 온라인으로 이동하여 다른 방식으로 월드를 플레이할 팩을 찾으세요!	#
 hbui.CreateNewWorld.resourcePacks.userOwnsNoPacksMessageTitle=아직 팩을 가지고 있지 않습니다	#
 hbui.CreateNewWorld.resourcePacks.warningBody=월드 플레이 후에 행동 팩을 추가 또는 제거하면 월드가 손상되어 생성한 콘텐츠를 잃을 수 있습니다. 팩을 비활성화하려면 '확인'을, 활성 상태를 유지하려면 '취소'를 누르세요.	#
 hbui.CreateNewWorld.resourcePacks.warningTitle=위험한 행동입니다!	#
@@ -1203,9 +1251,26 @@ hbui.CreateNewWorldSideMenu.multiplayerTabLabel=멀티 플레이	#
 hbui.CreateNewWorldSideMenu.narrationCreateButtonHint=%2$s 난이도에서 '%3$s'의 %1$s 월드를 제작하세요. 탐색하여 다른 옵션을 선택하세요.	#
 hbui.CreateNewWorldSideMenu.resourcePacksTabLabel=리소스 팩	#
 hbui.CreateNewWorldSideMenu.scriptingCodingTabLabel=스크립팅 및 코딩	#
+hbui.CreatePartyRoute.createPartyHeader=파티 만들기 	#### Create Party page title. For the purposes of this feature, a Party is a group of players joining up to  play together.
+hbui.CreatePartyRoute.friendsTitle=친구 (%1$s) 	#### The header for a list of Player List Items containing the user's friends
+hbui.CreatePartyRoute.inviteOnly=초대 전용 	#### The title for a state where players can only join the party if invited
+hbui.CreatePartyRoute.inviteOnlyDescription=초대받은 플레이어만 파티에 참가할 수 있습니다. 	#### Describes the invite only state
+hbui.CreatePartyRoute.maxPartyExplanation=파티에는 플레이어 최대 15명까지 참가할 수 있습니다. 	#### Description explaining the maximum size of a party
+hbui.CreatePartyRoute.open=공개 	#### The title for a state where anyone can join the party
+hbui.CreatePartyRoute.openDescription=초대받지 않은 플레이어도 파티에 참가할 수 있습니다. 	#### Describes the Open state
+hbui.CreatePartyRoute.partyPrivacy=파티 프라이버시 	#### Title for the toggle which controls the party privacy state
+hbui.CreatePartyRoute.partySettings=파티 설정 	#### title of the side bar which contains the party settings options
+hbui.CreatePartyRoute.recentlyPlayedWithTitle=최근 함께 플레이한 멤버 	#### The header for a list of Player List Items containing players the user has recently played with
 hbui.DebugDrawer.closeButtonNarrationHint=추가 작업에 아래쪽 화살표 사용	#
 hbui.DebugDrawer.closeDrawerShortcutInputLegend=닫기	#
 hbui.DebugDrawer.title=디버그	#
+hbui.EditRealmWorld.play=플레이   	#### String for button to start playing on the Realm world
+hbui.EditRealmWorld.title=월드 편집    	#### Title for the screen where users edit/change their realm world settings
+hbui.EditWorld.addonStackingWarningModal.cancelButton=취소    	#### {MaxLength="60"}
+hbui.EditWorld.addonStackingWarningModal.confirmButton=알았어요!    	#### {MaxLength="60"}
+hbui.EditWorld.addonStackingWarningModal.description=애드온을 여러 개 중첩하면 예상치 못한 상황이 발생할 수 있습니다. 월드 로딩 시간이 달라지거나 애드온이 예상과 다르게 작동할 수 있습니다.    	#### {MaxLength="300"}
+hbui.EditWorld.addonStackingWarningModal.doNotShow=이 화면을 다시 보지 않겠습니다    	#### {MaxLength="60"}
+hbui.EditWorld.addonStackingWarningModal.title=애드온 사용하기    	#### {MaxLength="60"}
 hbui.EditWorld.clearingPlayerDataModal.description=게임을 종료하지 마세요. 종료 시 프로세스가 손상될 수 있습니다...	#
 hbui.EditWorld.clearingPlayerDataModal.title=플레이어 데이터 지우는 중	#
 hbui.EditWorld.clearPlayerDataErrorModal.description=나중에 다시 시도해주세요.	#
@@ -1281,16 +1346,7 @@ hbui.ErrorModal.title=오류가 발생했습니다	#
 hbui.ExportWorld.error.incorrectWorldID.title=존재하지 않는 월드는 내보낼 수 없습니다.	#
 hbui.ExportWorld.error.needToRemoveVRHeadset.title=VR 뷰어의 연결을 해제하고 다시 시도하세요.	#
 hbui.ExportWorld.error.unknownError.title=문제가 발생했습니다. 나중에 다시 시도하세요	#
-hbui.FirstTimeSignInRoute.altSignInButton=지금 로그인	#
-hbui.FirstTimeSignInRoute.altSignInList1=진행 상황과 구매 내역을 저장하세요	#
-hbui.FirstTimeSignInRoute.altSignInList2=2단계 인증으로 계정의 보안을 강화하세요	#
-hbui.FirstTimeSignInRoute.altSignInList3=도전 과제, Realms, 서버, 마켓플레이스 이용하기 	#### {StrContains="Realms"}
-hbui.FirstTimeSignInRoute.altSignInList3PS=Realms, 서버 및 마켓플레이스 이용하기 	#### {StrContains="Realms"}
-hbui.FirstTimeSignInRoute.altSignInPrompt=로그인하거나 무료로 가입하여 이 기능들과 더 많은 것들을 잠금 해제하세요:	#
-hbui.FirstTimeSignInRoute.altSignInPromptMobile=로그인하거나 무료로 가입하여 진행 상황을 저장하고, 도전 과제를 달성하고, 서버에 접속할 권한을 획득하는 등의 작업을 하세요	#
 hbui.FirstTimeSignInRoute.createAccountPrompt=Microsoft 계정이 없으신가요? 지금 무료로 계정을 만드세요!	#
-hbui.FirstTimeSignInRoute.incentivizedSignInButton=로그인하고 망토를 받으세요	#
-hbui.FirstTimeSignInRoute.incentivizedSignInPrompt=Microsoft 계정으로 로그인 하고 영구히 소유할 수 있는 무료 망토를 선택하세요! 게다가 다음과 같은 온라인 기능을 전부 이용할 수 있습니다.	#
 hbui.FirstTimeSignInRoute.laterButton=다음에 하기	#
 hbui.FirstTimeSignInRoute.notNowButton=나중에	#
 hbui.FirstTimeSignInRoute.signInButton=지금 로그인	#
@@ -1326,7 +1382,7 @@ hbui.FriendList.offlineFriendsNumberMultiple=친구 %1$s 명 오프라인	#
 hbui.FriendList.offlineFriendsNumberSingular=친구 %1$s명 오프라인	#
 hbui.FriendList.online=온라인 (%1$s)	#
 hbui.FriendList.online.playstation=온라인 PSN™ 친구(%1$s)		#### CertRequirement: [PSN™]
-hbui.FriendList.online.switch=온라인 Nintendo 친구(%1$s)	#
+hbui.FriendList.online.switch=온라인 Nintendo 친구 (%1$s)	#
 hbui.FriendList.onlineFriendsNumberMultiple=온라인 친구 %1$s명	#
 hbui.FriendList.onlineFriendsNumberSingular=친구 %1$s명 온라인	#
 hbui.FriendList.pending=보류 중인 요청 (%1$s)	#
@@ -1366,11 +1422,6 @@ hbui.FriendsDrawer.notLoggedInMessage.text=친구와 온라인으로 플레이�
 hbui.FriendsDrawer.notLoggedInMessage.title=로그인하지 않았습니다.	#
 hbui.FriendsDrawer.numberOfFriends=%1$s명의 온라인 친구가 있습니다	#
 hbui.FriendsDrawer.openDrawerShortcutInputLegend=친구	#
-hbui.FriendsDrawer.OwnProfileModal.myProfile=내 프로필	#
-hbui.FriendsDrawer.OwnProfileModal.showAway=자리 비움으로 표시	#
-hbui.FriendsDrawer.OwnProfileModal.showBusy=바쁨으로 표시	#
-hbui.FriendsDrawer.OwnProfileModal.showOffline=오프라인으로 표시	#
-hbui.FriendsDrawer.OwnProfileModal.title=플레이어 설정	#
 hbui.FriendsDrawer.title=친구	#
 hbui.FriendsDrawer.titleWithAmount=친구 (%1$s)	#
 hbui.FriendsDrawer.you=당신	#
@@ -1396,14 +1447,14 @@ hbui.general.multiplayerPermissionBanner.link=더 알아보기	#
 hbui.general.multiplayerPermissionBanner.text=멀티 플레이 월드를 만들 수 없습니다.	#
 hbui.general.multiplayerPermissionBanner.textExternal=멀티 플레이 월드를 만들 수 없습니다	#
 hbui.general.multiplayerPermissionBanner.textParental=자녀 보호 기능으로 인해 멀티 플레이 월드를 만들 수 없습니다.	#
+hbui.GenericErrorMessageModal.closeButton=닫기		#### Close button shown in a modal {MaxLength="40"}
+hbui.GenericErrorMessageModal.text=나중에 다시 시도해 주세요.		#### Please re try logging in to the platform network. {MaxLength="70"}
+hbui.GenericErrorMessageModal.title=오류가 발생했습니다.		#### Something went wrong while logging into the platform network. {MaxLength="40"}
 hbui.GetMoreButton.buttonNarration=버튼	#
 hbui.GetMoreButton.inputLegend=발견	#
 hbui.GuidedCreateWorldRoute.title=안내된 월드 만들기	#
 hbui.HeroItem.role=텍스트 블록	#
-hbui.InboxContentItem.narration.createdBy=%1$s 제작	#
 hbui.InboxContentItem.view=보기	#
-hbui.InboxMessageDetailsError.couldntFind=메시지를 찾을 수 없습니다	#
-hbui.InboxMessageDetailsError.details=찾으려는 메시지가 없거나 삭제되었습니다.	#
 hbui.InboxListItem.accept=수락	#
 hbui.InboxListItem.delete=삭제	#
 hbui.InboxListItem.go=시작	#
@@ -1425,6 +1476,8 @@ hbui.InboxListItem.rejected=거부	#
 hbui.InboxListItem.remove=제거	#
 hbui.InboxListItem.total=전체	#
 hbui.InboxListItem.view=보기	#
+hbui.InboxMessageDetailsError.couldntFind=메시지를 찾을 수 없습니다	#
+hbui.InboxMessageDetailsError.details=찾으려는 메시지가 없거나 삭제되었습니다.	#
 hbui.InboxMessageDetailsRoute.accept=수락	#
 hbui.InboxMessageDetailsRoute.details=세부정보	#
 hbui.InboxMessageDetailsRoute.from=%1$s 부터	#
@@ -1566,18 +1619,23 @@ hbui.JoinRealmsServerInvitationsButton.invitationsRole=그룹	#
 hbui.JoinRealmsServerInvitationsButton.narrationSuffix=편지함을 보려면 누르세요	#
 hbui.JoinRealmsServerInvitationsButton.noInvitesBody=편지함에 초대장이 왔을 지도 몰라요!	#
 hbui.JoinRealmsServerInvitationsButton.noInvitesTitle=초대 링크가 없나요?	#
-hbui.JoinRealmsServerTransient.buttonEnumeration=%1$s/%2$s	#
-hbui.JoinRealmsServerTransient.cancelButtonLabel=취소	#
-hbui.JoinRealmsServerTransient.caption=언제든지 Realm에서 나갈 수 있습니다.	#
+hbui.JoinRealmsServerTransient.caption=언제든지 Realm에서 나갈 수 있습니다. 참여 버튼은 아래에 있습니다.      	#### Realm here refers to a Realm server. Join is in the context of joining a Realm, meaning becoming a member of it. {StrContains="Realm"} {MaxLength="100"}
+hbui.JoinRealmsServerTransient.errorMessageTitle=오류가 발생했습니다    	#### Something went wrong when trying to join a Realm, this is a generic header for it. {MaxLength="100"}
+hbui.JoinRealmsServerTransient.genericTitle=Realm에 참여    	#### Becoming a member of a Realm. {StrContains="Realm"} {MaxLength="100"}
 hbui.JoinRealmsServerTransient.joinButtonLabel=참여	#
 hbui.JoinRealmsServerTransient.joinRealmModal=Realm 참여 중	#
-hbui.JoinRealmsServerTransient.ownerInformation=%1$s 님의 Realm에 참여하시겠습니까?	#
+hbui.JoinRealmsServerTransient.ownerInformation=%1$s 의 Realm에 참여하려고 합니다    	#### The player is about to become a member of another players Realm. {StrContains="Realm"} {MaxLength="100"}
 hbui.JoinRealmsServerTransient.successSnackbar='%1$s'에 참여했습니다!	#
-hbui.JoinRealmsServerTransient.title=Realm에 참여	#
+hbui.JoinRealmsServerTransient.title=%1$s 참여하기    	#### Join as in "Join Realm". Becoming a member of a Realm. {MaxLength="20"}
 hbui.JoinServerWarningModal.cancel=취소	#
 hbui.JoinServerWarningModal.continue=계속하기	#
 hbui.JoinServerWarningModal.text=여러분은 호스트입니다. 이 월드에서 접속을 종료하면 멀티 플레이 세션도 종료됩니다.	#
 hbui.JoinServerWarningModal.title=멀티 플레이 세션을 종료할까요?	#
+hbui.JoinWorldBlockedModal.cancel=돌아가기	#
+hbui.JoinWorldBlockedModal.confirmation=저장 및 친구에게 합류	#
+hbui.JoinWorldBlockedModal.message_p1=친구에게 합류하면 현재 월드를 떠나게 됩니다.	#
+hbui.JoinWorldBlockedModal.message_p2=걱정하지 마세요. 돌아오면 모든 게 여기 그대로 있을 거예요.	#
+hbui.JoinWorldBlockedModal.title=현재 월드를 떠나시겠습니까?	#
 hbui.ManageShowcaseErrorModal.close=닫기	#
 hbui.ManageShowcaseErrorModal.text=쇼케이스 갤러리에 변경 사항을 저장하는 데 문제가 발생했습니다.	#
 hbui.ManageShowcaseErrorModal.title=오류가 발생했습니다.	#
@@ -1614,7 +1672,15 @@ hbui.MultiplayerPrivilegeBlockedModal.descriptionOnline=계정 설정 제한으�
 hbui.MultiplayerPrivilegeBlockedModal.descriptionParental=자녀 보호 기능으로 인해 Realms에서 플레이할 수 없습니다. 자녀 보호 기능 설정의 '온라인 안전'에서 멀티 플레이 설정을 확인하고 관리하세요. 	#### {StrContains="Realms"}
 hbui.MultiplayerPrivilegeBlockedModal.learnMore=더 알아보기	#
 hbui.MultiplayerPrivilegeBlockedModal.title=권한이 필요합니다!	#
+hbui.MultiplayerTab.PlayerAccessPanel.manageMembersButton=멤버 관리    	#### String for button that takes a realm owner to the settings page for managing the members of their Realm
+hbui.MultiplayerTab.PlayerAccessPanel.manageMembersLegend=멤버 관리    	#### String for button that takes a realm owner to the settings page for managing the members of their Realm
+hbui.MultiplayerTab.PlayerAccessPanel.title=플레이어 액세스   	#### Heading for settings section that displays settings for what type of player can join/access the Realm
+hbui.NoInternetModal.button=닫기 	#### Close as in closing a modal. {MaxLength="50"}
+hbui.NoInternetModal.text=오프라인 상태입니다. 온라인 기능을 이용하려면 인터넷 연결을 확인하세요.		####  Player is not connected to the internet, he is offline. {MaxLength="340"}
+hbui.NoInternetModal.title=인터넷 없음		####  Player is not connected to the internet. {MaxLength="40"}
 hbui.Notifications.achievementsDisabled=도전 과제를 달성할 수 없습니다.	#
+hbui.Notifications.addonStacking=여러 애드온 중첩 중입니다.    	#### {MaxLength="80"}
+hbui.Notifications.addonStackingLink=링크    	#### This is a text button to open a dialog to provide more information {MaxLength="20"}
 hbui.Notifications.changeSkinLink=스킨 변경	#
 hbui.Notifications.experimentsWarning.informationMessage=실험 기능은 잠재적인 신규 기능입니다. 손상될 수 있으니 주의하세요.	#
 hbui.Notifications.freeSpace=여유 공간	#
@@ -1625,12 +1691,10 @@ hbui.Notifications.inTrialMode=체험판 모드에서는 일부 설정이 잠깁
 hbui.Notifications.multiplayerWarnings.checkInternetConnection=인터넷에 연결되어 있지 않습니다. 친구들이 멀티 플레이 세계에 참여할 수 있도록 온라인에 접속하십시오.	#
 hbui.Notifications.multiplayerWarnings.multiplayerPrivilegesBlocked=Microsoft 계정 설정 방식 때문에 온라인 멀티 플레이 게임을 플레이할 수 없습니다. 온라인 안전 설정에서 멀티 플레이 허용 여부를 확인하세요. aka.ms/MCMultiplayerHelp에서 해당 설정 변경에 대한 지침을 참조하세요.	#
 hbui.Notifications.multiplayerWarnings.multiplayerPrivilegesBlockedOnConsole=Microsoft 계정 설정 방식 때문에 온라인 멀티 플레이 게임을 플레이할 수 없습니다. 온라인 안전 설정에서 멀티 플레이 및 클럽 허용 여부와 Xbox Game Pass 구독 여부를 확인하세요. aka.ms/MCMultiplayerHelp에서 해당 설정 변경에 대한 지침을 참조하세요.	###disable_3rd_party_console_resource_pack_check
-hbui.Notifications.multiplayerWarnings.nintendoDisconnectedThirdPartyWithSubscription=Nintendo Switch Online 서비스에 연결되어 있지 않습니다. Nintendo 친구가 내 멀티 플레이 월드에 참여할 수 없습니다. Nintendo Switch Online에 로그인하여 친구와 함께 플레이하세요.	#
 hbui.Notifications.multiplayerWarnings.nintendoLocalMultiplayerPrivilegesBlockedThirdParty=청소년 보호 기능 제한으로 인해 로컬 멀티 플레이 게임을 플레이할 수 없습니다. 청소년 보호 기능 설정의 '다른 사람과 공유하기'에서 멀티 플레이 설정을 보고 관리하세요.	#
 hbui.Notifications.multiplayerWarnings.nintendoMultiplayerPrivilegesBlockedThirdParty=청소년 보호 기능 제한으로 인해 로컬 멀티 플레이 게임을 플레이할 수 없습니다. 청소년 보호 기능 설정의 '다른 사람과 공유하기'에서 멀티 플레이 설정을 보고 관리하세요.	#
 hbui.Notifications.multiplayerWarnings.nonMultiplayerSkinEquipped=현재 스킨은 멀티 플레이에서 사용할 수 없습니다.	#
 hbui.Notifications.multiplayerWarnings.playstationCrossPlatformDisabled=설정 메뉴의 프로필 섹션에서 크로스 플랫폼 플레이를 활성화하고 다른 플랫폼의 친구들과 플레이하세요.	#
-hbui.Notifications.multiplayerWarnings.playstationDisconnectedThirdPartyWithSubscription=PlayStation™Network에 연결되어 있지 않습니다. PlayStation™Network의 친구가 내 멀티 플레이 월드에 참여할 수 없습니다. PlayStation™Network에 로그인하여 친구와 함께 플레이 하세요. 	#### CertRequirement: [PlayStation™Network]
 hbui.Notifications.multiplayerWarnings.playstationMultiplayerPrivilegesBlockedThirdParty=청소년 보호 기능 제한으로 인해 로컬 멀티 플레이 게임을 플레이할 수 없습니다. 청소년 보호 기능 설정의 '다른 사람과 공유하기'에서 멀티 플레이 설정을 보고 관리하세요.	#
 hbui.Notifications.notEnoughStorage=저장 공간이 거의 가득 찼습니다! Minecraft에서 이 기능에 대한 접근을 제한했습니다. 기능을 이용하려면 추가 저장 공간을 확보해야 합니다.	#
 hbui.Notifications.readMoreLink=더 보기	#
@@ -1747,6 +1811,7 @@ hbui.PlayerBannedModalRoute.xbox.report.terrorismOrViolentExtremism=증오 단�
 hbui.PlayerBannedModalRoute.xbox.report.unsportingBehavior=단독 플레이	#
 hbui.PlayerCard.addedButton=추가됨	#
 hbui.PlayerCard.addFriendButton=친구 추가	#
+hbui.PlayerCard.away=자리 비움		####Used to show player status {MaxLength=20}
 hbui.PlayerCard.blocked=차단됨	#
 hbui.PlayerCard.buttonRole=버튼	#
 hbui.PlayerCard.buttonSiblings=%1$s/%2$s	#
@@ -1763,9 +1828,13 @@ hbui.PlayerListItem.accept=수락	#
 hbui.PlayerListItem.addButtonInputLegend=친구 추가	#
 hbui.PlayerListItem.addButtonText=추가	#
 hbui.PlayerListItem.added=추가됨	#
+hbui.PlayerListItem.away=자리 비움	#
 hbui.PlayerListItem.buttonSiblings=버튼 %1$s/%2$s	#
 hbui.PlayerListItem.delete=삭제	#
 hbui.PlayerListItem.friends=친구	#
+hbui.PlayerListItem.inviteButtonInputLegend=친구 초대 	#### The input legend text for a button used to invite someone to a party
+hbui.PlayerListItem.inviteButtonText=초대 	#### The text that appears on a button for inviting a player to a party
+hbui.PlayerListItem.invited=초대함 	#### The text that appears after a player has been invited to a party
 hbui.PlayerListItem.join=참여	#
 hbui.PlayerListItem.narration.addedMutual=이 플레이어와 친구입니다.	#
 hbui.PlayerListItem.narration.addedNotMutual=이 플레이어를 추가했습니다.	#
@@ -1782,13 +1851,14 @@ hbui.PlayerListItem.online=온라인	#
 hbui.PlayerListItem.online.playstation=PSN™에서 온라인		#### CertRequirement: [PSN™]
 hbui.PlayerListItem.online.switch=Switch에서 온라인	#
 hbui.PlayerListItem.pending=보류됨	#
+hbui.PlayerListItem.playingInSameWorld=이 월드에서 플레이하기		####Used as player status when players are in the same world {MaxLength=30}
 hbui.PlayerListItem.receivedRequest=요청을 보냈습니다	#
 hbui.PlayerListItem.reject=거부	#
 hbui.PlayerListItem.select=선택	#
 hbui.PlayerListItem.viewProfile=플레이어 프로필 보기	#
 hbui.PlayerOptionsModal.addToFavorites=좋아하는 친구에 추가	#
 hbui.PlayerOptionsModal.appearOffline=오프라인으로 표시	#
-hbui.PlayerOptionsModal.block=블록	#
+hbui.PlayerOptionsModal.block=차단	#
 hbui.PlayerOptionsModal.manageAccount=계정 관리	#
 hbui.PlayerOptionsModal.manageXboxProfile=Xbox 프로필 관리	#
 hbui.PlayerOptionsModal.mute=음소거	#
@@ -1796,6 +1866,7 @@ hbui.PlayerOptionsModal.optionsEnumeration= %1$s/%2$s	#
 hbui.PlayerOptionsModal.optionsTitle=계정 옵션	#
 hbui.PlayerOptionsModal.privacyAndSafety=개인 정보 보호 및 온라인 안전	#
 hbui.PlayerOptionsModal.removeFriend=친구에서 제외하기	#
+hbui.PlayerOptionsModal.removeFromFavorites=즐겨찾기에서 제거		####Button text for removing a profile from favorite list {MaxLength=35}
 hbui.PlayerOptionsModal.report=신고	#
 hbui.PlayerOptionsModal.setFeaturedScreenshot=추천 스크린샷 설정	#
 hbui.PlayerOptionsModal.shareMyProfile=내 프로필 공유	#
@@ -1808,19 +1879,24 @@ hbui.PlayerPermissionsRoute.Details.ability.build=건축	#
 hbui.PlayerPermissionsRoute.Details.ability.description.attackMobs=플레이어 대 환경 전투에 참여하세요	#
 hbui.PlayerPermissionsRoute.Details.ability.description.attackPlayers=플레이어 대 플레이어 전투에 참여하세요	#
 hbui.PlayerPermissionsRoute.Details.ability.description.build=월드에 블록 놓기	#
-hbui.PlayerPermissionsRoute.Details.ability.description.doorsAndSwitches=문과 스위치 사용	#
+hbui.PlayerPermissionsRoute.Details.ability.description.doorsAndSwitches=월드에서 가장 유용한 아이템을 활성화하세요 	####Description for doors and switches toggle {MaxLength=400}
 hbui.PlayerPermissionsRoute.Details.ability.description.mine=월드 요소를 파괴하고 블록을 모으세요	#
 hbui.PlayerPermissionsRoute.Details.ability.description.openContainers=상자를 열어 보고, 아이템을 넣거나 꺼낼 수 있어요	#
 hbui.PlayerPermissionsRoute.Details.ability.description.operatorCommands=고급 서버 옵션을 이용하세요	#
 hbui.PlayerPermissionsRoute.Details.ability.description.teleport=월드의 어디든 즉시 이동합니다	#
-hbui.PlayerPermissionsRoute.Details.ability.doorsAndSwitches=월드에서 가장 유용한 아이템을 활성화하세요	#
+hbui.PlayerPermissionsRoute.Details.ability.doorsAndSwitches=문과 스위치 사용 	####Title for toggle for doors and switches {MaxLength=120}
 hbui.PlayerPermissionsRoute.Details.ability.mine=채굴	#
 hbui.PlayerPermissionsRoute.Details.ability.openContainers=컨테이너 열기	#
 hbui.PlayerPermissionsRoute.Details.ability.operatorCommands=운영자 명령어	#
 hbui.PlayerPermissionsRoute.Details.ability.teleport=순간이동	#
-hbui.PlayerPermissionsRoute.Details.kickButton=%1$s 추방	#
+hbui.PlayerPermissionsRoute.Details.kickButton=%1$s 님을 월드에서 추방     	####Text for the button that appears in the Player Permissions Screen - %1$s is the player name {maxLength=40}
 hbui.PlayerPermissionsRoute.Details.kickButton.inputLegend=선택	#
+hbui.PlayerPermissionsRoute.Details.loading=불러오는 중 	####Text on loading modal that appears when clicking "Go to game settings" link {MaxLength=60}
+hbui.PlayerPermissionsRoute.Details.notification.kickCommandFailedFlag=이 플레이어를 제거할 수 없습니다.   	####Text for snackbar that appears when trying to kick another player fails {maxLength=60}
+hbui.PlayerPermissionsRoute.Details.notification.kickCommandSuccess=플레이어가 나갔습니다 	####Text for snackbar that appears when a player has been kicked from a world {MaxLength=60}
+hbui.PlayerPermissionsRoute.Details.notification.selectedPlayerPermissionsChangedFlag=플레이어 권한이 다른 운영자에 의해 업데이트되었습니다.   	####Text for snackbar that appears when another player has updated the selected player's permissions {maxLength=60}
 hbui.PlayerPermissionsRoute.Details.optionEnumeration=%1$s/%2$s	#
+hbui.PlayerPermissionsRoute.Details.playerIdInvalidFlag=이 플레이어의 권한을 불러올 수 없습니다.   	####Text for empty state that appears when you are trying to load the permissions for an invalid ID {maxLength=60}
 hbui.PlayerPermissionsRoute.Details.roleDropdown.description.custom=이 플레이어의 사용자 지정 권한 모음	#
 hbui.PlayerPermissionsRoute.Details.roleDropdown.description.member=멤버는 건설과 채광, 플레이어 및 몹 공격, 아이템 및 엔티티와의 상호작용을 할 수 있습니다.	#
 hbui.PlayerPermissionsRoute.Details.roleDropdown.description.operator=운영자는 멤버의 모든 권한에 추가로 순간이동 및 명령어 사용이 가능합니다.	#
@@ -1828,16 +1904,24 @@ hbui.PlayerPermissionsRoute.Details.roleDropdown.description.visitor=방문자�
 hbui.PlayerPermissionsRoute.Details.roleDropdown.title=권한 수준	#
 hbui.PlayerPermissionsRoute.Details.SettingsLockedBanner.link=게임 설정으로 이동	#
 hbui.PlayerPermissionsRoute.Details.SettingsLockedBanner.text=템플릿 월드 옵션을 잠금 해제하여 권한을 변경할 수 있습니다.	#
-hbui.PlayerPermissionsRoute.EnableCheatsModal.cheatsDisabledButton=치트키를 사용하지 않고 계속하기	#
-hbui.PlayerPermissionsRoute.EnableCheatsModal.description=순간이동과 같은 특정 명령어를 사용하려면 치트키가 사용으로 설정되어 있어야 합니다. 지금 사용으로 설정하거나 게임 설정 메뉴에서 설정하세요.	#
-hbui.PlayerPermissionsRoute.EnableCheatsModal.enableCheatsButton=치트키 사용	#
+hbui.PlayerPermissionsRoute.EnableCheatsModal.cheatsDisabledButton=치트를 사용하지 않고 계속하기	#
+hbui.PlayerPermissionsRoute.EnableCheatsModal.description=순간이동과 같은 특정 명령어를 사용하려면 치트가 사용으로 설정되어 있어야 합니다. 지금 사용으로 설정하거나 게임 설정 메뉴에서 설정하세요.   	####Text that appears in modal when trying to change a permission from a user but the cheats are not on {MaxLength=300}
+hbui.PlayerPermissionsRoute.EnableCheatsModal.enableCheatsButton=치트 사용	#
 hbui.PlayerPermissionsRoute.EnableCheatsModal.inputLegend=선택	#
-hbui.PlayerPermissionsRoute.EnableCheatsModal.title=치트키가 사용하지 않음으로 설정되어 있습니다.	#
+hbui.PlayerPermissionsRoute.EnableCheatsModal.title=치트가 사용하지 않음으로 설정되어 있습니다.	#
 hbui.PlayerPermissionsRoute.KickPlayerModal.backButton=돌아가기	#
 hbui.PlayerPermissionsRoute.KickPlayerModal.description=이 월드에서 %1$s을(를) 추방하시겠어요? 추방되면 이 세션에 다시 접속할 수 없습니다.	#
 hbui.PlayerPermissionsRoute.KickPlayerModal.inputLegend=선택	#
-hbui.PlayerPermissionsRoute.KickPlayerModal.kickButton=%1$s 추방	#
+hbui.PlayerPermissionsRoute.KickPlayerModal.kickButton=%1$s 님을 월드에서 추방     	####Button that appears in modal when trying to kick player from a world in the new PP screen - %1$s is the player name {maxLengtah=40}
 hbui.PlayerPermissionsRoute.KickPlayerModal.title=플레이어를 추방할까요?	#
+hbui.PlayerPermissionsRoute.OperatorRevokedErrorModal.closeButton=닫기    	####Close button for modal that appears when operator permissions have been revoked for the current player {MaxLength=40}
+hbui.PlayerPermissionsRoute.OperatorRevokedErrorModal.description=운영자 권한이 취소되어 더 이상 다른 플레이어의 권한을 변경할 수 없습니다.    	####Description for modal that appears when operator permissions have been revoked for the current player {MaxLength=600}
+hbui.PlayerPermissionsRoute.OperatorRevokedErrorModal.inputLegend=선택    	####Input legend for close button in this modal {MaxLength=40}
+hbui.PlayerPermissionsRoute.OperatorRevokedErrorModal.title=운영자 권한 취소됨  	####Title for modal that appears when operator permissions have been revoked for the current player {MaxLength=40}
+hbui.PlayerPermissionsRoute.PlayerLeftErrorModal.closeButton=닫기    	####Close button for modal that appears when the selected player has left the world {MaxLength=40}
+hbui.PlayerPermissionsRoute.PlayerLeftErrorModal.description=%1$s 님이 월드를 떠나 권한을 변경할 수 없습니다.    	####Description for modal that appears when the selected player has left the world {MaxLength=600}
+hbui.PlayerPermissionsRoute.PlayerLeftErrorModal.inputLegend=선택    	####Input legend for close button in this modal {MaxLength=40}
+hbui.PlayerPermissionsRoute.PlayerLeftErrorModal.title=플레이어가 떠났습니다.  	####Title for modal that appears when the selected player has left the world {MaxLength=40}
 hbui.PlayerPermissionsRoute.RemoveOperatorLevelModal.backButton=돌아가기	#
 hbui.PlayerPermissionsRoute.RemoveOperatorLevelModal.description=이 플레이어의 권한 수준을 낮추면 운영자 명령어에 액세스할 수 없게 됩니다. 소유자는 언제든지 권한을 복원할 수 있습니다.	#
 hbui.PlayerPermissionsRoute.RemoveOperatorLevelModal.inputLegend=선택	#
@@ -1853,7 +1937,7 @@ hbui.PlayerPermissionsRoute.SideMenu.role.custom=사용자 지정	#
 hbui.PlayerPermissionsRoute.SideMenu.role.member=멤버	#
 hbui.PlayerPermissionsRoute.SideMenu.role.operator=운영자	#
 hbui.PlayerPermissionsRoute.SideMenu.role.visitor=방문자	#
-hbui.PlayerPermissionsRoute.title=플레이어 권한	#
+hbui.PlayerPermissionsRoute.title=%1$s에 대한 플레이어 권한		#### %s is a string that represents the name of the world and should not be localized. This is the title of the screen Player Permissions OreUI version. Please take into consideration that the max length is not very accurate because it depends on a user interaction {MaxLength=30}
 hbui.PlayersOnlineInWorld.full=전체	#
 hbui.PlayerTag.hint=플레이어 프로필에 액세스하려면 누르세요	#
 hbui.PlayerTag.role=버튼	#
@@ -1870,6 +1954,8 @@ hbui.PlayScreen.allWorlds.emptyStateStartFromTemplateButton=템플릿으로 시�
 hbui.PlayScreen.allWorlds.emptyStateText=처음부터 새 월드를 만들거나 템플릿에서 월드를 만듭니다.	#
 hbui.PlayScreen.allWorlds.emptyStateText.trialMode=새로운 월드를 처음부터 만드십시오.	#
 hbui.PlayScreen.allWorlds.emptyStateTitle=아직... 월드가 없습니다!	#
+hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromContent=제작 기반 선택		#### Button text that leads to a page where players can create a world from some form of content, ex. Create from Template or Create from Add-On {MaxLength=30}
+hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromContentNarration=파트너 제작자들이 만든 콘텐츠를 살펴보세요. 원래 보유하고 있었거나 마켓플레이스에서 구매한 템플릿 및 애드온을 사용하세요. 		#### Narration only, longer description for a button that says "Create from..." implying a player would create a world from some existing content {MaxLength=1000}
 hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromTemplate=템플릿으로 만들기	#
 hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromTemplateNarration=파트너 크리에이터가 만든 월드를 탐험하세요. 기존 템플릿을 사용하거나 마켓플레이스에서 구매하세요.	#
 hbui.PlayScreen.AllWorldsTab.ButtonHeader.createNewWorld=새로운 월드 만들기	#
@@ -1915,8 +2001,10 @@ hbui.PlayScreen.genericError.servers.title=서버를 불러오지 못했습니�
 hbui.PlayScreen.guestAccountMessage.bannerLogIn=로그인	#
 hbui.PlayScreen.guestAccountMessage.bannerLogInMicrosoft=Microsoft에 로그인 또는 가입하세요	#
 hbui.PlayScreen.guestAccountMessage.buttonLogInMicrosoft=Microsoft 계정에 로그인하세요	#
-hbui.PlayScreen.GuestAccountMessage.nintendo.text=Nintendo 계정에 로그인하여 무엇이 있는지 확인하세요.	#
-hbui.PlayScreen.GuestAccountMessage.playstation.text=PlayStation™Network에 로그인하여 무엇이 있는지 확인하세요.		#### CertRequirement: [PlayStation™Network]
+hbui.PlayScreen.GuestAccountMessage.nintendo.button=Nintendo Account에 로그인 	#### Button that is shown in an empty state when the PlayScreen when the player is not logged into a NintendoAccount. {StrContains="Nintendo Account"} {MaxLength="50"}
+hbui.PlayScreen.GuestAccountMessage.nintendo.text=내용을 확인하려면 Nintendo Account에 로그인하세요. 	####  Text that is shown in an empty state when the PlayScreen when the player is not logged into a NintendoAccount. {StrContains="Nintendo Account"} {MaxLength="150"}
+hbui.PlayScreen.GuestAccountMessage.playstation.button=PlayStation™Network에 로그인		#### Button that is shown in an empty state when the PlayScreen when the player is not logged into the Playstation network. CertRequirement: [PlayStation™Network] {MaxLength="50"}
+hbui.PlayScreen.GuestAccountMessage.playstation.text=PlayStation™Network에 로그인하여 무엇이 있는지 확인하세요.		#### Text that is shown in an empty state when the PlayScreen when the player is not logged into the Playstation network. CertRequirement: [PlayStation™Network] {MaxLength="150"}
 hbui.PlayScreen.guestAccountMessage.realmsNoMicrosoftAccount=Realms에서 플레이하려면 Microsoft 계정이 필요합니다. 	#### {StrContains="Realms"}
 hbui.PlayScreen.guestAccountMessage.realmsNoPlatformAccountNintendo=Realms에서 플레이하려면 Nintendo 계정이 필요합니다. 	#### {StrContains="Realms"}
 hbui.PlayScreen.guestAccountMessage.realmsNoPlatformAccountPlaystation=Realms에서 플레이하려면 PlayStation™Network 계정이 필요합니다. 	#### CertRequirement: [PlayStation™Network] {StrContains="Realms"}
@@ -1926,7 +2014,6 @@ hbui.PlayScreen.guestAccountMessage.serversNoMicrosoftAccount=서버에서 플�
 hbui.PlayScreen.guestAccountMessage.serversNoPlatformAccountNintendo=서버에서 플레이하려면 Nintendo 계정이 필요합니다.	#
 hbui.PlayScreen.guestAccountMessage.serversNoPlatformAccountPlaystation=서버에서 플레이하려면 PlayStation™Network 계정이 필요합니다. 	#### CertRequirement: [PlayStation™Network]
 hbui.PlayScreen.guestAccountMessage.serversPlaystationGuest=서버에서 플레이하려면 Microsoft 계정이 필요합니다.	#
-hbui.PlayScreen.GuestAccountMessage.title=로그인하지 않았습니다.	#
 hbui.PlayScreen.importWorldErrorModal.close=닫기	#
 hbui.PlayScreen.importWorldErrorModal.unknownError.body=이 월드를 가져오는 중에 문제가 발생했습니다.	#
 hbui.PlayScreen.importWorldErrorModal.unknownError.title=오류가 발생했습니다	#
@@ -1994,6 +2081,7 @@ hbui.PlayScreen.outOfStorageModal.close=닫기	#
 hbui.PlayScreen.outOfStorageModal.closeInputLegend=닫기	#
 hbui.PlayScreen.outOfStorageModal.title=저장 공간 부족	#
 hbui.PlayScreen.PlatformMultiplayerDisabledMessage.text=계정의 멀티 플레이를 활성화하여 이 기능과 다른 소셜 기능에 액세스하세요.	#
+hbui.PlayScreen.PlatformMultiplayerDisabledMessage.textForPlayStation=내 PlayStation™Network 계정의 통신 기능이 비활성화되었습니다. 사용하려면 PlayStation™Network 계정에서 활성화하세요.		#### This is a communication requirement for PS. CertRequirement: [PlayStation™Network] {MaxLength=300}
 hbui.PlayScreen.PlatformMultiplayerDisabledMessage.title=접근이 제한되었습니다	#
 hbui.PlayScreen.realms=Realms 	#### {StrContains="Realms"}
 hbui.PlayScreen.RealmsBannedMessage.Banned.bodyFirstParagraph=Minecraft Realms 서비스에서 영구적으로 차단되었습니다. Realms 플레이 및 참여가 금지됩니다.		#### {StrContains="Minecraft"} {StrContains="Realms"}
@@ -2067,7 +2155,7 @@ hbui.PlayScreen.realmsTab.sideMenu.addOrJoinRealm=Realm 추가/참여	#
 hbui.PlayScreen.realmsTab.sideMenu.closed=닫힘	#
 hbui.PlayScreen.realmsTab.sideMenu.contextOwnedRealms=Realm 추가/참여	#
 hbui.PlayScreen.realmsTab.sideMenu.expired=만료됨	#
-hbui.PlayScreen.realmsTab.sideMenu.externalServer=다른 서버 (%1$s)	#
+hbui.PlayScreen.realmsTab.sideMenu.externalServer=외부 서버(%1$s)	#
 hbui.PlayScreen.realmsTab.sideMenu.full=전체	#
 hbui.PlayScreen.realmsTab.sideMenu.inputLegend=열기	#
 hbui.PlayScreen.realmsTab.sideMenu.invitations=초대	#
@@ -2106,13 +2194,13 @@ hbui.PlayScreen.serverTab.confirmDeletion.deleteButtonInputLegend=삭제	#
 hbui.PlayScreen.serverTab.confirmDeletion.goBackButton=돌아가기	#
 hbui.PlayScreen.serverTab.confirmDeletion.message=이 서버를 삭제하면 나중에 다시 추가할 수 있습니다.	#
 hbui.PlayScreen.serverTab.confirmDeletion.title=서버 삭제 중	#
-hbui.PlayScreen.serverTab.externalServer=다른 서버 (%1$s)	#
+hbui.PlayScreen.serverTab.externalServer=외부 서버(%1$s)	#
 hbui.PlayScreen.serverTab.externalServerDetails.address=서버 주소	#
 hbui.PlayScreen.serverTab.externalServerDetails.editBtnHint=커스텀 서버 이름, 주소 또는 포트를 편집하세요	#
 hbui.PlayScreen.serverTab.externalServerDetails.editButton=서버 편집	#
 hbui.PlayScreen.serverTab.externalServerDetails.name=서버 이름	#
 hbui.PlayScreen.serverTab.externalServerDetails.port=서버 포트	#
-hbui.PlayScreen.serverTab.featuredServer=추천 (%1$s)	#
+hbui.PlayScreen.serverTab.featuredServer=추천 서버(%1$s)	#
 hbui.PlayScreen.serverTab.joinServerErrorModal.cancel=닫기	#
 hbui.PlayScreen.serverTab.joinServerErrorModal.NoInternetError.message=현재 인터넷에 연결되어 있지 않습니다. 서버에서 플레이하려면 다시 연결하세요.	#
 hbui.PlayScreen.serverTab.joinServerErrorModal.NoInternetError.title=인터넷 없음	#
@@ -2273,10 +2361,12 @@ hbui.ProfileRoute.followersItemLabel=팔로워	#
 hbui.ProfileRoute.followersNarration=팔로워 %1$s	#
 hbui.ProfileRoute.friendsInputLegend=친구 보기	#
 hbui.ProfileRoute.friendsItemLabel=친구	#
+hbui.ProfileRoute.friendsItemLabelWithName=%1$s 님의 친구		#### Label stating <gamertags>'s friends {MaxLength=35}
 hbui.ProfileRoute.friendsNarration=친구 %1$s	#
+hbui.ProfileRoute.friendsNarrationWithName=%1$s 님의 친구 . %2$s		#### This narration is about how many friends that are connected to the profile. The %1$s is referring to a user game tag and %2$s to the number of friends. An example is: UserGameTag's friends . 19 {MaxLength=100}
 hbui.ProfileRoute.gamerscoreNarration=게이머 점수 %1$s/%2$s	#
 hbui.ProfileRoute.headerOther=%1$s의 프로필	#
-hbui.ProfileRoute.headerSelf=프로필	#
+hbui.ProfileRoute.headerSelf=프로필		#### Title of the page referring to the logged in users profile {MaxLength=55}
 hbui.ProfileRoute.learnMoreButton=더 알아보기	#
 hbui.ProfileRoute.linkedAccountHeader=연동된 계정	#
 hbui.ProfileRoute.listItemFractionValue=%1$s/%2$s	#
@@ -2414,9 +2504,9 @@ hbui.RealmsPDPScreen.FAQ.HowMany.description=한 번에 최대 3개의 월드를
 hbui.RealmsPDPScreen.FAQ.HowMany.title=내 Realm에 월드를 몇 개 까지 가질 수 있나요?  	#### {StrContains="Realm"}
 hbui.RealmsPDPScreen.FAQ.PersonalServer.description=여러분의 월드는 엄청난 속도와 성능을 지닌 슈퍼컴퓨터에 저장됩니다. 슈퍼컴퓨터는 연중무휴 작동되므로 친구들과 함께 언제든지 플레이할 수 있습니다. 또한 월드가 손상되지 않도록 항상 자동으로 저장하여 보호합니다. 월드에 접속할 수 있는 사람은 여러분이 결정합니다. 어떻게 플레이할지는 여러분에게 달려 있습니다(힘든 일은 모두 서버가 할 거예요).	#
 hbui.RealmsPDPScreen.FAQ.PersonalServer.title=개인 서버란 무엇인가요?	#
-hbui.RealmsPDPScreen.FAQ.Realms.description=Realms는 여러분의 Minecraft 월드를 호스팅하기 위한 작은 개인 서버입니다. 일반 멀티플레이 세션과 달리 Realm은 언제나 온라인 상태이기 때문에 여러분이 게임에 접속하지 않아도 친구들이 월드를 이용할 수 있습니다. 대규모 공개 Minecraft 서버와 달리 Realm은 오직 초대로만 참여할 수 있습니다. 따라서 여러분이 허락하는 사람만 입장할 수 있습니다.  	#### {StrContains="Realms"}
+hbui.RealmsPDPScreen.FAQ.Realms.description=Realms는 여러분의 Minecraft 월드를 호스팅하기 위한 작은 개인 서버입니다. 일반 멀티플레이 세션과 달리 Realm은 언제나 온라인 상태이기 때문에 여러분이 게임에 접속하지 않아도 친구들이 월드를 이용할 수 있습니다. 대규모 공개 Minecraft 서버와 달리 Realm은 오직 초대로만 참여할 수 있습니다. 따라서 여러분이 허락하는 사람만 입장할 수 있습니다.  	#### {StrContains="Realms Plus"}
 hbui.RealmsPDPScreen.FAQ.Realms.title=Realms는 무엇인가요?  	#### {StrContains="Realms"}
-hbui.RealmsPDPScreen.hero.content.header=Realms Plus로 추가 콘텐츠 이용하기    	#### {StrContains="Realms"}
+hbui.RealmsPDPScreen.hero.content.header=Realms Plus로 애드온 이용하기    	#### {StrContains="Realms"}
 hbui.RealmsPDPScreen.hero.content.text=Realms Plus 구독 서비스에는 Marketplace Pass가 포함되어 매월 업데이트되는 마켓플레이스 콘텐츠를 이용할 수 있습니다. 스킨, 캐릭터 만들기 아이템, 월드와 더불어 시도할 수 있는 새로운 콘텐츠가 끊이지 않습니다.  	#### {MaxLength="250"} {StrContains="Realms"}
 hbui.RealmsPDPScreen.hero.content.title=150개 이상의 마켓플레이스 팩을 이용하세요    	#### {MaxLength="56"}
 hbui.RealmsPDPScreen.hero.perks.header=Realms에 포함된 추가 혜택    	#### {StrContains="Realms"}
@@ -2435,12 +2525,16 @@ hbui.RealmsPDPScreen.splash.text=나만의 Minecraft 서버를 실행하세요! 
 hbui.RealmsPDPScreen.splash.title=항상 온라인 상태인 나만의 서버    	#### {MaxLength="50"}
 hbui.RealmsPDPScreen.splash.tryFree=무료로 체험하세요    	#### {MaxLength="20"}
 hbui.RealmsPDPScreen.title=Minecraft Realms 	#### {StrContains="Realms"}
+hbui.RealmsPlanPickerScreen.banners.coreSubscriptionsLimit=이 플랫폼에서 Realms Core 정기 구독 서비스 한도에 도달했습니다		#### {MaxLength="150"} {StrContains="Realms Core"}
+hbui.RealmsPlanPickerScreen.banners.plusSubscriptionsLimit=이 플랫폼에서 Realms Plus 정기 구독 서비스 한도에 도달했습니다		#### {MaxLength="150"} {StrContains="Realms Plus"}
 hbui.RealmsPlanPickerScreen.buyButtonCore=Realms Core 구매				#### {StrContains="Realms"}
 hbui.RealmsPlanPickerScreen.buyButtonCoreNarrationHint=아래로 이동해 Realms Core에 대해 자세히 알아보세요.			#### {StrContains="Realms"}
 hbui.RealmsPlanPickerScreen.buyButtonPlus=Realms Plus 구매				#### {StrContains="Realms"}
 hbui.RealmsPlanPickerScreen.buyButtonPlusNarrationHint=아래로 이동해 Realms Plus에 대해 자세히 알아보세요.			#### {StrContains="Realms"}
 hbui.RealmsPlanPickerScreen.buyRealmsPlusButtonTrial=무료 체험판	#
 hbui.RealmsPlanPickerScreen.currency=$	#
+hbui.RealmsPlanPickerScreen.emptyStates.maxedOutSubscriptions.body=이 플랫폼에서 Realms Core 및 Realms Plus 모두의 정기 구독 서비스 한도에 도달했습니다.		#### {MaxLength="150"} {StrContains="Realms Core"} {StrContains="Realms Plus"}
+hbui.RealmsPlanPickerScreen.emptyStates.maxedOutSubscriptions.title=이 플랫폼에서의 Realms 정기 구독 서비스 한도 도달		#### {MaxLength="150"} {StrContains="Realms"}
 hbui.RealmsPlanPickerScreen.error.body=Minecraft와 장치의 플랫폼 상점에 동일한 계정으로 로그인했는지 확인하고 다시 시도하세요.	#
 hbui.RealmsPlanPickerScreen.error.button=다시 시도	#
 hbui.RealmsPlanPickerScreen.error.title=플랫폼 상점에 접속할 수 없습니다	#
@@ -2567,14 +2661,14 @@ hbui.RealmsStories.errorModal.storyPostFailedMessage=Realm 피드에 스토리�
 hbui.RealmsStories.feed=피드	#
 hbui.RealmsStories.feed.addStory=스토리 추가		#### The term 'Story' represents a social feature, similar to a 'Post' on social media. Translations should use a term more fitting for a social posting rather than a story book, for example. {MaxLength='15'}
 hbui.RealmsStories.feed.emptyPlayerActivityFeed=최근 활동 없음	#
-hbui.RealmsStories.feed.emptyStoryFeedText=귀하의 Realm의 스크린샷과 토론이 여기에 표시됩니다. '새 이야기' 버튼을 눌러 게시물을 작성하세요.	#
+hbui.RealmsStories.feed.emptyStoryFeedText=귀하의 Realm의 스크린샷과 토론이 여기에 표시됩니다. '스토리 추가' 버튼을 눌러 게시물을 작성하세요.	#
 hbui.RealmsStories.feed.emptyStoryFeedTitle=스토리 피드 게시물 없음	#
 hbui.RealmsStories.feed.fullImage=%1$s 스토리 전체 이미지	#
 hbui.RealmsStories.feed.fullImageClose=닫기	#
 hbui.RealmsStories.feed.fullImageRole=스크린	#
 hbui.RealmsStories.feed.gamerTag=게이머태그. %1$s/%2$s	#
-hbui.RealmsStories.feed.guestAccountNotificationBanner.line1=Realm 멤버는 더 많은 Realms Stories 기능을 이용할 수 있습니다.	#
-hbui.RealmsStories.feed.guestAccountNotificationBanner.line2=참가하려면 Realm 소유자에게 초대를 요청하세요.	#
+hbui.RealmsStories.feed.guestAccountNotificationBanner=분할 화면 플레이어는 좋아요, 댓글, 새로운 스토리 추가 기능을 이용할 수 없습니다 	#### {MaxLength="120"}
+hbui.RealmsStories.feed.inRealm=Realm에서 플레이    	#### Indication that the player/user is currently playing on the Realm(Product name for hosted server). {MaxLength=100}{StrContains="Realm"}
 hbui.RealmsStories.feed.newHoursLogged=%1$s 새로운 시간 기록	#
 hbui.RealmsStories.feed.newMinutesLogged=%1$s 새로운 시간(분) 기록	#
 hbui.RealmsStories.feed.offline=오프라인	#
@@ -2713,9 +2807,10 @@ hbui.RealmsStories.likePost=게시글에 좋아요	#
 hbui.RealmsStories.members=멤버	#
 hbui.RealmsStories.members.allMembers=모든 멤버	#
 hbui.RealmsStories.members.enumeration=%1$s/%2$s	#
-hbui.RealmsStories.members.filter.title=필터 옵션	#
+hbui.RealmsStories.members.filter.title=Realm 멤버 필터링	#
 hbui.RealmsStories.members.fromAtoZ=알파벳순	#
 hbui.RealmsStories.members.fromZtoA=알파벳 역순	#
+hbui.RealmsStories.members.inRealmMembers=Realm에서 플레이 중인 멤버		#### a option choice to filter members list by those who are currently playing in the Realm(Product name for host server). {MaxLength=60}{StrContains="Realm"}
 hbui.RealmsStories.members.leastRecentlyPlayed=최근 가장 적게 플레이	#
 hbui.RealmsStories.members.manage=멤버 관리	#
 hbui.RealmsStories.members.member=멤버	#
@@ -2734,7 +2829,7 @@ hbui.RealmsStories.members.searchResult.hint.oneResult=검색 결과 1개	#
 hbui.RealmsStories.members.searchResult.name=검색 결과	#
 hbui.RealmsStories.members.searchResult.role=스크린	#
 hbui.RealmsStories.members.section=부분 기호	#
-hbui.RealmsStories.members.sort.title=정렬 옵션	#
+hbui.RealmsStories.members.sort.title=Realm 멤버 정렬	#
 hbui.RealmsStories.members.visitor=방문자	#
 hbui.RealmsStories.members.warning=이 Realm은 너무 인기가 많아 모든 멤버를 나열할 수 없습니다	#
 hbui.RealmsStories.members.warning.optedOut=이 Realm은 이용자 수가 너무 많아 탈퇴한 모든 멤버를 나열할 수 없습니다	#
@@ -2744,10 +2839,14 @@ hbui.RealmsStories.messages.timelineEmpty.body=Realm에서 플레이하고 타�
 hbui.RealmsStories.messages.timelineEmpty.title=이용 가능한 데이터 없음	#
 hbui.RealmsStories.messages.timelineOff.body=Realm 소유자가 이 Realm의 타임라인을 비활성화했습니다.	#
 hbui.RealmsStories.messages.timelineOff.title=타임라인 설정이 해제되었습니다.	#
-hbui.RealmsStories.messages.timelineOptIn.body=다른 멤버는 언제 플레이하는지 확인하고, 그들이 만든 작품을 보거나 다음에 같이 플레이할 계획을 세우세요! 타임라인에는 플레이어가 언제 Realm에 있었는지 표시됩니다. 색깔 블록이 클수록 더 오래 플레이했다는 뜻입니다.	#
+hbui.RealmsStories.messages.timelineOptIn.body=다른 멤버는 언제 플레이하는지 확인하고, 그들이 만든 작품을 보거나 다음에 같이 플레이할 계획을 세우세요! 타임라인에는 플레이어가 언제 Realm에 있었는지 표시됩니다. 색깔 블록이 클수록 더 오래 플레이했다는 뜻입니다.		#### {StrContains="Realm"} {MaxLength="250"} This is an explanation of the Realms Timeline feature.
 hbui.RealmsStories.messages.timelineOptIn.button=사용합니다	#
+hbui.RealmsStories.messages.timelineOptIn.maybeLaterButton=다음에 하기		#### {MaxLength="20"}  Player is currently declining to opt into the timeline.
 hbui.RealmsStories.messages.timelineOptIn.members=사용하는 멤버: %1$s/%2$s	#
 hbui.RealmsStories.messages.timelineOptIn.membersNarration=사용하는 멤버: %1$s/%2$s	#
+hbui.RealmsStories.messages.timelineOptIn.ownerRequire.body=타임라인에 가입하여 Realm에서 플레이를 시작하세요. 	#### {StrContains="Realm"} {MaxLength="100"} Instructing the player they must opt into the Realms timeline feature before they are allowed to play on the Realm they are trying to join.
+hbui.RealmsStories.messages.timelineOptIn.ownerRequire.title=Realm 소유자가 타임라인에 가입해야 합니다		#### {StrContains="Realm"} {MaxLength="100"}Secondary page title. The Owner of the realm the player wants to play on requires them to opt into the Timeline feature.
+hbui.RealmsStories.messages.timelineOptIn.requiredTitle=타임라인에 가입		#### {MaxLength="50"}Title for the page that explains that the player needs to opt into the Timeline feature before they can play on the Realm they are attempting to join
 hbui.RealmsStories.messages.timelineOptIn.textblock=텍스트 차단	#
 hbui.RealmsStories.messages.timelineOptIn.title=선택하여 타임라인 확인	#
 hbui.RealmsStories.messages.title=Realms Stories를 불러올 수 없습니다! 	#### {StrContains="Realms Stories"}
@@ -2867,6 +2966,8 @@ hbui.RealmsStories.settings.realmWideSettings.header=2. Realm 단위 설정	#
 hbui.RealmsStories.settings.realmWideSettings.member.header=Realm 단위 설정	#
 hbui.RealmsStories.settings.realmWideSettings.playerTimeline.description=모든 사람이 타임라인을 볼 수 있도록 허용합니다.	#
 hbui.RealmsStories.settings.realmWideSettings.playerTimeline.title=타임라인	#
+hbui.RealmsStories.settings.realmWideSettings.playerTimelineRequirement.description=Realm에서 플레이하려면 모두 타임라인에 가입해 있어야 합니다. 	#### {StrContains="Realm"} {MaxLength="100"} Description text for the feature a Realm owner can enable that requires members of this Realm to opt into the Timeline feature before they are allowed to play on the Realm
+hbui.RealmsStories.settings.realmWideSettings.playerTimelineRequirement.title=타임라인 가입 필요		#### {MaxLength="30"}Title for the feature a Realm owner can enable that requires members of this Realm to opt into the Timeline feature before they are allowed to play on the Realm
 hbui.RealmsStories.settings.realmWideSettings.realmEvents.description=Minecraft가 게임 플레이 성과에 대한 스토리를 게시하도록 허용합니다. 이 설정은 Realm을 닫고 다시 열면 활성화됩니다(편집 > Realm 관리 > 구독 > Realm 닫기. 그런 다음 Realm 다시 열기).	#
 hbui.RealmsStories.settings.realmWideSettings.realmEvents.title=Realm 이벤트	#
 hbui.RealmsStories.settings.realmWideSettings.storyCoordinates.description=이벤트가 시작될 때 월드의 '좌표 표시' 설정이 활성화된 경우 특정 Realm 이벤트의 좌표를 표시합니다.	#
@@ -2922,45 +3023,66 @@ hbui.RenderDistanceWarningRoute.confirmInputLegend=확인	#
 hbui.RenderDistanceWarningRoute.title=성능 최적화	#
 hbui.RenderDistanceWarningRoute.useCurrentSettingsButton=현재 설정 사용	#
 hbui.RenderDistanceWarningRoute.useRecommendedSettingsButton=권장 설정 사용	#
+hbui.ReportPlayerRoute.areaPanel.description=어디에서 그런 일이 발생했는지 알려주시면 해당 사건을 조사하는 데 도움이 됩니다. 	#### Description of a dropdown that allows players to select the area in which they saw the issue {MaxLength="100"}
+hbui.ReportPlayerRoute.areaPanel.title=부적절한 행동을 어디에서 발견하셨나요? 	#### Title of a dropdown that allows players to select the area in which they saw the issue {MaxLength="50"}
 hbui.ReportPlayerRoute.attestation=이 정보는 본인이 아는 한 정확하고 완전합니다.	#
 hbui.ReportPlayerRoute.bullying=괴롭힘 또는 따돌림	#
+hbui.ReportPlayerRoute.buttonLegend=선택 	#### Select this button {MaxLength="16"}
 hbui.ReportPlayerRoute.cancel=취소	#
 hbui.ReportPlayerRoute.chatSelectionDescription=신고할 메시지 선택	#
 hbui.ReportPlayerRoute.chatSelectionLimitReached=선택 가능한 최대 메시지 수	#
+hbui.ReportPlayerRoute.chatSelectionPanel.description=신고할 메시지 선택 	#### Description of a panel that allows players to select the specific chat messages in a report {MaxLength="50"}
+hbui.ReportPlayerRoute.chatSelectionPanel.limitReached=선택 가능한 최대 메시지 수 	#### Error message that shows up if players have selected the maximum messages {MaxLength="50"}
+hbui.ReportPlayerRoute.chatSelectionPanel.title=채팅 메시지 신고 	#### Title of a panel that allows players to select the specific chat messages in a report {MaxLength="50"}
 hbui.ReportPlayerRoute.cheating=부정 행위	#
 hbui.ReportPlayerRoute.childSexualExploitationOrAbuse=아동 성적 착취 또는 학대	#
+hbui.ReportPlayerRoute.commentPanel.description=해당 사용자를 신고하려고 합니다. 무슨 일이 일어났는지 설명하는 댓글을 다세요. 	#### Description of a text field for players to write a report comment {MaxLength="100"}
+hbui.ReportPlayerRoute.commentPanel.placeholder=자세히 설명해 주세요 	#### Placeholder for the report comment text field {MaxLength="32"}
+hbui.ReportPlayerRoute.commentPanel.title=추가 의견(선택 사항) 	#### Title of a text field for players to write a report comment {MaxLength="32"}
 hbui.ReportPlayerRoute.confirmSelection=선택 확인	#
 hbui.ReportPlayerRoute.drugsOrAlcohol=약물 또는 알코올	#
+hbui.ReportPlayerRoute.error.buttonText=돌아가기 	#### Go back from a route error {MaxLength="16"}
+hbui.ReportPlayerRoute.error.text=내부 오류가 발생했습니다 	#### todo {MaxLength="50"}
+hbui.ReportPlayerRoute.error.title=내부 오류 	#### TItle for generic route error window {MaxLength="32"}
 hbui.ReportPlayerRoute.friendWarningText=친구 %1$s 님을 정말 신고하시겠습니까? 허위 신고를 제출하는 것은 커뮤니티 규정에 위배됩니다.	#
 hbui.ReportPlayerRoute.galleryScreenshot=갤러리 스크린샷	#
 hbui.ReportPlayerRoute.hateSpeech=증오 발언	#
+hbui.ReportPlayerRoute.hideContent=콘텐츠 숨기기 	#### Toggle to hide the screenshot or content that is being reported {MaxLength="32"}
 hbui.ReportPlayerRoute.imminentHarm=타인에게 위해를 가할 것이라고 위협함	#
 hbui.ReportPlayerRoute.impersonation=사칭	#
 hbui.ReportPlayerRoute.nameOrGamertag=플레이어 이름 또는 게이머태그	#
 hbui.ReportPlayerRoute.next=계속하기	#
 hbui.ReportPlayerRoute.nonConsensualIntimateImagery=합의되지 않은 사적인 이미지	#
+hbui.ReportPlayerRoute.reasonPanel.description=당장 위급한 상황에 처한 사람이 있다면 망설이지 말고 지역 응급 서비스에 연락하세요. 	#### Description for a dropdown where players will select the reason they are filing a report {MaxLength="100"}
+hbui.ReportPlayerRoute.reasonPanel.title=%1$s 님을 신고하는 이유를 알려주시겠어요? 	#### Title for a dropdown where players will select the reason they are filing a report {MaxLength="100"}
 hbui.ReportPlayerRoute.report=신고	#
 hbui.ReportPlayerRoute.reportConfirmation=Minecraft를 안전하게 보호하는 데 도움을 주셔서 감사합니다. 신고해주신 내용을 최대한 빨리 검토하여 필요한 경우 적절한 조치를 취하겠습니다.	#
+hbui.ReportPlayerRoute.reportConfirmation.title=신고 완료 	#### Confirmation window title for report {MaxLength="100"}
 hbui.ReportPlayerRoute.reportLimitWarningText1=다른 플레이어를 신고하느라 바쁘신 것 같네요. Minecraft를 안전하고 따뜻한 공간으로 만드는 데 도움을 주셔서 감사합니다!	#
 hbui.ReportPlayerRoute.reportLimitWarningText2=허위 신고하는 것은 커뮤니티 기준에 위배된다는 점을 명심하세요.	#
+hbui.ReportPlayerRoute.reportPanel.narration.disabledHint=신고를 제출하려면 양식을 작성해야 합니다 	#### Error message when trying to submit report when form is not complete {MaxLength="100"}
+hbui.ReportPlayerRoute.reportPanel.narration.enumeration=%1$s/%2$s 	#### Enumeration for buttons in panel {MaxLength="32"}
 hbui.ReportPlayerRoute.selfHarmOrSuicide=자해 또는 자살	#
 hbui.ReportPlayerRoute.sexuallyInappropriate=성적 부적절함	#
+hbui.ReportPlayerRoute.sidePanel.text=%1$s 신고하기 	#### Content of the side panel for reporting {MaxLength="32"}
 hbui.ReportPlayerRoute.terrorismOrViolentExtremism=테러 또는 폭력적인 극단주의	#
-hbui.ReportPlayerRoute.title=%s 신고	#
-hbui.ReportPlayerRoute.unknownGamertag=알 수 없음	#
+hbui.ReportPlayerRoute.title=부적절한 행위 신고 	#### Title for report route {MaxLength="32"}
 hbui.ReportPlayerRoute.unsportingBehavior=단독 플레이	#
 hbui.ReportPlayerRoute.wantToReportThem=신고를 원합니다	#
 hbui.ReportPlayerRoute.warningReportAnyway=계속 신고하기	#
-hbui.ReportPlayerRoute.warningTitle=%s 님을 신고하시겠습니까?	#
+hbui.ReportPlayerRoute.warningTitle=%1$s 님을 신고할까요? 	#### Title for warning modal for reporting a friend {MaxLength="32"}
 hbui.ReportPlayerRoute.whereReport=부적절한 행동을 어디에서 발견하셨나요?	#
 hbui.ReportPlayerRoute.whereReportDescription=어디에서 그런 일이 발생했는지 알려주시면 해당 사건을 조사하는 데 도움이 됩니다.	#
-hbui.ReportPlayerRoute.whyReport=%s 님을 신고하는 이유를 알려주세요	#
+hbui.ReportPlayerRoute.whyReport=%1$s 님을 신고하는 이유를 알려주시겠어요? 	####Placeholder for dropdown that allows players to select the area in which they saw the issue {MaxLength="50"}
 hbui.ReportPlayerRoute.xbox.report.area.chat=채팅 메시지	#
 hbui.ReportPlayerRoute.xbox.report.area.gameplay=게임 플레이	#
 hbui.ReportPlayerRoute.xbox.report.area.ingame=게임 내 창작	#
 hbui.ReportPlayerRoute.xbox.report.area.nameOrGamertag=플레이어 이름 또는 게이머태그	#
 hbui.ReportPlayerRoute.xbox.report.area.other=기타	#
 hbui.ReportPlayerRoute.xbox.report.area.skin=플레이어 스킨	#
+hbui.ScreenshotDeleteErrorModal.close=닫기		#### {MaxLength=40} Closes the modal that has appeared. This was previously ScreenshotGalleryRoute.deleteScreenshotsErrorModal.close
+hbui.ScreenshotDeleteErrorModal.text=스크린샷을 삭제할 수 없습니다. 인터넷 연결을 확인한 후 다시 시도하세요. 	#### {MaxLength=1000} Indicates that an operation requested by the user to delete a screenshot in their gallery has failed. This was previously ScreenshotGalleryRoute.deleteScreenshotsErrorModal.text
+hbui.ScreenshotDeleteErrorModal.title=스크린샷 삭제 실패		#### {MaxLength=40} Indicates that an operation requested by the user to delete a screenshot in their gallery has failed. This was previously ScreenshotGalleryRoute.deleteScreenshotsErrorModal.title
 hbui.ScreenshotDeleteModal.cancel=취소	#
 hbui.ScreenshotDeleteModal.delete=삭제	#
 hbui.ScreenshotDeleteModal.text=이 작업은 되돌릴 수 없습니다. 이 스크린샷을 삭제하시겠습니까?	#
@@ -3004,7 +3126,7 @@ hbui.ScreenshotGalleryContainer.cancel=취소	#
 hbui.ScreenshotGalleryContainer.confirmButtonText=확인	#
 hbui.ScreenshotGalleryContainer.deleteButtonText=%1$s개의 스크린샷 삭제	#
 hbui.ScreenshotGalleryContainer.deleteButtonTextSingular=%1$s개의 스크린샷 삭제	#
-hbui.ScreenshotGalleryContainer.featured=추천 (%1$s)	#
+hbui.ScreenshotGalleryContainer.featured=추천(%1$s)	#
 hbui.ScreenshotGalleryContainer.filterOptions=필터 옵션	#
 hbui.ScreenshotGalleryContainer.headerTextWithNumbers=%1$s (%2$s/%3$s)	#
 hbui.ScreenshotGalleryContainer.narration.deletionClickInstructions=삭제 표시를 하려면 누르세요.	#
@@ -3017,10 +3139,10 @@ hbui.ScreenshotGalleryContainer.narration.selectionClickInstructions=스크린�
 hbui.ScreenshotGalleryContainer.newestFirst=최신 항목 순으로 나열	#
 hbui.ScreenshotGalleryContainer.oldestFirst=오름차순	#
 hbui.ScreenshotGalleryContainer.optionsEnumeration=%1$s/%2$s	#
-hbui.ScreenshotGalleryContainer.showAll=모든 (%1$s) 표시	#
-hbui.ScreenshotGalleryContainer.showcased=쇼케이스 (%1$s)	#
+hbui.ScreenshotGalleryContainer.showAll=모두 표시(%1$s)	#
+hbui.ScreenshotGalleryContainer.showcased=쇼케이스(%1$s)	#
 hbui.ScreenshotGalleryContainer.sortOptions=정렬 옵션	#
-hbui.ScreenshotGalleryContainer.unmarked=표시되지 않은 (%1$s)	#
+hbui.ScreenshotGalleryContainer.unmarked=체크되지 않음(%1$s)	#
 hbui.ScreenshotGalleryError.accessDeniedMessage=다른 플레이어의 갤러리를 볼 권한이 없습니다.	#
 hbui.ScreenshotGalleryError.accessDeniedTitle=접근이 거부되었습니다	#
 hbui.ScreenshotGalleryError.close=닫기	#
@@ -3061,9 +3183,6 @@ hbui.ScreenshotGalleryItem.showcased=전시됨	#
 hbui.ScreenshotGalleryMenu.optionsEnumeration=%1$s/%2$s	#
 hbui.ScreenshotGalleryRoute.deleteScreenshots=스크린샷 삭제	#
 hbui.ScreenshotGalleryRoute.deleteScreenshotsButton=스크린샷 삭제	#
-hbui.ScreenshotGalleryRoute.deleteScreenshotsErrorModal.close=닫기	#
-hbui.ScreenshotGalleryRoute.deleteScreenshotsErrorModal.text=스크린샷을 삭제할 수 없습니다. 인터넷 연결을 확인한 후 다시 시도하세요.	#
-hbui.ScreenshotGalleryRoute.deleteScreenshotsErrorModal.title=스크린샷 삭제 실패	#
 hbui.ScreenshotGalleryRoute.deleteScreenshotsLink=스크린샷 삭제	#
 hbui.ScreenshotGalleryRoute.deleteScreenshotsModal.cancelButton=취소	#
 hbui.ScreenshotGalleryRoute.deleteScreenshotsModal.deleteButton=삭제	#
@@ -3112,53 +3231,31 @@ hbui.ShowcaseDetailsRoute.title=%1$s 스크린샷 세부 정보	#
 hbui.SideStoryPostContainer.hint=%1$s의 스토리	#
 hbui.SideStoryPostContainer.name=스토리 게시물	#
 hbui.SideStoryPostContainer.role=텍스트 차단	#
-hbui.SignInAchievementsRoute.altSignInHeader=도전 과제를 달성하세요	#
-hbui.SignInAchievementsRoute.altSignInPrompt=로그인하거나 무료로 가입하여 도전 과제를 달성하세요	#
 hbui.SignInAchievementsRoute.laterButton=다음에 하기	#
 hbui.SignInAchievementsRoute.signInButton=지금 로그인	#
-hbui.SignInAchievementsRoute.signInHeader=도전 과제를 획득하려면 로그인하세요.	#
-hbui.SignInAchievementsRoute.signInList1=Minecraft 진행 상황과 마일스톤을 추적하세요	#
-hbui.SignInAchievementsRoute.signInList2=독점 캐릭터 만들기 아이템을 잠금 해제하세요	#
-hbui.SignInAchievementsRoute.signInList3=성취한 도전 과제를 친구들에게 자랑하세요	#
-hbui.SignInAchievementsRoute.signInPrompt=나무를 쳤나요? 첫날 밤에 생존했나요? 로그인하여 도전 과제를 획득하세요!	#
-hbui.SignInAddFriendRoute.altSignInHeader=다른 플랫폼에서 친구를 찾으세요	#
-hbui.SignInAddFriendRoute.altSignInPrompt=다른 플랫폼의 친구들과 연락하려면 로그인하거나 무료로 가입하세요	#
+hbui.SignInAchievementsRoute.signInHeader=도전 과제를 달성하세요 	####Short Header for modal, player can earn achievements{MaxLength=55}
+hbui.SignInAchievementsRoute.signInPrompt=로그인하거나 무료로 가입하여 도전 과제를 달성하세요.    	####Prompt encouraging player to sign in, informing them that signing in will allow them to earn achievements{MaxLength=1000}
 hbui.SignInAddFriendRoute.laterButton=다음에 하기	#
 hbui.SignInAddFriendRoute.signInButton=지금 로그인	#
-hbui.SignInAddFriendRoute.signInHeader=크로스 플랫폼 친구 찾기	#
-hbui.SignInAddFriendRoute.signInList1=친구를 추가하고 월드에 초대하세요	#
-hbui.SignInAddFriendRoute.signInList1NXPS=다른 플랫폼의 친구를 추가하고 월드에 초대하세요	#
-hbui.SignInAddFriendRoute.signInList2=여러 콘솔에서 친구 목록을 추적하세요	#
-hbui.SignInAddFriendRoute.signInList3=친구들에게서 Realm 초대를 받으세요	#
-hbui.SignInAddFriendRoute.signInPrompt=Minecraft에서 친구들과 함께 할 준비가 되셨나요? 지금 로그인하여 함께 플레이하세요!	#
+hbui.SignInAddFriendRoute.signInHeader=다른 플랫폼의 친구를 찾으세요  	####Header for modal, allow for searching for friends via search bar{MaxLength=55}
+hbui.SignInAddFriendRoute.signInPrompt=로그인하거나 무료로 가입하여 다른 플랫폼의 친구들과 연락하세요.  	####Prompt encouraging player to sign in, informing them that if signed in they can play multiplayer with friends on any device{MaxLength=1000}
 hbui.SignInDressingRoomRoute.laterButton=다음에 하기	#
 hbui.SignInDressingRoomRoute.signInButton=지금 로그인	#
 hbui.SignInDressingRoomRoute.signInHeader=멋진 캐릭터!	#
-hbui.SignInDressingRoomRoute.signInPrompt=로그인하여 여러 장치와 플랫폼에서 캐릭터를 저장하세요.	#
+hbui.SignInDressingRoomRoute.signInPrompt=로그인하거나 무료로 가입하여 여러 장치 및 플랫폼에 캐릭터를 저장하세요.  	####Prompt encouraging player to sign in, informing them that if signed in their character's appearance that they recently changed in the dressing room can be made available on any device{MaxLength=1000}
 hbui.SignInMarketplaceRoute.laterButton=다음에 하기	#
 hbui.SignInMarketplaceRoute.signInButton=지금 로그인	#
 hbui.SignInMarketplaceRoute.signInHeader=마켓플레이스에 오신 것을 환영합니다!	#
-hbui.SignInMarketplaceRoute.signInList1=구매한 마켓플레이스 콘텐츠와 캐릭터를 여러 플랫폼에서 액세스하세요.	#
-hbui.SignInMarketplaceRoute.signInPrompt=로그인하여 구매 내역을 계정에 저장하여 언제 어디서든지 사용하세요.	#
-hbui.SignInPlayOnServerRoute.altSignInHeader=추천 서버에서 플레이	#
-hbui.SignInPlayOnServerRoute.altSignInPrompt=추천 서버에서 플레이하려면 로그인하거나 무료로 가입하세요	#
+hbui.SignInMarketplaceRoute.signInPrompt=로그인하거나 무료로 가입하여 구매 내역을 계정에 저장하여 언제 어디서든지 사용하세요.  	####Prompt encouraging player to sign in, informing them that if signed in their Marketplace purchases can be saved to their account{MaxLength=1000}
 hbui.SignInPlayOnServerRoute.laterButton=다음에 하기	#
 hbui.SignInPlayOnServerRoute.signInButton=지금 로그인	#
-hbui.SignInPlayOnServerRoute.signInHeader=추천 서버에서 플레이하려면 로그인하세요	#
-hbui.SignInPlayOnServerRoute.signInList1=끊임없는 온라인 세계에서 수천 명의 플레이어와 함께하세요	#
-hbui.SignInPlayOnServerRoute.signInList2=각 서버에는 고유한 미니 게임과 챌린지가 있습니다	#
-hbui.SignInPlayOnServerRoute.signInList3=하나의 계정으로 모든 플랫폼의 서버에 액세스하세요	#
-hbui.SignInPlayOnServerRoute.signInPrompt=다양한 온라인 멀티 플레이 미니 게임에 참여할 준비가 되셨나요? 추천 서버에 액세스하려면 로그인하세요!	#
-hbui.SignInSavePurchasesRoute.altSignInHeader=구매 내역을 저장하세요	#
-hbui.SignInSavePurchasesRoute.altSignInPrompt=마켓플레이스 구매 내역을 저장하려면 로그인하거나 무료로 가입하세요	#
+hbui.SignInPlayOnServerRoute.signInHeader=추천 서버에서 플레이하세요  	####Header for modal, allow player to play on big, custom featured servers made by other players{MaxLength=55}
+hbui.SignInPlayOnServerRoute.signInPrompt=로그인하거나 무료로 가입하여 추천 서버에서 플레이하세요.  	####Prompt for the player to sign in so they can play on servers{MaxLength=1000}
 hbui.SignInSavePurchasesRoute.createAccountPrompt=Microsoft 계정이 없으신가요? 지금 무료로 계정을 만드세요!	#
 hbui.SignInSavePurchasesRoute.laterButton=다음에 하기	#
 hbui.SignInSavePurchasesRoute.signInButton=지금 로그인	#
-hbui.SignInSavePurchasesRoute.signInHeader=구매 내역을 저장하려면 로그인하세요	#
-hbui.SignInSavePurchasesRoute.signInList1=모든 플랫폼에서 구매한 마켓플레이스 콘텐츠에 액세스하세요	#
-hbui.SignInSavePurchasesRoute.signInList2=여러 플랫폼에서 커스텀 캐릭터를 사용하세요	#
-hbui.SignInSavePurchasesRoute.signInList3=시스템에 문제가 발생해도 잃어버리지 않도록 구매 항목을 저장하세요	#
-hbui.SignInSavePurchasesRoute.signInPrompt=이전에 마켓플레이스에서 콘텐츠를 다운로드했거나 Minecoin을 사용한 적이 있나요? 지금 로그인하여 여러 플랫폼에서 구매 내역을 공유하세요.	#
+hbui.SignInSavePurchasesRoute.signInHeader=구매 내역을 저장하세요  	####Modal header, save marketplace skin and map entitlements{MaxLength=55}
+hbui.SignInSavePurchasesRoute.signInPrompt=로그인하거나 무료로 가입하여 마켓플레이스 구매 내역을 저장하세요.  	####Prompt encouraging player to sign in, informing them that if signed in their Marketplace purchases can be saved to their account{MaxLength=1000}
 hbui.SignInWorldsFriendsServersRoute.createAccountPrompt=Microsoft 계정이 없으신가요? 지금 무료로 계정을 만드세요!	#
 hbui.SignInWorldsFriendsServersRoute.laterButton=다음에 하기	#
 hbui.SignInWorldsFriendsServersRoute.signInButton=지금 로그인	#
@@ -3183,13 +3280,17 @@ hbui.StartFromTemplateRoute.feedbackPanel.button=피드백 보내기	#
 hbui.StartFromTemplateRoute.feedbackPanel.description=새로운 디자인을 어떻게 생각하시는지 의견을 보내주세요. 아직 제작 단계이므로 일부 기능이 없을 수도 있습니다.	#
 hbui.StartFromTemplateRoute.feedbackPanel.inputLegend=선택	#
 hbui.StartFromTemplateRoute.feedbackPanel.title=디자인 프리뷰에 오신 걸 환영합니다!	#
-hbui.StartFromTemplateRoute.getMoreButton.body=마켓플레이스에서 수백 개의 추가 템플릿을 찾으세요	#
+hbui.StartFromTemplateRoute.getMoreButton.AddOn.body=마켓플레이스에서 수백 개의 추가 템플릿과 애드온 찾기		#### Subtext on a button that leads to a store page with more content than what is shown on the current screen {MaxLength=210}
+hbui.StartFromTemplateRoute.getMoreButton.AddOn.title=새로운 템플릿과 애드온 보기		#### Main button text that leads to a store page with more content than what is shown on the current screen {MaxLength=50}
+hbui.StartFromTemplateRoute.getMoreButton.body=마켓플레이스에서 수백 개의 애드온을 찾으세요	#
 hbui.StartFromTemplateRoute.getMoreButton.title=새로운 템플릿을 발견하세요	#
 hbui.StartFromTemplateRoute.ImportModal.title=콘텐츠 가져오는 중	#
 hbui.StartFromTemplateRoute.InitializationModal.message=연결 중...	#
 hbui.StartFromTemplateRoute.InitializationModal.title=다운로드 시작	#
 hbui.StartFromTemplateRoute.InstallModal.message=설치 시작	#
 hbui.StartFromTemplateRoute.InstallModal.title=콘텐츠 설치 중(2/2)	#
+hbui.StartFromTemplateRoute.MarketplacePass.AddOn.description=Marketplace Pass 구독자용 월드 템플릿 및 애드온으로 더 멀리 나아가세요. 	#### Subtext under the title for a screen displaying content from the Marketplace Pass that players can use to create a world {MaxLength=230}{StrContains="Marketplace Pass"}
+hbui.StartFromTemplateRoute.MarketplacePass.AddOn.title=Marketplace Pass		#### Main title for a screen displaying content from the Marketplace Pass that players can use to create a world {MaxLength=50}{StrContains="Marketplace Pass"}
 hbui.StartFromTemplateRoute.MarketplacePass.description=Marketplace Pass 구독자용 월드 템플릿으로 더 멀리 나아가세요. 	#### {StrContains="Marketplace Pass"}
 hbui.StartFromTemplateRoute.MarketplacePass.imageNarration=Marketplace Pass	#
 hbui.StartFromTemplateRoute.MarketplacePass.imageRole=이미지	#
@@ -3205,6 +3306,7 @@ hbui.StartFromTemplateRoute.NoContentMessage.message=마켓플레이스에서 �
 hbui.StartFromTemplateRoute.NoContentMessage.title=보유한 콘텐츠가 없습니다... 아직은요!	#
 hbui.StartFromTemplateRoute.NoFilteredTemplatesMessage.message=맞춤법을 검사하거나 검색 범위를 좁힙니다.	#
 hbui.StartFromTemplateRoute.NoFilteredTemplatesMessage.title=일치하는 항목 없음	#
+hbui.StartFromTemplateRoute.notification.downloadComplete=템플릿 다운로드됨  	####Text for snackbar that appears when the download of a template is completed {MaxLength=40}
 hbui.StartFromTemplateRoute.OwnedByMe.description=마켓플레이스에서 구매한 모든 템플릿을 찾을 수 있습니다.	#
 hbui.StartFromTemplateRoute.OwnedByMe.downloadUnavailableModal.goBack=돌아가기	#
 hbui.StartFromTemplateRoute.OwnedByMe.downloadUnavailableModal.message=지금은 템플릿을 다운로드 할 수 없습니다. 인터넷에 연결 상태를 확인하고 다시 시도하세요.	#
@@ -3213,14 +3315,14 @@ hbui.StartFromTemplateRoute.OwnedByMe.Filters.dateAdded=추가된 날짜	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.dateOpened=열린 날짜	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.downloaded=다운로드 완료(%1$s)	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.filterTitle=필터 옵션	#
-hbui.StartFromTemplateRoute.OwnedByMe.Filters.imported=가져옴 (%1$s)	#
-hbui.StartFromTemplateRoute.OwnedByMe.Filters.marketplace=마켓플레이스에서 구매(%1$s)	#
+hbui.StartFromTemplateRoute.OwnedByMe.Filters.imported=가져옴(%1$s)	#
+hbui.StartFromTemplateRoute.OwnedByMe.Filters.marketplace=마켓플레이스에서 구매 (%1$s)	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.nameAZ=이름(내림차순)	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.nameAZ.narration=이름(A~Z).	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.nameZA=이름(오름차순)	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.nameZA.narration=이름(Z~A).	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.optionEnumeration=%1$s/%2$s	#
-hbui.StartFromTemplateRoute.OwnedByMe.Filters.showAll=모든 (%1$s) 표시	#
+hbui.StartFromTemplateRoute.OwnedByMe.Filters.showAll=모두 표시(%1$s)	#
 hbui.StartFromTemplateRoute.OwnedByMe.Filters.sortingTitle=정렬 옵션	#
 hbui.StartFromTemplateRoute.OwnedByMe.Footer.backToTop=맨 위로 가기	#
 hbui.StartFromTemplateRoute.OwnedByMe.Footer.buttonEnumeration=%1$s/%2$s	#
@@ -3238,12 +3340,12 @@ hbui.StartFromTemplateRoute.OwnedByMe.searchResult.hint.noResult=검색 결과 �
 hbui.StartFromTemplateRoute.OwnedByMe.searchResult.hint.oneResult=검색 결과 1개	#
 hbui.StartFromTemplateRoute.OwnedByMe.searchResult.name=검색 결과	#
 hbui.StartFromTemplateRoute.OwnedByMe.searchResult.role=스크린	#
-hbui.StartFromTemplateRoute.OwnedByMe.title=소유한 템플릿	#
+hbui.StartFromTemplateRoute.OwnedByMe.title=보유 중인 템플릿	#
 hbui.StartFromTemplateRoute.SideMenu.cnwButton=새로운 월드 만들기	#
 hbui.StartFromTemplateRoute.SideMenu.featured=추천 제작자	#
 hbui.StartFromTemplateRoute.SideMenu.inputLegend=열기	#
 hbui.StartFromTemplateRoute.SideMenu.marketplacePass=Marketplace Pass 	#### {StrContains="Marketplace Pass"}
-hbui.StartFromTemplateRoute.SideMenu.ownedByMe=보유 중 (%1$s)	#
+hbui.StartFromTemplateRoute.SideMenu.ownedByMe=보유 중(%1$s)	#
 hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.button.DownloadFailed=닫기	#
 hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.button.Duplicate=닫기	#
 hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.button.GenericError=닫기	#
@@ -3260,6 +3362,7 @@ hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.title.GenericError=오�
 hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.title.InsufficientStorage=저장 공간이 가득 찼습니다	#
 hbui.StartFromTemplateRoute.TemplateOperationsErrorModal.title.MalformedZip=가져오기에 실패했습니다	#
 hbui.StartFromTemplateRoute.title=템플릿으로 만들기	#
+hbui.StartFromTemplateRoute.title.AddOn=제작 기반 선택		#### Title for a screen where players can select content for the base of a new world {MaxLength=45}
 hbui.StartFromTemplateRoute.TrialModeModal.button=Minecraft 구매	#
 hbui.StartFromTemplateRoute.TrialModeModal.message=수천 명의 다른 플레이어가 만든 템플릿을 가져오거나, 나만의 템플릿을 세상과 공유하세요.	#
 hbui.StartFromTemplateRoute.TrialModeModal.title=정식 버전 구매	#
@@ -3424,46 +3527,7 @@ hbui.WorldTag.experimental=실험	#
 hbui.WorldTag.hardcore=하드코어	#
 hbui.WorldTag.lan=LAN	#
 hbui.WorldTag.survival=서바이벌	#
-hbui.WorldTag.unknown=알 수 없음	#
-hbui.Accordion.closeInputLegend=닫기	#
-hbui.Accordion.openInputLegend=열기	#
-hbui.BackButton.back=뒤로	#
-hbui.BackButton.narration.backButton=뒤로 버튼	#
-hbui.BaseDropdown.close=닫기	#
-hbui.BaseDropdown.enumeration=%1$s/%2$s	#
-hbui.BaseDropdown.open=열기	#
-hbui.BaseDropdown.selected=선택됨	#
-hbui.BaseDropdown.stateCollapsed=축소됨	#
-hbui.BaseDropdown.stateExpanded=확장됨	#
-hbui.BaseDropdown.toggleElementType=옵션	#
-hbui.BaseSlider.currentValue=현재 값은	#
-hbui.BaseSlider.elementType=슬라이더	#
-hbui.BaseSlider.maxValueIs=최대 값은	#
-hbui.BaseSlider.minValueIs=최소 값은	#
-hbui.BaseSwitch.elementType=스위치	#
-hbui.BaseSwitch.narrationDisabled=비활성화	#
-hbui.BaseSwitch.off=끄기	#
-hbui.BaseSwitch.on=켜기	#
-hbui.BaseSwitch.toggle=전환	#
-hbui.BaseTextField.addedNarration=추가됨	#
-hbui.BaseTextField.deselect=선택 취소	#
-hbui.BaseTextField.hint=현재 텍스트 입력 중입니다. %1$s 내용을 입력하려면 타이핑하세요.	#
-hbui.BaseTextField.invalidNarration=유효하지 않음	#
-hbui.BaseTextField.removedNarration=제거됨	#
-hbui.BaseTextField.replacedNarration=다음으로 교체됨:	#
-hbui.BaseTextField.select=선택	#
-hbui.BaseTextField.selected=선택됨	#
-hbui.DropdownItem.elementType=아이템	#
-hbui.DropdownItem.narrationComponentType=옵션	#
-hbui.DropdownItem.select=선택	#
-hbui.DropdownItem.selected=선택됨	#
-hbui.DropdownItem.unselected=선택하지 않음	#
-hbui.ScrollView.loadingState=불러오는 중	#
-hbui.ScrollView.narrationScrollViewComponentType=콘텐츠	#
-hbui.TitleBar.Buttons.Back.inputLegend=뒤로	#
-hbui.TitleBar.Buttons.Back.narration=뒤로 버튼	#
-hbui.TitleBar.Buttons.Close.inputLegend=닫기	#
-hbui.TitleBar.Buttons.Close.narration=닫기 버튼	#
+hbui.WorldTag.unknown=알 수 없음 	#### Unknown type of Minecraft world. A known type would be eg survival or creative. {MaxLength=21}
 hbui.Editor.title=입력 매핑	#
 hbui.EditorActionBar.leftTray=왼쪽	#
 hbui.EditorActionBar.rightTray=오른쪽	#
@@ -3729,6 +3793,7 @@ hbui.EditorKeyboardSettings.tools=모달 도구	#
 hbui.EditorKeyboardSettings.viewport=뷰포트	#
 hbui.EditorKeyboardSettings.viewportDescription=선택한 뷰포트에 대한 입력 컨텍스트	#
 hbui.EditorKeyboardSettings.viewportTooltip=뷰포트 입력 컨텍스트	#
+hbui.EditorLink.elementType=링크 	####Represent UI element type for a clickable link​. {MaxLength=100}
 hbui.EditorLink.warningModal.cancel=취소	#
 hbui.EditorLink.warningModal.content=주의하세요. Minecraft에서 인증되지 않은 링크가 열립니다.	#
 hbui.EditorLink.warningModal.continue=계속하기	#
@@ -3772,6 +3837,7 @@ hbui.EditorPaletteItem.title=팔레트 아이템	#
 hbui.EditorPaletteItem.type=단순 차단	#
 hbui.EditorPaletteItem.weight=무게	#
 hbui.EditorRemotePane.narration=패널	#
+hbui.EditorRemotePane.overlayModal=오버레이 모달 	####Represents a modal panel overlaid on another panel. {MaxLength=100}
 hbui.EditorRoute.brushToolDescription=사용자 지정 브러시 자국을 색칠합니다.	#
 hbui.EditorRoute.brushToolTooltip=브러시 도구	#
 hbui.EditorRoute.stampToolDescription=월드의 한 영역을 다른 영역으로 복사합니다.	#
@@ -3787,25 +3853,45 @@ hbui.EditorStructurePanel.actionBarSortOptionBySource=소스 별	#
 hbui.EditorStructurePanel.actionBarSortOptionByTags=태그 별	#
 hbui.EditorStructurePanel.actionBarSortOptionZtoa=역 가나다순	#
 hbui.EditorStructurePanel.button=버튼	#
-hbui.EditorStructurePanel.contentElementsLabel=콘텐츠 요소	#
 hbui.EditorStructurePanel.count=%1$s/%2$s	#
 hbui.EditorStructurePanel.countLabel=개수	#
+hbui.EditorStructurePanel.deleteButton=삭제 버튼 	####Narration description for a button that deletes selected structures. {MaxLength=100}
+hbui.EditorStructurePanel.deleteModal.button.cancel=취소 	####Structure delete modal button label that closes the modal with no operation {MaxLength=100}
+hbui.EditorStructurePanel.deleteModal.button.confirm=지금 삭제 	####Structure delete modal button label that confirms delete operation {MaxLength=100}
+hbui.EditorStructurePanel.deleteModal.button.ok=확인 	####Structure delete modal button label that closes the modal with no operation {MaxLength=100}
+hbui.EditorStructurePanel.deleteModal.messageMultiple=구조물 %1$s개를 삭제할까요? 	####Modal message that indicates how many structures will be deleted {MaxLength=300}
+hbui.EditorStructurePanel.deleteModal.messageSingle="%1$s"(을)를 삭제할까요? 	####Modal message that indicates that a specific structure with a name will be deleted {MaxLength=300}
+hbui.EditorStructurePanel.deleteModal.note=참고: 가져온 팩의 구조물은 삭제할 수 없습니다(구조물을 가져온 팩을 삭제하여 구조물 목록에서 제거하세요). 	####Modal note that explains imported/read only structures cant be deleted {MaxLength=300}
+hbui.EditorStructurePanel.deleteModal.title=구조물을 삭제할까요? 	####Label a modal that opens when deleting structures. {MaxLength=100}
+hbui.EditorStructurePanel.deleteModal.warning=이 작업은 취소할 수 없습니다. 	####Modal note that warns user that deleting structures cannot be reverted {MaxLength=300}
+hbui.EditorStructurePanel.details.contentLabel=콘텐츠 	####Label for structure block contents. {MaxLength=100}
+hbui.EditorStructurePanel.details.copyId=ID를 클립보드에 복사 버튼 	####Narration description for a button that copies minecraft id of the structure. {MaxLength=100}
+hbui.EditorStructurePanel.details.deleteLabel=삭제 	####Label for a button that deletes the selected structure as a new one. {MaxLength=100}
+hbui.EditorStructurePanel.details.duplicateLabel=복제 	####Label for a button that duplicates selected the structure as a new one. {MaxLength=100}
+hbui.EditorStructurePanel.details.fileNameLabel=파일/고유 이름 	####Label for the structure file name. {MaxLength=100}
+hbui.EditorStructurePanel.details.includeInExports=내보낼 파일에 포함 	####A flag that determines if the editor structure instance should be included in export world/project. {MaxLength=100}
+hbui.EditorStructurePanel.details.itemMenu=구조물 아이템 메뉴 	####Narration text for a context menu that has structure operations. {MaxLength=100}
+hbui.EditorStructurePanel.details.minecraftIdLabel=Minecraft ID 	####Label for in game identifier for the structure. {MaxLength=100}
+hbui.EditorStructurePanel.details.nameLabel=이름 	####Label for structure display name. {MaxLength=100}
+hbui.EditorStructurePanel.details.namespaceAndSourceLabel=네임스페이스 및 소스 	####Label for an expandable button that displays structure details. {MaxLength=100}
+hbui.EditorStructurePanel.details.namespaceLabel=네임스페이스 	####Label for the structure namespace. {MaxLength=100}
+hbui.EditorStructurePanel.details.originLabel=원점 	####Label for structure origin input field. {MaxLength=100}
+hbui.EditorStructurePanel.details.replaceClipboardLabel=클립보드로 복사 	####Label for a button that replaces in level clipboard with the selected structure. {MaxLength=100}
+hbui.EditorStructurePanel.details.saveLabel=저장 	####Label for a button that saves modified structure changes. {MaxLength=100}
+hbui.EditorStructurePanel.details.sizeLabel=크기 	####Label for structure size input field. {MaxLength=100}
+hbui.EditorStructurePanel.details.sourceLabel=소스 	####Label for the source content the structure belongs to. {MaxLength=100}
+hbui.EditorStructurePanel.filterButton=필터 버튼 	####Narration description for a button that filters structure lists. {MaxLength=100}
 hbui.EditorStructurePanel.filterIconTooltip=필터	#
 hbui.EditorStructurePanel.gridViewIconTooltip=눈금선 보기	#
 hbui.EditorStructurePanel.importLabel=가져오기	#
 hbui.EditorStructurePanel.listViewIconTooltip=목록 보기	#
-hbui.EditorStructurePanel.nameLabel=이름	#
-hbui.EditorStructurePanel.namespaceAndSourceSectionHeader=네임스페이스-소스	#
 hbui.EditorStructurePanel.narration=구조물 패널	#
 hbui.EditorStructurePanel.newFromClipboardLabel=클립보드에서 새로 가져오기	#
-hbui.EditorStructurePanel.originLabel=원점	#
-hbui.EditorStructurePanel.replaceClipboardLabel=클립보드로 복사	#
-hbui.EditorStructurePanel.saveLabel=저장	#
-hbui.EditorStructurePanel.sizeLabel=크기	#
 hbui.EditorStructurePanel.sortLabel=정렬	#
 hbui.EditorStructurePanel.structureContentSectionHeader=콘텐츠 구성	#
 hbui.EditorStructurePanel.structureItem=StructureItem	#
 hbui.EditorStructurePanel.tagsSectionHeader=태그	#
+hbui.EditorStructurePanel.toggleButton=토글 버튼 	####Narration description for a button that toggles all structures to be selected or deselected. {MaxLength=100}
 hbui.EditorStructurePanel.totalBlocksLabel=총 블록	#
 hbui.EditorStructurePanel.windowTitle=구조	#
 hbui.EditorSwitch.elementType=스위치	#
@@ -3893,6 +3979,7 @@ hbui.EditorWindowPanel.collapseButton=패널 축소 버튼	#
 hbui.EditorWindowPanel.dragHandle=드래그 핸들	#
 hbui.EditorWindowPanel.elementType=패널	#
 hbui.EditorWindowPanel.expandButton=패널 확장 버튼	#
+hbui.Sample.hello=안녕하세요 %1$s!	#
 hbui.Accordion.closeInputLegend=닫기	#
 hbui.Accordion.openInputLegend=열기	#
 hbui.BackButton.back=뒤로	#
