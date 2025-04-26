@@ -166,7 +166,7 @@ accessibility.text.period=마침표	#
 accessibility.text.period.url=마침표	### Pronunciation for a period inside of a URL, as in "www dot microsoft dot com"
 accessibility.text.comma=쉼표	#
 accessibility.text.colon=콜론	#
-accessibility.text.apostrophe=아포스트로피	#
+accessibility.text.apostrophe=(')	#
 accessibility.text.semiColon=세미콜론	#
 accessibility.text.questionMark=물음표	#
 accessibility.text.quotationMark=따옴표	#
@@ -275,15 +275,15 @@ accounts.signOut.fail.hyperLink.text=더 알아보기	#
 accounts.signOut.fail.hyperLink.uri=https://aka.ms/mcedu-login	#
 
 achievement.alternativeFuel=대체 연료	#
-achievement.alternativeFuel.desc=말린 켈프 블록으로 화로에 불을 때세요.	#
+achievement.alternativeFuel.desc=말린 켈프 블록으로 화로에 불을 때세요	#
 achievement.acquireIron=최초의 철	#
-achievement.acquireIron.desc=화로나 용광로에서 철 주괴를 녹이세요.	#
+achievement.acquireIron.desc=화로나 용광로에서 철 주괴를 녹이세요	#
 achievement.bakeCake=거짓말	#
 achievement.bakeCake.desc=밀, 설탕, 우유, 달걀!	#
 achievement.blaze_rod=포화 속으로	#
 achievement.blaze_rod.desc=블레이즈가 막대기를 떨어뜨리게 하십시오	#
 achievement.bookcase=도서관 사서	#
-achievement.bookcase.desc=마법 부여대 옆에 책장을 더 놓아서 강화해보세요.	#
+achievement.bookcase.desc=마법 부여대 옆에 책장을 더 놓아서 강화해보세요	#
 achievement.breedCow=증식	#
 achievement.breedCow.desc=밀로 소 2마리를 교배시키십시오	#
 achievement.buildBetterPickaxe=업그레이드 개시	#
@@ -291,63 +291,63 @@ achievement.buildBetterPickaxe.desc=더 좋은 곡괭이를 만드세요	#
 achievement.buildFurnace=핫해 핫해	#
 achievement.buildFurnace.desc=8개의 돌로 화로를 만드세요	#
 achievement.buildHoe=농사 개시!	#
-achievement.buildHoe.desc=판자와 막대기를 사용하여 괭이를 만드십시오.	#
+achievement.buildHoe.desc=판자와 막대기를 사용하여 괭이를 만드십시오	#
 achievement.buildPickaxe=채굴 개시!	#
-achievement.buildPickaxe.desc=판자와 막대기를 사용하여 곡괭이를 만드십시오.	#
+achievement.buildPickaxe.desc=판자와 막대기를 사용하여 곡괭이를 만드십시오	#
 achievement.buildSword=공격 개시!	#
-achievement.buildSword.desc=판자와 막대기를 사용하여 검을 하나 만드십시오.	#
+achievement.buildSword.desc=판자와 막대기를 사용하여 검을 하나 만드십시오	#
 achievement.buildWorkBench=제작 개시	#
-achievement.buildWorkBench.desc=판자 4개로 작업대를 만드세요.	#
+achievement.buildWorkBench.desc=판자 4개로 작업대를 만드세요	#
 achievement.cookFish=둘이 먹다 하나가 죽어도 모를 맛	#
-achievement.cookFish.desc=생선을 잡아 요리하십시오.	#
+achievement.cookFish.desc=생선을 잡아 요리하십시오	#
 achievement.diamonds=다이아몬드!	#
-achievement.diamonds.desc=철 등급 이상의 곡괭이로 다이아몬드를 획득하세요.	#
+achievement.diamonds.desc=철 등급 이상의 곡괭이로 다이아몬드를 획득하세요	#
 achievement.diamondsToYou=다이아몬드를 그대에게!	#
-achievement.diamondsToYou.desc=다른 플레이어에게 다이아몬드를 던지십시오.	#
+achievement.diamondsToYou.desc=다른 플레이어에게 다이아몬드를 던지십시오	#
 achievement.enchantments=마법 부여자	#
-achievement.enchantments.desc=책, 흑요석, 다이아몬드로 마법 부여대를 만드세요.	#
+achievement.enchantments.desc=책, 흑요석, 다이아몬드로 마법 부여대를 만드세요	#
 achievement.exploreAllBiomes=모험의 시간	#
-achievement.exploreAllBiomes.desc=모든 바이옴을 발견하세요.	#
+achievement.exploreAllBiomes.desc=모든 바이옴을 발견하세요	#
 achievement.flyPig=돼지, 날다	#
-achievement.flyPig.desc=돼지를 타고 절벽에서 떨어지세요.	#
+achievement.flyPig.desc=돼지를 타고 절벽에서 떨어지세요	#
 achievement.fullBeacon=신호기 제작자	#
-achievement.fullBeacon.desc=완전한 신호기를 만드세요.	#
+achievement.fullBeacon.desc=완전한 신호기를 만드세요	#
 achievement.get=도전 과제 달성!	#
 achievement.ghast=전해지지 않은 러브레터	#
-achievement.ghast.desc=가스트의 공격을 쳐내서 가스트를 죽이세요.	#
+achievement.ghast.desc=가스트의 공격을 쳐내서 가스트를 죽이세요	#
 achievement.killCow=소 도축	#
-achievement.killCow.desc=소를 잡아서 가죽을 얻어보세요.	#
+achievement.killCow.desc=소를 잡아서 가죽을 얻어보세요	#
 achievement.killEnemy=몬스터 헌터	#
-achievement.killEnemy.desc=몬스터를 공격하여 물리치십시오.	#
+achievement.killEnemy.desc=몬스터를 공격하여 물리치십시오	#
 achievement.killWither=시작이야.	#
-achievement.killWither.desc=위더를 죽이세요.	#
+achievement.killWither.desc=위더를 죽이세요	#
 achievement.makeBread=갓 구운 빵	#
-achievement.makeBread.desc=밀로 빵을 만드십시오.	#
+achievement.makeBread.desc=밀로 빵을 만드십시오	#
 achievement.mineWood=최초의 나무	#
-achievement.mineWood.desc=원목 블록이 튀어나올 때까지 나무를 때리십시오.	#
+achievement.mineWood.desc=원목 블록이 튀어나올 때까지 나무를 때리십시오	#
 achievement.notification.description=도전 과제 잠금 해제됨	#
 achievement.onARail=레일 위에서	#
-achievement.onARail.desc=광산 수레를 타고 1km 이상 이동하세요.	#
+achievement.onARail.desc=광산 수레를 타고 1km 이상 이동하세요	#
 achievement.openInventory=보관함 열기	#
-achievement.openInventory.desc=%1$s키를 눌러 보관함을 여세요.	#
+achievement.openInventory.desc=%1$s키를 눌러 보관함을 여세요	#
 achievement.overkill=오버킬	#
-achievement.overkill.desc=한 번에 하트 9개의 피해를 입히세요.	#
+achievement.overkill.desc=한 번에 하트 9개의 피해를 입히세요	#
 achievement.overpowered=압도적인 힘	#
-achievement.overpowered.desc=노치의 사과를 만드세요.	#
+achievement.overpowered.desc=노치의 사과를 만드세요	#
 achievement.portal=더 깊은 곳으로	#
-achievement.portal.desc=네더로 가는 포탈을 만드세요.	#
+achievement.portal.desc=네더로 가는 포탈을 만드세요	#
 achievement.potion=물약 양조장	#
-achievement.potion.desc=물약을 하나 만드십시오.	#
+achievement.potion.desc=물약을 하나 만드십시오	#
 achievement.requires='%1$s'(이)가 필요합니다	#
 achievement.snipeSkeleton=저격 대결	#
-achievement.snipeSkeleton.desc=50m 이상의 거리에서 화살로 스켈레톤 한 마리를 처치하세요.	#
+achievement.snipeSkeleton.desc=50m 이상의 거리에서 화살로 스켈레톤 한 마리를 처치하세요	#
 achievement.spawnWither=시작이야?	#
-achievement.spawnWither.desc=위더를 소환하세요!	#
+achievement.spawnWither.desc=위더를 소환하세요	#
 achievement.taken=달성!	#
 achievement.theEnd=이걸로 끝이야?	#
-achievement.theEnd.desc=엔더로 가세요.	#
+achievement.theEnd.desc=엔더로 가세요	#
 achievement.theEnd2=끝이야.	#
-achievement.theEnd2.desc=엔더 드래곤을 격파하세요.	#
+achievement.theEnd2.desc=엔더 드래곤을 격파하세요	#
 achievement.unknown=???	#
 achievement.uninitScore=--	#
 
@@ -428,6 +428,8 @@ action.interact.brush=솔질	#
 action.interact.equipwolfarmor=늑대 갑옷 장착	#
 action.interact.removewolfarmor=늑대 갑옷 제거	#
 action.interact.repairwolfarmor=늑대 갑옷 수리	#
+action.interact.equipharness=하네스 장착	#
+action.interact.removeharness=하네스 제거	#
 
 advMode.allEntities=@e = 모든 엔티티	#
 advMode.allPlayers=@a = 모든 플레이어	#
@@ -606,6 +608,7 @@ chestScreen.header.player=보관함	#
 chestScreen.header.small=상자	#
 
 chooseRealmScreen.header=Realm 서버 선택	#
+chooseRealmScreen.addrealmbuttontext=Realm 추가		####{StrContains="Realm"}{MaxLength=18}
 chooseRealmScreen.realmsplusbuttontext=10인 플레이어 Realm 추가	#
 chooseRealmScreen.realmsbuttontext=2인 플레이어 Realm 추가	#
 
@@ -650,10 +653,10 @@ codeScreen.buttonTTS.selectEditor=편집기 선택	#
 codeScreen.buttonTTS.maximize=최대화	#
 codeScreen.buttonTTS.restore=복원	#
 codeScreen.buttonTTS.home=홈	#
-codeScreen.deprecatedIDE.title=코드 편집기 변경	####{MaxLength=27}
-codeScreen.deprecatedIDE.body=이 코드 편집기가 곧 Minecraft Education에서 사라집니다. MakeCode로 Minecraft Education 코드 모험을 계속할 수 있습니다. '자세히 알아보기'를 클릭하여 타이밍 및 코드 프로젝트 백업 방법과 같은 변경 사항에 대한 자세한 내용을 확인하세요.	####{MaxLength=1000}
-codeScreen.deprecatedIDE.button.learnMore=더 알아보기	####{MaxLength=27}
-codeScreen.deprecatedIDE.button.close=닫기	####{MaxLength=27}
+codeScreen.deprecatedIDE.title=코드 편집기 변경	####{MaxLength=35}
+codeScreen.deprecatedIDE.body=이 코드 편집기가 곧 Minecraft Education에서 사라집니다. MakeCode로 Minecraft Education 코드 모험을 계속할 수 있습니다. '자세히 알아보기'를 클릭하여 타이밍 및 코드 프로젝트 백업 방법과 같은 변경 사항에 대한 자세한 내용을 확인하세요.	####{MaxLength=330}
+codeScreen.deprecatedIDE.button.learnMore=더 알아보기	####{MaxLength=33}
+codeScreen.deprecatedIDE.button.close=닫기		####{MaxLength=33}
 
 color.black=검은색	#
 color.dark_blue=어두운 파란색	#
@@ -859,6 +862,9 @@ commands.compare.success=블록 비교: %1$d	#
 commands.compare.tooManyBlocks=지정된 영역 내 블록 수가 너무 많습니다(%1$d > %2$d)	#
 commands.compactdb.description=levelDB 로그를 명시적으로 압축합니다.	#
 commands.compactdb.success=levelDB 로그를 성공적으로 압축했습니다.	#
+commands.controlscheme.description=제어 체계를 설정하거나 지웁니다.		#### Description for the control scheme command. {MaxLength=50}
+commands.controlscheme.success=다음 플레이어에게 적용된 제어 방식: %s		#### Control scheme applied successfully message. {MaxLength=150}
+commands.controlscheme.failed=다음 플레이어에게 제어 체계를 적용하지 못했습니다: %s		#### Control scheme application failed message. {MaxLength=150}
 commands.corruptworld.description=서버에 불러온 월드가 손상됩니다.	#
 commands.corruptworld.success=월드가 손상되었습니다.	#
 commands.damage.description=지정된 엔티티에게 피해를 줍니다.	#
@@ -1330,8 +1336,8 @@ commands.scoreboard.players.set.multiple.success=%2$d명의 [%1$s]이(가) %3$d�
 commands.scoreboard.players.set.tagError=dataTag를 해석할 수 없습니다(이유: %1$s).								###
 commands.scoreboard.players.set.tagMismatch=dataTag가 %1$s와(과) 일치하지 않습니다.								###
 commands.scoreboard.players.score.notFound=%2$s에 대한 %1$s 점수를 찾을 수 없습니다.										###1: Objective Name ##2: Player Name
-commands.scoreboard.players.test.failed=점수(%1$d)가 %2$d~%3$d 범위에 속하지 않습니다.								###1: Value ##2: Min Range Value ##3: Max Range Value
-commands.scoreboard.players.test.success=점수(%1$s)가 %2$s~%3$s 범위에 속합니다.								###1: Value ##2: Min Range Value ##3: Max Range Value
+commands.scoreboard.players.test.failed=점수(%1$d)가 %2$d~007E;%3$d 범위에 속하지 않습니다.								###1: Value ##2: Min Range Value ##3: Max Range Value
+commands.scoreboard.players.test.success=점수(%1$s)가 %2$s~007E;%3$s 범위에 속합니다.								###1: Value ##2: Min Range Value ##3: Max Range Value
 commands.scoreboard.players.get.success=%1$d																###
 
 #### Scoreboards can also handle teams, which are close to what an Objective does	####
@@ -1586,9 +1592,9 @@ commands.camera.invalid.color=페이드 색상 값은 0에서 255 사이의 정�
 commands.camera.invalid.easing=고정식이 아닌 카메라의 감속/가속은 지원되지 않습니다	#
 commands.camera.invalid.time=페이드 지속 시간은 0초에서 10초 사이여야 합니다	#
 commands.camera.invalid.pitch=카메라 피치 (X 회전) 은 90도에서 -90도 사이여야 합니다	#
-commands.camera.invalid.view.offset=뷰 오프셋은 -64 ~ 64 사이여야 합니다	#
-commands.camera.invalid.entity.offset=엔티티 오프셋은 -64 ~ 64 사이여야 합니다	#
-commands.camera.invalid.offset.camera=개체 및 보기 오프셋은 궤도 추적 카메라에만 적용할 수 있습니다.	#
+commands.camera.invalid.view.offset=뷰 오프셋은 -64 ~007E; 64 사이여야 합니다	#
+commands.camera.invalid.entity.offset=엔티티 오프셋은 -64 ~007E; 64 사이여야 합니다	#
+commands.camera.invalid.offset.camera=엔티티 및 뷰 오프셋은 follow_orbit 카메라에서만 적용할 수 있습니다	#
 commands.camera.perspective.locked=사용자 지정 카메라를 사용하는 동안에는 시점을 변경할 수 없습니다	#
 commands.camera.perspective.option=사용자 지정 카메라가 활성화되지 않았을 때 선택한 카메라가 변경됩니다	#
 commands.world_age.description=월드의 나이(생성 후 흐른 시간)를 변경 또는 쿼리합니다.	#
@@ -1966,6 +1972,8 @@ createWorldScreen.recipeUnlocking=조합법 잠금 해제	#
 createWorldScreen.recipeUnlockingDescription=조합법 잠금 해제 기능을 활성화합니다.	#
 createWorldScreen.experimentalGameTest=베타 API	#
 createWorldScreen.experimentalGameTestDescription=추가 기능 팩에서 API 모듈의 "-beta" 버전 사용	#
+createWorldScreen.experimentalCustomComponentsV2=커스텀 컴포넌트 V2   	#### Experimental toggle for the custom components version 2 feature, enabling creators to make custom components on blocks and items{MaxLength=150}
+createWorldScreen.experimentalCustomComponentsV2Description=스크립트(V2.0.0-beta) 및 JSON(V1.21.80 이상) API를 위한 사용자 지정 구성 요소 v2를 활성화 합니다 	#### Description for custom components v2 experimental toggle explaining that scripting v2.0.0-beta and json schema v1.21.80 are required to use it{MaxLength=150}
 createWorldScreen.experimentalMolangFeatures=Molang 기능	#
 createWorldScreen.experimentalMolangFeaturesDescription=실험 기능인 Molang 쿼리와 언어 기능입니다	#
 createWorldScreen.experimentalUpdateAnnounced2023=1.21 업데이트	#
@@ -1974,13 +1982,17 @@ createWorldScreen.experimentalVillagerTradesRebalance=주민 거래 재조정	#
 createWorldScreen.experimentalVillagerTradesRebalanceDescription=주민들의 거래를 변경합니다	#
 createWorldScreen.experimentalArmadillo=아르마딜로와 늑대 갑옷	#
 createWorldScreen.experimentalArmadilloDescription=아르마딜로를 알아보고 늑대 갑옷을 여러분의 늑대에 장착하세요!	#
-createWorldScreen.experimentalY2025Drop1=드롭 1 2025	#
-createWorldScreen.experimentalY2025Drop1Description=2025년 첫 게임 드롭에서 새롭게 개선된 바이옴 및 변형된 몹을 경험하세요.	#
+createWorldScreen.experimentalY2025Drop1=2025 드롭 1	#
+createWorldScreen.experimentalY2025Drop1Description=2025년 첫 게임 드롭에서 새롭게 개선된 바이옴 및 변형된 몹을 경험하세요	#
+createWorldScreen.experimentalY2025Drop2=2025 드롭 2 	#### Name for the ui element to toggle on the Drop 2 2025 features{MaxLength=150}
+createWorldScreen.experimentalY2025Drop2Description=2025년 두 번째 게임 드롭에서 행복한 가스트를 타고 비행을 경험해보세요 	#### Description for the ui element to toggle on the Drop 2 2025 featuring the new mob: the Happy Ghast, a friendly version of the existing, hostile Ghast which can be raised by the player and be ridden upon.{MaxLength=150}
+createWorldScreen.experimentalLocatorBar=위치 표시 바 	#### Name for the ui element on the screen which shows dots showing the direction to other players{MaxLength=150}
+createWorldScreen.experimentalLocatorBarDescription=멀티플레이에서 다른 플레이어가 있는 방향을 보여줍니다 	#### Text providing description of the ui element on the screen, showing the direction to other players{MaxLength=150}
 createWorldScreen.worldPreferences=월드 환경 설정	#
 createWorldScreen.startWithMap=시작과 함께 지도 지급	#
 createWorldScreen.defaultName=내 월드	#
 createWorldScreen.create=만들기	#
-createWorldScreen.createOnRealms=Realm 서버에 생성	#
+createWorldScreen.createOnRealms=Realm 서버에 생성하기	#### {StrContains=realms} {MaxLength=70}
 createWorldScreen.delete=삭제	#
 createWorldScreen.deleteWorld=월드 삭제	#
 createWorldScreen.delete.desc=월드를 영구적으로 삭제합니다.	#
@@ -2006,7 +2018,7 @@ createWorldScreen.header.general.project=프로젝트	#
 createWorldScreen.header.general.exportSettings=설정 내보내기	#
 createWorldScreen.header.general.exportSettings.description=§7일부 기능은 편집 세션 중에 재정의될 수 있지만 내보낼 때는 완전히 적용됩니다.	#
 createWorldScreen.header.local=월드 생성하기	#
-createWorldScreen.header.realms=Realm 서버 생성하기	#
+createWorldScreen.header.realms=Realm 서버 생성하기	#### {StrContains=realms} {MaxLength=70}
 createWorldScreen.header.realmsReset=Realm을 리셋하시겠습니까?	#
 createWorldScreen.levelName=이름	#
 createWorldScreen.levelSeed=시드	#
@@ -2017,8 +2029,8 @@ createWorldScreen.seed.desc=시드를 입력해서 같은 지형을 만드십시
 createWorldScreen.showCoordinates=좌표 보기	#
 createWorldScreen.showDaysPlayed=플레이 일수 표시	#
 createWorldScreen.worldType=월드 유형	#
-createWorldScreen.randomtickspeed=무작위 시간 속도	#
-createWorldScreen.randomtickspeed.reset=무작위 시간 속도 초기화	#
+createWorldScreen.randomtickspeed=무작위 틱 속도	#
+createWorldScreen.randomtickspeed.reset=무작위 틱 속도 초기화	#
 createWorldScreen.serverSimDistance=시뮬레이션 거리	#
 createWorldScreen.serverSimDistanceFormat=%s 청크	#
 createWorldScreen.playerSleepPercentage=밤을 건너뛰는 데 필요한 플레이어 수	#
@@ -2030,7 +2042,7 @@ createWorldScreen.disconnectedXboxLive=Microsoft 서비스에 연결되어 있�
 createWorldScreen.clearPlayerData.button=플레이어 데이터 지우기	#
 createWorldScreen.clearPlayerData.title=월드에서 플레이어 데이터를 삭제할까요?	#
 createWorldScreen.clearPlayerData.body1=월드에서 모든 플레이어 데이터를 삭제하려면 "모든 플레이어 데이터"를 선택하세요. 다음에 플레이어가 그 월드에 입장하면 완전히 새로운 기본 데이터를 가지고 시작합니다.	#
-createWorldScreen.clearPlayerData.body2="플레이어 데이터 유지"를 선택하면 현재 데이터(보관함 아이템 및 위치)가 유지되며 그 데이터를 '월드 소유자'에 적용합니다. 월드 소유자란 로컬에서 이 월드를 불러오는 플레이어 또는 월드가 있는 Realm의 소유자입니다. 	#
+createWorldScreen.clearPlayerData.body2="플레이어 데이터 유지"를 선택하면 현재 데이터(보관함 아이템 및 위치)가 유지되며 그 데이터를 '월드 소유자'에 적용합니다. 월드 소유자란 로컬에서 이 월드를 불러오는 플레이어 또는 월드가 있는 Realm의 소유자입니다. 	#### {MaxLength=650}
 createWorldScreen.clearPlayerData.all=모든 플레이어 데이터	#
 createWorldScreen.clearPlayerData.allExceptLocal=플레이어 데이터 유지	#
 createWorldScreen.clearPlayerData.cancel=취소	#
@@ -2048,10 +2060,10 @@ createWorldScreen.eduCloud.resolution.title=지금 업로드하시겠습니까?	
 createWorldScreen.eduCloud.resolution.body=클라우드에  “%1$s”을(를) 저장하는 동안 문제가 발생했습니다. 월드에서 나올 때는, 업로드가 완료될 때까지 Minecraft Education을 종료하지 마세요.%2$s이제 문제를 해결하죠.		### %1$s will be replaced by the world name. %2$s will be replaced by a newline.
 createWorldScreen.eduCloud.resolution.uploadNow=지금 업로드	#
 createWorldScreen.eduCloud.resolution.uploadOpen=업로드 & 플레이	#
-createWorldScreen.experimentalDataDrivenJigsawStructures=데이터 기반 직소 구조물	#
-createWorldScreen.experimentalDataDrivenJigsawStructuresDescription=행동 팩 월드젠 폴더에서 직소 구조물을 로딩합니다.	#
 createWorldScreen.experimentalDeferredTechnicalPreview=제작자용 렌더 드래곤 기능	#
 createWorldScreen.experimentalDeferredTechnicalPreviewDescription=디퍼드 렌더링 파이프라인을 활성화합니다. PBR 지원 리소스 팩 및 호환되는 하드웨어가 필요합니다.	#
+createWorldScreen.experimentalVibrantVisuals=선명한 비주얼    	#### Vibrant as in full of energy and life, bright and colorful, strong or resonant. Visuals as in what players can see, alternative word View. Avoid words like Graphics Mode {MaxLength="60"}
+createWorldScreen.experimentalVibrantVisualsDescription=활성화 시 게임의 시각적 효과가 향상됩니다    	#### Turning on this will make the look of the game better, avoid words that could map to Graphics Mode {MaxLength="200"}
 
 
 ## Cross Platform Toggle
@@ -2062,13 +2074,13 @@ crossPlatformToggle.startMenuScreen.enable.line2=크로스 플랫폼 플레이�
 crossPlatformToggle.startMenuScreen.disable=크로스 플랫폼 플레이 비활성화	#
 crossPlatformToggle.startMenuScreen.disable.line1=크로스 플랫폼 플레이를 비활성화하시겠습니까?	#
 crossPlatformToggle.startMenuScreen.disable.line2=앞으로 다른 플랫폼에 있는 친구들과 연결되어 플레이할 수 없게 됩니다.	#
-crossPlatformToggle.crossPlatformDisabled.friends=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 Realm, LAN 게임에 참여하여 모든 Minecraft 친구들과 플레이할 수 있게 합니다.	#
+crossPlatformToggle.crossPlatformDisabled.friends=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 Realm, LAN 게임에 참여하여 모든 Minecraft 친구들과 플레이할 수 있게 합니다.	#### {StrContains=Realms} {MaxLength=400}
 crossPlatformToggle.crossPlatformDisabled.invite=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 다른 플랫폼에 있는 친구들을 초대할 수 있게 합니다.	#
-crossPlatformToggle.crossPlatformDisabled.realms=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 Realm에 참여할 수 있게 합니다.	#
+crossPlatformToggle.crossPlatformDisabled.realms=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 Realm에 참여할 수 있게 합니다.	#### {StrContains=Realms} {MaxLength=200}
 crossPlatformToggle.crossPlatformDisabled.servers=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 서버를 추가하거나 서버에 참여할 수 있게 합니다.	#
 crossPlatformToggle.crossPlatformDisabled.multiplayerSettings=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 다른 플랫폼에 있는 친구들과 함께 플레이할 수 있게 합니다.	#
 
-realmsPendingInvitationsScreen.pendingInvitations=Realm 멤버십 초대	#
+realmsPendingInvitationsScreen.pendingInvitations=Realm 멤버십 초대	#### {StrContains=Realms} {MaxLength=75}
 realmsPendingInvitationsScreen.noInvites=보류 중인 초대가 없습니다.	#
 realmsPendingInvitationsScreen.fetchingInvites=초대장을 가져오는 중...	#
 realmsPendingInvitationsScreen.decline=거절	#
@@ -2098,8 +2110,8 @@ realmsInvitationScreen.blocked=차단됨	#
 realmsInvitationScreen.myRealm=내 Realm	#
 realmsInvitationScreen.fetchingLink=새 링크를 가져오는 중...	#
 realmsInvitationScreen.fetchingCode=새 초대 코드를 가져 오는 중...	#
-realmsInvitationScreen.shareTitle=Realm 초대	#
-realmsInvitationScreen.shareText=이 Realm에서 함께 플레이해요!	#
+realmsInvitationScreen.shareTitle=Realm 초대	#### {StrContains=realms} {MaxLength=51}
+realmsInvitationScreen.shareText=이 Realm에서 함께 플레이해요!	#### {MaxLength=90}
 realmsInvitationScreen.refreshDialogTitle=현재 링크를 비활성화할까요?	#
 realmsInvitationScreen.refreshDialogLabel=현재 링크를 비활성화하고 새로운 링크를 생성합니다. 기존 멤버는 이후에도 계속해서 Realm에 접속할 수 있습니다.	#
 realmsInvitationScreen.createLinkDialogTitle=Realm 링크를 생성할까요?	#
@@ -2116,7 +2128,7 @@ realmsInvitationScreen.kick=삭제	#
 realmsInvitationScreen.kickAndBlock=차단	#
 realmsInvitationScreen.kickPopupTitle=액세스 허용을 취소할까요?	#
 realmsInvitationScreen.kickPopupText=이 플레이어의 액세스 허용을 취소할까요? 이 설정은 언제든지 취소할 수 있습니다.	#
-realmsInvitationScreen.copyToastMessage=Realm 링크가 클립보드에 복사되었습니다!	#
+realmsInvitationScreen.copyToastMessage=Realm 링크가 클립보드에 복사되었습니다!	#### {MaxLength=120}
 realmsInvitationScreen.playerFilterTitle=플레이어 필터링	#
 realmsInvitationScreen.setPermissionFail=%s 사용자의 사용 권한을 설정할 수 없습니다.	#
 realmsInvitationScreen.setDefaultPermissionFail=기본 사용 권한을 설정할 수 없습니다.	#
@@ -2124,7 +2136,7 @@ realmsInvitationScreen.setDefaultPermissionFail=기본 사용 권한을 설정�
 realmJoining.progressTitle=Realm 참여 중...	#
 
 realmsClearMembers.clearMembersTitle=멤버를 전부 지울까요?	#
-realmsClearMembers.clearMembersText=이 Realm의 멤버 목록을 지우시겠어요?	#
+realmsClearMembers.clearMembersText=이 Realm의 멤버 목록을 지우시겠어요?		#### {MaxLength=160}
 realmsClearMembers.clear=멤버 지우기	#
 
 realmsSharingScreen.join=접속	#
@@ -2142,9 +2154,9 @@ realmsSharingScreen.cantJoinClosedMessage=%s이(가) 닫혀 있습니다. %s님�
 realmsSharingScreen.failedSignInModalTitle=이 Realm에 참여하려면 로그인하세요.	#
 realmsSharingScreen.failedSignInModalMessage=Realm에 참여하려면 Microsoft 계정에 로그인해야 합니다. 로그인하고 다시 시도하세요.	#
 realmsSharingScreen.invalidPermissionTitle=유효한 권한이 필요합니다	#
-realmsSharingScreen.unexpectedServerResponseTitle=Realm 오류	#
+realmsSharingScreen.unexpectedServerResponseTitle=Realm 오류	#### {StrContains=realms} {MaxLength=36}
 realmsSharingScreen.unexpectedServerResponseMessage=Realm에 연결하는 중에 문제가 발생했습니다. 다시 시도하세요.	#
-realmsSharingScreen.inviteLinkNotFoundTitle=Realm 오류	#
+realmsSharingScreen.inviteLinkNotFoundTitle=Realm 오류	#### {StrContains=realms} {MaxLength=36}
 realmsSharingScreen.inviteLinkNotFoundMessage=이 초대 링크는 유효하지 않습니다.	#
 
 realmsCreateScreen.title.create=Realm 서버 생성	#
@@ -2172,13 +2184,13 @@ realmsCreateScreen.consumable.trial=무료 생성!	#
 realmsCreateScreen.consumable.buy=%s로 생성	#
 realmsCreateScreen.consumable.renew=%s로 갱신	#
 realmsCreateScreen.consumable.extend=%s로 확장	#
-realmsCreateScreen.errorRealmName=Realm 이름은 비워둘 수 없습니다.	#
-realmsCreateScreen.errorRealmNameAndTOS=Realm 이름은 비워둘 수 없으며, Realm을 만들기 전에 서비스 약관을 수락해야 합니다.	#
-realmsCreateScreen.errorTOS=Realm을 생성하려면 약관 및 조건을 수락해야 합니다.	#
+realmsCreateScreen.errorRealmName=Realm 이름은 비워둘 수 없습니다.	#### {MaxLength=100}
+realmsCreateScreen.errorRealmNameAndTOS=Realm 이름은 비워둘 수 없으며, Realm을 만들기 전에 서비스 약관을 수락해야 합니다.	#### {MaxLength=280}
+realmsCreateScreen.errorTOS=Realm을 생성하려면 약관 및 조건을 수락해야 합니다.	#### {MaxLength=160}
 realmsCreateScreen.goBack=돌아가기	#
 realmsCreateScreen.contactSupport=고객 지원에 연락	#
 realmsCreateScreen.createFailed.title=오류가 발생했습니다.	#
-realmsCreateScreen.purchaseFailed=Realm 구매를 완료할 수 없습니다. 인터넷 연결 상태를 확인하세요.	#
+realmsCreateScreen.purchaseFailed=Realm 구매를 완료할 수 없습니다. 인터넷 연결 상태를 확인하세요.	#### {MaxLength=280}
 realmsCreateScreen.createFailed.content=구매에 성공했지만 지금은 Realm을 만들 수 없습니다. 가능한 한 빨리 Realm을 만들어 드리겠습니다. 나중에 이 기기를 다시 확인하세요. 이 문제가 하루 이상 발생하면 Mojang 지원팀에 문의하십시오.	#
 realmsCreateScreen.createFailed.profanity=%s(은)는 허용되지 않은 Realm 이름입니다.	#
 realmsCreateScreen.createFailed.generic=클럽 이름을 확인할 수 없습니다. 나중에 다시 시도해 주세요.	#
@@ -2190,24 +2202,24 @@ realmsCreateScreen.offerNotFound.title=상점 연결 끊어짐	#
 realmsCreateScreen.offerNotFound.content=장치와 상점의 연결이 끊어졌으며 이 혜택을 계속 사용할 수 있는지 확인할 수 없습니다. 인터넷 연결을 확인하거나 나중에 다시 시도하세요.	#
 realmsCreateScreen.offerNotAvailable.title=상점 연결 끊어짐	#
 realmsCreateScreen.offerNotAvailable.content=장치와 상점의 연결이 끊어졌으며 이 혜택을 계속 사용할 수 있는지 확인할 수 없습니다. 인터넷 연결을 확인하거나 나중에 다시 시도하세요.	#
-realmsCreateScreen.extendRealms.content=Realm 멤버십을 가능한 만큼 연장했습니다. 지금은 추가 시간을 추가할 수 없습니다. 나중에 다시 시도해 보세요.	#
+realmsCreateScreen.extendRealms.content=Realm 멤버십을 가능한 만큼 연장했습니다. 지금은 추가 시간을 추가할 수 없습니다. 나중에 다시 시도해 보세요.	#### {StrContains=realms} {MaxLength=381}
 realmsCreateScreen.twoUsers=플레이어 2명	#
 realmsCreateScreen.tenUsers=플레이어 10명	#
-realmsCreateScreen.viewTOS=Minecraft Realm 이용 약관을 확인하려면, 웹 브라우저에서 https://www.minecraft.net/eula를 방문하세요.	#
-realmsCreateScreen.viewPrivacyPolicyText=Minecraft Realm에 대한 개인정보 보호정책을 확인하려면 어떤 종류이든 웹 브라우저를 이용하여 https://aka.ms/mcprivacy 링크를 방문하세요.	#
+realmsCreateScreen.viewTOS=Minecraft Realm 이용 약관을 확인하려면, 웹 브라우저에서 https://www.minecraft.net/eula를 방문하세요.	#### {StrContains=realms} {MaxLength=354}
+realmsCreateScreen.viewPrivacyPolicyText=Minecraft Realm에 대한 개인정보 보호정책을 확인하려면 어떤 종류이든 웹 브라우저를 이용하여 https://aka.ms/mcprivacy 링크를 방문하세요.	#### {StrContains=realms} {MaxLength=318}
 realmsCreateScreen.waitingPurchase=구매 진행 중! 잠시만 기다려주십시오.	#
 realmsCreateScreen.paymentFailed.title=결제 서비스	#
-realmsCreateScreen.paymentFailed.body=지금은 Realm에 연결하고 구매를 완료할 수 없습니다. 나중에 다시 시도해 주세요.	#
+realmsCreateScreen.paymentFailed.body=지금은 Realms에 연결 및 구매를 완료할 수 없습니다. 나중에 다시 시도해주세요.		#### {StrContains=realms} {MaxLength=276}
 realmsCreateScreen.incomplete=미완성 Realm	#
-realmsCreateScreen.incomplete.create.a=이전 작업이 완료되지 않았습니다. 지금 Realm 생성을 완료해 보세요.	#
-realmsCreateScreen.incomplete.create.b=다른 Microsoft 계정으로 Realm을 만들기 시작하신 것 같군요. 이 Microsoft 계정의 소유자로서 해당 Realm의 생성을 완료하시겠어요?	#
+realmsCreateScreen.incomplete.create.a=이전 작업이 완료되지 않았습니다. 지금 Realm 생성을 완료해 보세요.	#### {MaxLength=270}
+realmsCreateScreen.incomplete.create.b=다른 Microsoft 계정으로 Realm을 만들기 시작하신 것 같군요. 이 Microsoft 계정의 소유자로서 해당 Realm의 생성을 완료하시겠어요?	#### {MaxLength=500}
 realmsCreateScreen.incomplete.create.c=누군가가 이 장치의 청구 계정으로 Realm을 만들기 시작했습니다. 이 Microsoft 계정의 소유자로서 해당 Realm 생성을 완료하시겠어요?	#
-realmsCreateScreen.incomplete.renew.a=이전 작업이 완료되지 않았습니다. 지금 Realm 갱신을 완료해 보세요.	#
-realmsCreateScreen.incomplete.renew.b=다른 Microsoft 계정으로 Realm이 갱신되고 있습니다. 이 Microsoft 계정을 해당 Realm의 소유자로 갱신을 완료하시겠습니까?	#
-realmsCreateScreen.incomplete.renew.c=누군가가 이 장치의 청구 계정으로 Realm을 갱신하기 시작했습니다. 이 Microsoft 계정의 소유자로서 해당 Realm의 갱신을 완료하시겠어요?	#
-realmsCreateScreen.incomplete.override.renew=새로운 realm 생성 시도 중에 이전에 구매했던 realm 갱신 내역이 발견되었습니다. 이전에 구매했던 내역을 적용하시겠습니까?	#
-realmsCreateScreen.incomplete.override.create=Realm 갱신 시도 중에 이전에 구매했던 Realm 생성 내역이 발견되었습니다. 이전에 구매했던 내역을 적용하시겠습니까?	#
-realmsCreateScreen.incomplete.override.realm=Realm 갱신 시도 중에 이전에 구매한 다른 Realm이 발견되었습니다. 이전 구매 내역을 적용하시겠습니까?	#
+realmsCreateScreen.incomplete.renew.a=이전 작업이 완료되지 않았습니다. 지금 Realm 갱신을 완료해 보세요.	#### {MaxLength=270}
+realmsCreateScreen.incomplete.renew.b=다른 Microsoft 계정으로 Realm이 갱신되고 있습니다. 이 Microsoft 계정을 해당 Realm의 소유자로 갱신을 완료하시겠습니까?		#### {MaxLength=500}
+realmsCreateScreen.incomplete.renew.c=누군가가 이 장치의 청구 계정으로 Realm을 갱신하기 시작했습니다. 이 Microsoft 계정의 소유자로서 해당 Realm의 갱신을 완료하시겠어요?	#### {MaxLength=490}
+realmsCreateScreen.incomplete.override.renew=새로운 Realm 생성 시도 중에 이전에 구매했던 Realm 갱신 내역이 발견되었습니다. 이전에 구매했던 내역을 적용하시겠습니까?		#### {MaxLength=410}
+realmsCreateScreen.incomplete.override.create=Realm 갱신 시도 중에 이전에 구매했던 Realm 생성 내역이 발견되었습니다. 이전에 구매했던 내역을 적용하시겠습니까?	#### {MaxLength=400}
+realmsCreateScreen.incomplete.override.realm=Realm 갱신 시도 중에 이전에 구매한 다른 Realm이 발견되었습니다. 이전 구매 내역을 적용하시겠습니까?	#### {MaxLength=400}
 realmsCreateScreen.prepare.store.title=구매 확인 필요	#
 realmsCreateScreen.prepare.store.body=계속 진행하려면 구매 내역을 확인해야 합니다. 스토어에 로그인해주세요.	#
 realmsCreateScreen.prepare.store.button=상점 로그인	#
@@ -2237,13 +2249,13 @@ realmsConfigurationScreen.resetRealmTryAgain=Realm을 초기화하지 못했습�
 realmsConfigurationScreen.failedOpenCloseTitle=열기/닫기에 실패했습니다.	#
 realmsConfigurationScreen.failedOpenClose=Realm 열기/닫기에 실패했습니다. 다시 시도하시겠습니까?	#
 
-realmsWorld.notAvailable=현재 기기는 Minecraft Realm을 지원하지 않습니다.	#
+realmsWorld.notAvailable=현재 기기는 Minecraft Realm을 지원하지 않습니다.	#### {StrContains=realms} {MaxLength=138}
 realmsWorld.ownerPay=소유자는 월간 요금을 지불하며, 친구들은 무료로 함께할 수 있습니다!	#
-realmsWorld.realmsDescription=Realm은 친구들과 함께 항상 즐길 수 있는 비공개 Minecraft 월드입니다.	#
+realmsWorld.realmsDescription=Realm은 친구들과 함께 항상 즐길 수 있는 비공개 Minecraft 월드입니다.	#### {StrContains=realms} {MaxLength=261}
 realmsWorld.realmsDescription.paragraph2=Realm 소유자가 부재 중일 때도 플레이가 가능하며 모든 Minecraft 기기에서 플레이할 수 있습니다!	#
 realmsWorld.realmsDescription.paragraph3=오늘 Realm을 살펴보십시오!	#
-realmsWorld.realmsDescription.Beta.line1=Minecraft 월드를 친구와 간단히 공유할 수 있는 Realm은 Minecraft 베타 버전 이용 중에는 사용할 수 없습니다.	#
-realmsWorld.realmsDescription.Beta.line2=베타 버전 사용을 중지하고 Realm에 접속하려면 아래를 클릭해 지시 사항을 확인하십시오.	#
+realmsWorld.realmsDescription.Beta.line1=Minecraft 월드를 친구와 간단히 공유할 수 있는 Realm은 Minecraft 베타 버전 이용 중에는 사용할 수 없습니다.	#### {StrContains=realms} {MaxLength=378}
+realmsWorld.realmsDescription.Beta.line2=베타 버전 사용을 중지하고 Realm에 접속하려면 아래를 클릭해 지시 사항을 확인하십시오.	#### {StrContains=realms} {MaxLength=255}
 realmsWorld.newRealm=새 Realm	#
 realmsWorld.connectLive=로그인해 무료로 사용해 보십시오!	#
 realmsWorld.owner=소유자	#
@@ -2253,13 +2265,13 @@ realmsWorld.creatingWorld=월드 생성 중	#
 
 realmsPlus.popup.top_button_text=추가 정보	#
 realmsPlus.popup.bottom_button_text=구독 갱신	#
-realmsPlus.popup.title=Realm Plus 구독 만료	#
-realmsPlus.popup.message=Realm Plus 구독이 만료되었습니다. Realm Plus에서 받은 Realm, 팩 또는 스킨에 다시 접속하려면 구독을 갱신해야 합니다. 	#
+realmsPlus.popup.title=Realm Plus 구독 만료	#### {StrContains=realms} {MaxLength=96}
+realmsPlus.popup.message=Realm Plus 구독이 만료되었습니다. Realm Plus에서 받은 Realm, 팩 또는 스킨에 다시 접속하려면 구독을 갱신해야 합니다. 	#### {StrContains=realms} {MaxLength=489}
 
-realmsPlusUpgradeNotice.title=Realm Plus에 어서 오세요!	#
-realmsPlusUpgradeNotice.body=Realm 정기 서비스가 Realm Plus로 업그레이드되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩에 접속할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 접속할 수 있습니다!	#
+realmsPlusUpgradeNotice.title=Realm Plus에 어서 오세요!	#### {StrContains=realms} {MaxLength=69}
+realmsPlusUpgradeNotice.body=Realm 정기 서비스가 Realm Plus로 업그레이드되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩에 접속할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 가입할 수 있습니다!	#### {StrContains=realms} {MaxLength=777}
 realmsPlusUpgradeNotice.continue=계속하기	#
-realmsPlusUpgradeNotice.viewpacks=Realm Plus 팩 보기	#
+realmsPlusUpgradeNotice.viewpacks=Realm Plus 팩 보기	#### {StrContains=realms} {MaxLength=66}
 
 csbCreateScreen.popupTitle=Marketplace Pass		#### {StrContains="Marketplace Pass"}
 csbCreateScreen.viewTOS=Marketplace Pass의 이용 약관을 확인하려면, 아무 웹 브라우저에서 https://aka.ms/MinecraftEULA 링크를 방문하세요.		#### {StrContains="Marketplace Pass"}
@@ -2267,13 +2279,13 @@ csbCreateScreen.viewPrivacyPolicyText=Marketplace Pass에 대한 개인정보처
 csbCreateScreen.goBack=돌아가기	#
 
 csbCreateScreen.termsAndConditionsAgree=동의함	#
-csbCreateScreen.termsAndConditionsHeader=약관 및 조건	#
+csbCreateScreen.termsAndConditionsHeader=이용약관	#
 
 raytracing.RTX.name=RTX	###Brand name, don't localize
 
 network.onlinePlay.title=친구와 플레이	#
 network.onlinePlay.msg=월드로 친구들을 초대하거나 친구들의 작업을 구경하거나 친구의 월드에서 제작할 수 있습니다.	#
-network.onlinePlay.instruction=플레이 메뉴에서 친구의 월드에 참여하거나 내 월드와 Realm에 초대할 수 있습니다.	#
+network.onlinePlay.instruction=플레이 메뉴에서 친구의 월드에 참여하거나 내 월드와 Realm에 초대할 수 있습니다.	#### {StrContains=realms} {MaxLength=285}
 network.thirdparty.connect.splitscreen=분할 화면 멀티 플레이를 온라인으로 플레이하려면 %s 계정으로 로그인하세요.	#
 network.thirdparty.connect.benefit=%s(으)로 로그인해 친구들과 온라인으로 플레이하고 멋진 스토어 아이템도 구경하세요.	#
 network.thirdparty.connect.store=스토어를 둘러 보려면 %s(이)가 필요합니다.	#
@@ -2298,7 +2310,7 @@ networkWorld.joinable_friends_label=참여할 수 있는 친구	#
 networkWorld.no_joinable_friends_label=현재 Minecraft를 플레이 중인 친구들이 없습니다.	#
 networkWorld.check_internet_connection=죄송합니다. 친구의 월드를 발견할 수 없습니다. 인터넷 연결을 확인해보셨나요?	#
 networkWorld.connect_to_xbl=Microsoft 계정에 로그인하고 친구와 함께 플레이하세요.	#
-networkWorld.memberOfTooManyRealms=Realm의 멤버 제한에 도달했습니다.	#
+networkWorld.memberOfTooManyRealms=Realms의 멤버 제한에 도달했습니다.		#### {StrContains=realms} {MaxLength=135}
 networkWorld.multiplayerPrivilegesBlocked=귀하의 Microsoft 계정 설정으로 인해 온라인 멀티 플레이 게임을 할 수 없습니다. 온라인 보안 설정에서 멀티 플레이가 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	#
 networkWorld.multiplayerPrivilegesBlockedOnConsole=귀하의 Microsoft 계정 설정으로 인해 온라인 멀티 플레이 게임을 할 수 없습니다. Xbox Live 골드 정기 구독 활성화 및 온라인 보안 설정에서 멀티 플레이가 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	###disable_3rd_party_console_resource_pack_check
 networkWorld.multiplayerPrivilegesBlockedOnConsoleGamecore=귀하의 Microsoft 계정 설정으로 인해 온라인 멀티 플레이 게임을 할 수 없습니다.	###disable_3rd_party_console_resource_pack_check
@@ -2348,7 +2360,7 @@ thirdPartyWorld.playNow=지금 플레이하기	#
 thirdPartyWorld.loadingServers=서버 정보를 가져오고 있습니다. 잠시만 기다려주세요...	#
 thirdPartyWorld.loadingFeaturedServers=서버를 가져오는 중...	#
 
-realmsSlotsScreen.description=Realm 서버에 업로드할 월드를 최대 3개 선택하세요. 활성화하거나 편집할 월드를 선택하세요!	#
+realmsSlotsScreen.description=Realm 서버에 업로드할 월드를 최대 3개 선택하세요. 활성화하거나 편집할 월드를 선택하세요!	#### {StrContains=realms} {MaxLength=291}
 realmsSlotsScreen.new=새로운 월드	#
 realmsSlotsScreen.readyToPlay=플레이 준비	#
 realmsSlotsScreen.editRealm=Realm 관리	#
@@ -2357,7 +2369,7 @@ realmsSlotsScreen.activateWorld=월드 활성화	#
 realmsSlotsScreen.gamesettings=게임 설정	#
 realmsSlotsScreen.chooseSlot=슬롯 선택	#
 realmsSlotsScreen.activateWarning=이 월드를 편집하거나 활성화하면 모든 활동 중인 플레이어를 추방하게 됩니다. 다시 접속할 수 있으니 걱정하지 마세요.	#
-realmsSlotsScreen.celebrationMap=Realm 기념행사 월드	#
+realmsSlotsScreen.celebrationMap=Realm 기념행사 월드	#### {StrContains=realms} {MaxLength=66}
 
 realmsSettingsScreen.playerCountLabel=크기	#
 realmsSettingsScreen.forceResourcePackFail=포스 리소스 팩 가격 설정 실패	#
@@ -2384,6 +2396,50 @@ realmsSettingsScreen.playersSectionTitle=플레이어	#
 realmsSettingsScreen.membersSectionTitle=멤버	#
 realmsSettingsScreen.subscriptionSectionTitle=가입	#
 realmsSettingsScreen.inviteLinksSectionTitle=초대 링크	#
+realmsSettingsScreen.advancedSectionTitle=고급		####Advanced tab title{MaxLength="16"}
+realmsSettingsScreen.advancedLoading=서버 지역 불러오는 중		####Loading server regions message{MaxLength="33"}
+realmsSettingsScreen.advancedLoadingFailed=서버 지역을 불러오는 데 실패했습니다		####Failed to load server regions message{MaxLength="60"}
+realmsSettingsScreen.serverRegionPreferenceTitle=서버 지역 기본 설정		####Server region preference selected label{MaxLength="36"}
+realmsSettingsScreen.setRegionLabel=지역 설정		####Set Region Drop down label{MaxLength="16"}
+realmsSettingsScreen.slowConnection.title=느린 연결		####Slow Connection warning modal title{MaxLength="20"}
+realmsSettingsScreen.slowConnection.description1=이 지역에서 호스팅 하는 경우 연결 속도가 느려서 지연이 발생할 가능성이 있습니다.		####Slow Connection warning modal description{MaxLength="119"}
+realmsSettingsScreen.slowConnection.description2=이 Realm의 다른 플레이어는 연결 강도와 물리적 위치에 따라 더 나은 경험을 할 수 있습니다.		####Slow Connection warning modal description{MaxLength="157"}
+realmsSettingsScreen.slowConnection.doNotShow=이 메시지를 다시 표시하지 않기		####Slow Connection warning modal don't show again label{MaxLength="29"}
+realmsSettingsScreen.preferredRegions.firstToJoin=자동 (세션에 처음 참여하는 사람)		####Region Selection Preference first to join{MaxLength="43"}
+realmsSettingsScreen.preferredRegions.owner=자동 (Realm 소유자 연결)		####Region Selection Preference owner{MaxLength="43"}
+realmsSettingsScreen.preferredRegions.ownerSelected=자동, 		####Region Selection Preference owner selected{MaxLength="15"}
+realmsSettingsScreen.preferredRegions.AustraliaEast=호주, 뉴 사우스 웨일즈 주		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.AustraliaSoutheast=호주, 빅토리아 주		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.BrazilSouth=브라질		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.CentralIndia=인도		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.CentralUs=미국, 아이오와		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.EastAsia=홍콩		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.EastUs=미국, 버지니아		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.EastUs2=미국, 노스캐롤라이나		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.FranceCentral=프랑스		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.JapanEast=동일본		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.JapanWest=서일본		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.KoreaCentral=대한민국		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.NorthCentralUs=미국, 일리노이		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.NorthEurope=아일랜드		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.SouthAfricaNorth=남아프리카 공화국		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.SouthCentralUs=미국, 텍사스		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.SoutheastAsia=싱가포르		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.SwedenCentral=스웨덴		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.UAENorth=아랍에미리트 (UAE)		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.UKSouth=남잉글랜드		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.WestCentralUS=미국, 유타		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.WestEurope=네덜란드		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.WestUs=미국, 캘리포니아		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.preferredRegions.WestUs2=미국, 워싱턴 DC		####Region Selection Preference manual geographic location{MaxLength="34"}
+realmsSettingsScreen.changesNotApplied=서버 지역에 대한 변경 사항은 다음에 Realm이 시작될 때 적용됩니다.		####changes not applied warning label{MaxLength="92"}
+realmsSettingsScreen.setRegionHelp=지역 설정 도움말		####Set region help button title{MaxLength="19"}
+realmsSettingsScreen.preferredRegions.tts.owner=Realm 소유자 연결을 기반으로 자동으로 지역을 선택합니다.		####Narration description for automatic owner{MaxLength="90"}
+realmsSettingsScreen.preferredRegions.tts.firstToJoin=게임 플레이 세션을 시작하는 첫 번째 플레이어의 연결을 기반으로 자동으로 지역을 선택합니다.		####Narration description for automatic first to join{MaxLength="131"}
+realmsSettingsScreen.serviceQuality.tts.high=높은 연결		####Narration description for strong connection{MaxLength="22"}
+realmsSettingsScreen.serviceQuality.tts.med=좋은 연결		####Narration description for good connection{MaxLength="22"}
+realmsSettingsScreen.serviceQuality.tts.low=느린 연결		####Narration description for slow connection{MaxLength="22"}
+realmsSettingsScreen.serviceQuality.tts.worst=가장 느린 연결		####Narration description for weakest connection{MaxLength="22"}
 realmsSettingsScreen.devOptionsSectionTitle=개발자 옵션	#
 realmsSettingsScreen.backupSection=백업	#
 realmsSettingsScreen.backupInfo=여러분의 Realm에 있는 월드를 이 목록에 있는 백업본으로 교체할 수 있습니다.	#
@@ -2397,9 +2453,9 @@ realmsSettingsScreen.deleteRealmToast=%s Realm이 삭제되었습니다.	#
 realmsSettingsScreen.deleteRealmFailToast=%s Realm 삭제에 실패했습니다.	#
 realmsSettingsScreen.deleteRealmModalText=Realm이 영구적으로 삭제됩니다. 월드, 멤버 목록 또는 클럽을 이용할 수 없습니다.	#
 realmsSettingsScreen.backupRestoreHeader=월드 교체하기	#
-realmsSettingsScreen.backupModalText=이 백업본으로 Realm을 교체하면 최근 Realm에서 진행한 모든 진행 상황이 삭제됩니다. Realm은 재시작되며, 모든 활성 플레이어들은 다시 연결해야 합니다.	#
+realmsSettingsScreen.backupModalText=이 백업본으로 Realm을 교체하면 최근 Realm에서 진행한 모든 진행 상황이 삭제됩니다. Realm은 재시작되며, 모든 활성 플레이어들은 다시 연결해야 합니다.	#### {MaxLength=490}
 realmsSettingsScreen.replaceWithBackup=백업본으로 Realm 교체하기	#
-realmsSettingsScreen.backupInProgress=백업본으로 Realm 월드 교체하기	#
+realmsSettingsScreen.backupInProgress=백업본으로 Realm 월드 교체하기	#### {MaxLength=100}
 realmsSettingsScreen.realmNameLabel=Realm 이름	#
 realmsSettingsScreen.realmNameEditPlaceholder=Realm 이름 입력	#
 realmsSettingsScreen.realmDescriptionEditPlaceholder=Realm 설명 입력	#
@@ -2417,24 +2473,24 @@ realmsSettingsScreen.resetButtonHelperLabel=처음부터 시작하시겠습니�
 realmsSettingsScreen.maxPlayersLabelFormat=친구 %d명	#
 realmsSettingsScreen.durationLabelFormat=%d일 남음	#
 realmsSettingsScreen.subscriptionLabelFormat=%d일마다 갱신	#
-realmsSettingsScreen.subscriptionLabelFormatPreview=유료 Realm 구독으로 %d일마다 갱신	#
+realmsSettingsScreen.subscriptionLabelFormatPreview=유료 Realm 구독으로 %d일마다 갱신	#### {StrContains=realms} {MaxLength=165}
 realmsSettingsScreen.fetchingWorldInfo=Realm 정보 가져오는 중...	#
 realmsSettingsScreen.updatingWorldInfo=Realm 정보 업데이트 중...	#
 realmsSettingsScreen.resettingRealm=Realm 초기화 중...	#
 realmsSettingsScreen.applyPacks=팩 적용 중...	#
 realmsSettingsScreen.openingRealm=Realm 여는 중...	#
 realmsSettingsScreen.closingRealm=Realm 닫는 중...	#
-realmsSettingsScreen.realmInfoError=Realm 정보를 가져오지 못했습니다. 나중에 다시 시도하십시오.	#
-realmsSettingsScreen.realmJoinError=Realm에 참여하지 못했습니다. 나중에 다시 시도하세요.	#
-realmsSettingsScreen.realmResetError=Realm을 초기화하지 못했습니다. 나중에 다시 시도하십시오.	#
-realmsSettingsScreen.realmOpenError=Realm을 열지 못했습니다.	#
-realmsSettingsScreen.realmCloseError=Realm을 닫지 못했습니다.	#
+realmsSettingsScreen.realmInfoError=Realm 정보를 가져오지 못했습니다. 나중에 다시 시도하십시오.	#### {MaxLength=190}
+realmsSettingsScreen.realmJoinError=Realm에 참여하지 못했습니다. 나중에 다시 시도하세요.	#### {MaxLength=170}
+realmsSettingsScreen.realmResetError=Realm을 초기화하지 못했습니다. 나중에 다시 시도하십시오.	#### {MaxLength=150}
+realmsSettingsScreen.realmOpenError=Realm을 열지 못했습니다.	#### {MaxLength=70}
+realmsSettingsScreen.realmCloseError=Realm을 닫지 못했습니다.	#### {MaxLength=70}
 realmsSettingsScreen.reset=초기화	#
 realmsSettingsScreen.resetRealm=이렇게 하면 Realm의 활성화 슬롯에서 현재 월드를 제거하고 새로운 월드로 교체할 수 있습니다. Realm 멤버는 새로운 월드에 접속할 수 있습니다. “취소”를 선택한 후 “월드 다운로드”를 선택하여 이동하고 현재 월드의 사본을 다운로드하여 데이터 손실을 방지하거나, “확인”을 선택하여 계속 진행하고 월드를 교체할 수 있습니다.	#
 realmsSettingsScreen.confirmReset=삭제 및 초기화하시겠습니까?	#
 realmsSettingsScreen.confirmReplace=월드를 교체할까요?	#
 realmsSettingsScreen.closeRealmTitle=Realm을 닫으시겠습니까?	#
-realmsSettingsScreen.closeRealmMessage=Realm을 닫으면 해당 Realm이 폐쇄되며, 그 안에 있는 모든 플레이어들의 연결이 끊어집니다. 정말 닫으시겠습니까?	#
+realmsSettingsScreen.closeRealmMessage=Realm을 닫으면 해당 Realm이 폐쇄되며, 그 안에 있는 모든 플레이어들의 연결이 끊어집니다. 정말 닫으시겠습니까?	#### {MaxLength=390}
 realmsSettingsScreen.LoadingSubscription=멤버십 불러오는 중...	#
 realmsSettingsScreen.LoadingInviteLinks=초대 링크를 불러오는 중...	#
 realmsSettingsScreen.failedLoadingSubscription=멤버십 불러오기 실패	#
@@ -2446,7 +2502,7 @@ realmsSettingsScreen.consumableToSubscriptionGracePeriodInfo=Realm이 만료되�
 realmsSettingsScreen.consumableToSubscriptionTransitionInfoExpired=Realm이 만료되었습니다. 자동 갱신 구독을 사용하여 Realm을 연장하세요. 그러면 Realm을 번거롭게 유지하거나 실행할 필요가 없습니다.	#
 realmsSettingsScreen.upload.worldtoobig=업로드하지 못했습니다. 월드 크기가 최대 업로드 가능 한도인 %s을(를) 초과합니다.	#
 realmsSettingsScreen.download.worldtoobig=다운로드하지 못했습니다. 월드 크기가 최대 다운로드 가능 한도인 %s을(를) 초과합니다.	#
-realmsSettingsScreen.SubscriptionTimeLeftRefresh=누적 시간을 쌓거나 끄기 전에 Realm 멤버십으로 변경되었거나 탈퇴하면 다음 청구 날짜까지 반영되지 않습니다.	#
+realmsSettingsScreen.SubscriptionTimeLeftRefresh=누적 시간을 쌓거나 끄기 전에 Realm 멤버십으로 변경되었거나 탈퇴하면 다음 청구 날짜까지 반영되지 않습니다.	#### {StrContains=realms} {MaxLength=441}
 realmsSettingsScreen.inviteLinkLabel=초대 링크:	#
 realmsSettingsScreen.inviteLinkLabelTTS=초대 링크. 텍스트 블록.	#
 realmsSettingsScreen.inviteLinkLabelDescription=최대 5개의 초대 링크를 추가하고 공유하여 사람들이 내 Realm에 참여하도록 초대할 수 있습니다.	#
@@ -2489,7 +2545,7 @@ realmsSettingsScreen.inviteLinkExpirationDescription=이 링크의 만료일을 
 realmsSettingsScreen.inviteLinkExpirationTTS=만료일. 텍스트 블록. 링크가 %s에 만료됩니다. 이 링크의 만료일을 설정합니다.	#
 realmsSettingsScreen.inviteLinkExpirationNeverTTS=만료일. 텍스트 블록. 링크 %s. 이 링크의 만료일을 설정합니다.	#
 realmsSettingsScreen.inviteLink.errorLinkAddingTitle=링크 추가 오류	#
-realmsSettingsScreen.inviteLink.errorLinkAddingBody=이 Realm에 링크를 추가하는 도중 오류가 발생했습니다. 다시 시도하세요.	#
+realmsSettingsScreen.inviteLink.errorLinkAddingBody=이 Realm에 링크를 추가하는 도중 오류가 발생했습니다. 다시 시도하세요.	#### {MaxLength=200}
 realmsSettingsScreen.inviteLink.errorLinkDeleteTitle=링크 삭제 오류	#
 realmsSettingsScreen.inviteLink.errorLinkDeleteBody=이 링크를 삭제하는 도중에 오류가 발생했습니다. 다시 시도하세요.	#
 realmsSettingsScreen.inviteLink.errorLinkUpdateTitle=링크 업데이트 오류	#
@@ -2518,13 +2574,13 @@ realmsSettingsScreen.windowsStoreDisplayName=Windows 스토어	#
 realmsSettingsScreen.xboxOneStoreDisplayName=Xbox 스토어	#
 realmsSettingsScreen.amazonStoreDisplayName=Amazon Appstore	#
 realmsSettingsScreen.oculusStoreDisplayName=Oculus Store	#
-realmsSettingsScreen.berwickStoreDisplayName=PlayStation®Store		#### CertRequirement: [PlayStation®Store]
-realmsSettingsScreen.SonyStoreDisplayName=PlayStation®Store	 	#### CertRequirement: [PlayStation®Store]
+realmsSettingsScreen.berwickStoreDisplayName=PlayStation®Store		#### CertRequirement:{PS4}[PlayStation®Store] CertRequirement:{PS5}[PlayStation®Store]{MaxLength=3000}
+realmsSettingsScreen.SonyStoreDisplayName=PlayStation®Store	 	#### CertRequirement:{PS4}[PlayStation®Store] CertRequirement:{PS5}[PlayStation®Store]{MaxLength=3000}
 realmsSettingsScreen.unknownStoreDisplayName=알 수 없는 스토어	#
 realmsSettingsScreen.extendingRealm=Realm 확장하는 중...	#
 realmsSettingsScreen.offerError.title=구매 보류 중	#
 realmsSettingsScreen.offerError.content=구매가 이미 보류되었습니다. 보류가 해결될 때까지 다른 구매를 할 수 없습니다. 나중에 다시 시도해 주십시오.	#
-realmsSettingsScreen.dev_branch_label=어떤 적용 사항에서 Realm이 실행되어야 합니까?	#
+realmsSettingsScreen.dev_branch_label=어떤 적용 사항에서 Realm이 실행되어야 합니까?	#### {MaxLength=100}
 realmsSettingsScreen.dev_current_version_label=현재 버전:	#
 realmsSettingsScreen.dev_matching_version_label=적용 사항이 일치하는 클라이언트:	#
 realmsSettingsScreen.dev_all_commits_label=모든 가능한 적용 사항:	#
@@ -2552,8 +2608,8 @@ xbl.marketplace.account.error.body.nobutton=계정에 오류가 발생했습니�
 playfab.account.banned.temporary=정지됨	#
 playfab.account.banned.permanent=차단됨	#
 playfab.account.banned.title=%s 상태가 되었습니다	#
-playfab.account.banned.body=Minecraft에서 멀티플레이가 %s되었습니다. 서버에서 플레이하거나, Realm에 참여하거나, 멀티플레이 게임을 호스트하거나 게임에 참여하거나, 마켓플레이스를 사용할 수 없습니다.	#
-playfab.account.banned.body.line1=“%s” 사유로 인해 Minecraft에서 멀티플레이가 %s되었습니다. 서버에서 플레이하거나, Realm에 참여하거나, 멀티플레이 게임을 호스트하거나 게임에 참여하거나, 마켓플레이스를 사용할 수 없습니다.	#
+playfab.account.banned.body=귀하의 계정은 Minecraft에서 멀티 플레이가 %s되었습니다. 서버에서 플레이하거나, Realms에 참여하거나, 멀티 플레이 게임을 호스트하거나 참가하거나 마켓플레이스를 사용할 수 없습니다.		#### {StrContains=realms} {MaxLength=483}
+playfab.account.banned.body.line1=귀하는 '%s' 사유로 인해 Minecraft에서 멀티 플레이가 %s되었습니다. 서버에서 플레이하거나, Realms에 가입하거나, 멀티 플레이 게임을 호스트하거나 참가하거나 마켓플레이스를 사용할 수 없습니다.		#### {StrContains=realms} {MaxLength=519}
 playfab.account.banned.body.line2=아래의 '%s'(을)를 클릭하여 커뮤니티 규칙 및 %s에 오류가 있었다고 생각되는 경우 사례 검토 요청을 제출하는 방법을 확인하세요.	#
 playfab.account.banned.body.line3.hour=1시간 후 정지가 해제됩니다.	#
 playfab.account.banned.body.line3.hours=%d시간 후 정지가 해제됩니다.	#
@@ -2602,6 +2658,7 @@ date.full_september=9월	#
 date.full_october=10월	#
 date.full_november=11월	#
 date.full_december=12월	#
+date.time_zone_utc=UTC		#### Abbreviation for Coordinated Universal Time (UTC) {MaxLength="6"}
 
 date.daysAbbreviated3Char=%s일		### It needs to be abbreviated with no more than 3 characters
 date.hoursAbbreviated3Char=%s시간		### It needs to be abbreviated with no more than 3 characters
@@ -2625,13 +2682,13 @@ dayOneExperience.carousel.title=새로운 Minecraft에 어서 오세요!	#
 dayOneExperience.carousel.welcome_text=이 새 버전의 Minecraft에는 새롭고 흥미진진한 콘텐츠가 가득합니다. 마켓플레이스를 살펴보고, Realm을 만들고, 크로스 플랫폼 친구들과 함께 온라인으로 플레이하세요!	#
 dayOneExperience.carousel.marketplace=Minecraft 마켓플레이스는 다양한 제작자들이 선보이는 새로운 스킨 팩, 텍스처 팩, 월드 팩과 매시업 팩을 만날 수 있는 곳입니다.	#
 dayOneExperience.carousel.cross_platform=크로스 플랫폼 플레이를 통해 다른 플랫폼의 플레이어와 연결할 수 있습니다. Microsoft 계정으로 로그인하여 모든 Minecraft 친구들과 함께 플레이하세요!	#
-dayOneExperience.carousel.realms=Realm은 여러분과 친구들을 위해 저희가 운영하는 서버입니다. 소유자가 접속하지 않아도 언제나 온라인으로 유지되는 Minecraft 월드를 간직하세요.	#
+dayOneExperience.carousel.realms=Realm은 여러분과 친구들을 위해 저희가 운영하는 서버입니다. 소유자가 접속하지 않아도 언제나 온라인으로 유지되는 Minecraft 월드를 간직하세요.	#### {StrContains=realms} {MaxLength=417}
 dayOneExperience.carousel.villager=새로운 Minecraft는 새로운 기능, 몹, 아이템, 블록 등등 앞으로의 업데이트를 받을 수 있는 유일한 곳입니다!	#
 
 dayOneExperience.tab.landing=업데이트 정보	#
 dayOneExperience.tab.marketplace=마켓플레이스	#
 dayOneExperience.tab.crossplatform=크로스 플랫폼 플레이	#
-dayOneExperience.tab.realms=Realm	#
+dayOneExperience.tab.realms=Realm	#### {StrContains=realms} {MaxLength=18}
 dayOneExperience.tab.villager=더 많은 콘텐츠	#
 
 dayOneExperience.finish=완료	#
@@ -2704,8 +2761,8 @@ death.attack.wither=%1$s이(가) 위더 때문에 사망했습니다	#
 death.attack.freeze=%1$s(이)가 얼어 죽었습니다	#
 death.attack.sonicBoom=%1$s(이)가 음향으로 충전된 비명에 의해 제거되었습니다.	#
 death.attack.sonicBoom.player=%1$s(이)가 %2$s에게서 도망치려다 음향으로 충전된 비명에 의해 제거되었습니다.	#
-death.attack.stalactite=%1$s 이(가) 떨어지는 종유석에 사망했습니다	#
-death.attack.stalagmite=%1$s 이(가) 석순에 찔려서 사망했습니다	#
+death.attack.stalactite=%1$s이(가) 떨어지는 종유석에 사망했습니다	#
+death.attack.stalagmite=%1$s이(가) 석순에 찔려서 사망했습니다	#
 death.fell.accident.generic=%1$s(이)가 높은 곳에서 떨어졌습니다	#
 death.fell.accident.ladder=%1$s(이)가 사다리에서 떨어졌습니다	#
 death.fell.accident.vines=%1$s(이)가 덩굴에서 떨어졌습니다	#
@@ -2801,14 +2858,14 @@ disconnectionScreen.biomeData.ReservedRange=사용자 정의 바이옴 %s은(는
 disconnectionScreen.biomeData.VanillaBiomesWithId=바닐라 바이옴 데이터는 'id' 필드를 포함해서는 안 됩니다.	#
 disconnectionScreen.blockMismatch=클라이언트와 서버 간의 블록이 일치하지 않습니다.	#
 disconnectionScreen.cantConnect=월드에 연결할 수 없습니다.	#
-disconnectionScreen.cantConnectToRealm=Realm에 연결할 수 없습니다.	#
+disconnectionScreen.cantConnectToRealm=Realm에 연결할 수 없습니다.	#### {StrContains=realms} {MaxLength=84}
 disconnectionScreen.forbidden=Realm을 찾을 수 없거나, 멤버가 아닙니다.	#
 disconnectionScreen.cantConnectToRealms=Realm에 연결할 수 없습니다.	#
 disconnectionScreen.crossPlatformDisabled=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 다른 플랫폼에 있는 친구들과 함께 연결할 수 있게 합니다. 크로스 플레이 없이 다른 친구들과 온라인에서 플레이를 하려면 게임 호스트도 주 메뉴에서 크로스 플레이를 비활성화해야 합니다.	#
 disconnectionScreen.crossPlatformDisabled.header=크로스 플랫폼 플레이가 비활성화되어 있습니다.	#
-disconnectionScreen.incompatibleRealm=클라이언트가 호환되지 않거나 이전 버전입니다. Realm에 연결하려면 클라이언트를 업데이트해야 합니다.	#
-disconnectionScreen.realmsAlphaEndedTitle=Realm 알파 테스트가 종료되었습니다. 도와주셔서 감사합니다!	#
-disconnectionScreen.realmsAlphaEndedMessage=지금은 Realm을 사용할 수 없습니다.	#
+disconnectionScreen.incompatibleRealm=클라이언트가 호환되지 않거나 이전 버전입니다. Realm에 연결하려면 클라이언트를 업데이트해야 합니다.	#### {StrContains=realms} {MaxLength=252}
+disconnectionScreen.realmsAlphaEndedTitle=Realm 알파 테스트가 종료되었습니다. 도와주셔서 감사합니다!	#### {StrContains=realms} {MaxLength=174}
+disconnectionScreen.realmsAlphaEndedMessage=지금은 Realm을 사용할 수 없습니다.	#### {StrContains=realms} {MaxLength=102}
 disconnectionScreen.disconnected=서버와의 연결이 끊겼습니다	#
 disconnectionScreen.editionMismatch=이 월드는 Minecraft Education에서 저장되었습니다. 월드를 불러올 수 없습니다.	#
 disconnectionScreen.editionMismatchEduToVanilla=연결에 실패했습니다. Minecraft Education이 설치된 서버가 아닙니다.	#
@@ -2839,7 +2896,7 @@ disconnectionScreen.notAuthenticated=Microsoft 서비스 인증이 필요합니�
 disconnectionScreen.outdatedClient=연결에 실패했습니다: 낮은 버전의 클라이언트	#
 disconnectionScreen.outdatedServer=호스트가 최신 버전이 아닌 Minecrat를 사용하고 있습니다. 최신 버전의 Minecraft로 업데이트하고 다시 연결해주세요.	#
 disconnectionScreen.outdatedClientRealms=이 Realm에서 계속 플레이하려면 게임을 업데이트해야 합니다.	#
-disconnectionScreen.outdatedClientRealms.title=Realm 업데이트됨	#
+disconnectionScreen.outdatedClientRealms.title=Realm 업데이트됨	#### {StrContains=realms} {MaxLength=54}
 disconnectionScreen.outdatedServerRealms=게임은 최신 업데이트되었지만 이 Realm은 그렇지 않습니다.	#
 disconnectionScreen.outdatedServerRealms.title=현재 다른 플레이어가 온라인 상태이기 때문에 Realm 서버를 업데이트할 수 없습니다. Realm 관리 화면에서 Realm을 닫았다가 다시 열어 다른 플레이어가 종료하도록 한 다음 Realm에 참여하여 업데이트할 수 있습니다.	#
 disconnectionScreen.outdatedServerRealmsNonOwner.title=지금 액세스하려는 Realm은 다른 버전입니다. Realm의 소유자에게 문의하여 문제를 해결하세요.	#
@@ -2859,8 +2916,8 @@ disconnectionScreen.invalidTenant=월드에 연결할 수 없습니다. 입장 �
 disconnectionScreen.resourcePack=리소스 팩 다운로드 또는 적용 중에 문제가 발생했습니다.	#
 disconnectionScreen.restartClient=연결할 수 없습니다. 클라이언트를 다시 시작하십시오.	#
 disconnectionScreen.badPacket=서버에서 손상된 패킷을 보냈습니다.	#
-disconnectionScreen.realmsDisabled=Realm을 이용할 수 없습니다.	#
-disconnectionScreen.realmsDisabledBeta=베타에서는 Realm을 이용할 수 없습니다.	#
+disconnectionScreen.realmsDisabled=Realm을 이용할 수 없습니다.	#### {StrContains=realms} {MaxLength=60}
+disconnectionScreen.realmsDisabledBeta=베타에서는 Realm을 이용할 수 없습니다.	#### {StrContains=realms} {MaxLength=99}
 disconnectionScreen.incompatiblePack=다음과 같은 호환되지 않는 팩이 있기 때문에 월드에 참여할 수 없습니다. 대상 팩: %s	#
 disconnectionScreen.incompatiblePack.memory=장치 메모리가 부족하여 월드에 참여할 수 없습니다. 대상 팩: %s	#
 disconnectionScreen.incompatiblePack.graphics.raytracing=장치에 광선 추적(Ray Tracing)을 지원하는 호환 하드웨어가 없기 때문에 월드에 참여할 수 없습니다.	#
@@ -2880,6 +2937,7 @@ disconnectionScreen.connectionLost=호스트와의 연결이 끊겼습니다. �
 disconnectionScreen.deepLink.TryingToOpenDemoWorldWhileSignedIn.title=월드를 불러올 수 없습니다.	#
 disconnectionScreen.deepLink.TryingToOpenDemoWorldWhileSignedIn.body=데모 모드에서 이 월드를 열어보세요.	#
 disconnectionScreen.errorCode=오류 코드: 	#
+disconnectionScreen.failedAsyncCheck=서버를 로딩하는 중에 문제가 발생했습니다. 	#### This is for whenever an error occurs on the server and a player can't join the world. {MaxLength="1000"}
 
 storageSpaceWarningScreen.frontend=데이터 저장 공간이 거의 가득 찼습니다! Minecraft에서 이 기능에 대한 접근을 제한했습니다. 기능을 이용하려면 추가 저장 공간을 확보해야 합니다.	#
 storageSpaceWarningScreen.lowduringgameplay=장치에 공간이 부족하여 Minecraft가 월드 및 설정을 저장할 수 없습니다. 필요 없는 기존 저장들을 삭제하고 새로 저장할 공간을 확보하세요.	#
@@ -2938,6 +2996,10 @@ edu.servers_screen.play=플레이 	#### Button text on a server tile in the serv
 edu.servers_screen.back=뒤로 	#### Button text on a server tile in the servers grid, {MaxLength=10}
 edu.servers_screen.share=공유 	#### Button text on a server tile in the servers grid, {MaxLength=10}
 edu.servers_screen.remove=제거 	#### Button text on a server tile in the servers grid, {MaxLength=10}
+edu.servers_screen.confirm_remove.title=서버 제거 	#### Title text on a confirmation of removal modal, {MaxLength=40}
+edu.servers_screen.confirm_remove.body=이 서버를 제거하더라도 나중에 다시 추가할 수 있습니다. 	#### Description for remove server action in modal, {MaxLength=150}
+edu.servers_screen.confirm_remove.cancel=돌아가기 	#### Button text on a confirmation of removal modal, {MaxLength=25}
+edu.servers_screen.confirm_remove.confirm=서버 제거 	#### Button text on a confirmation of removal modal, {MaxLength=25}
 
 edu.pause.multiplayer.disabled=이 수업에서는 멀티 플레이를 이용할 수 없습니다.	#
 
@@ -3202,7 +3264,7 @@ feed.upload=스크린샷을 업로드하는 중입니다...	#
 feed.manage=피드 관리	#
 feed.share=공유	#
 feed.addScreenshot=스크린샷 추가	#
-feed.shareScreenshot=스크린샷을 찍었습니다. Realm 스토리로 이동하여 공유하세요.	#
+feed.shareScreenshot=스크린샷을 찍었습니다. Realm 스토리로 이동하여 공유하세요.	#### {StrContains=realms} {MaxLength=162}
 feed.screenshotCaptured=스크린샷을 찍었습니다. 스크린샷 갤러리에서 볼 수 있습니다.	#
 feed.screenshotAlmostFull=스크린샷을 찍었습니다. 갤러리가 거의 다 찼습니다. (%d/%d)	#
 feed.screenshotReachedMax=스크린샷을 찍었습니다. 갤러리가 가득 찼습니다. (%d/%d)	#
@@ -3228,7 +3290,7 @@ feed.reportToastMessage=보고된 아이템	#
 feed.forbidden=타임 라인에 게시할 권한이 없습니다.	#
 feed.failedToPost=게시 실패	#
 feed.failedToPostDescription=잘못된 스크린샷	#
-feed.failedToPostRateLimit=몇 분 후에 다시 등록해보세요. Realm이 따라잡으려고 합니다.	#
+feed.failedToPostRateLimit=몇 분 후에 다시 등록해보세요. Realm이 따라잡으려고 합니다.	#### {StrContains=realms} {MaxLength=195}
 feed.uppload_started=스크린샷을 업로드하는 중입니다.	#
 feed.uppload_success=스크린샷이 업로드되었습니다.	#
 feed.connected=모든 Realm은 귀하의 Microsoft 계정을 통해 클럽에 연결되어 있습니다.	#
@@ -3396,6 +3458,8 @@ gui.skip=건너뛰기	#
 gui.stats=통계	#
 gui.tab=탭	#
 gui.toMenu=타이틀 화면으로	#
+gui.toStorage=저장 공간 관리		#### Manage storage button, will navigate to the storage settings menu.  {MaxLength="30"}
+gui.okay=알겠습니다		#### Okay button, it acknowledges the warning and will do no other action. {MaxLength="30"}
 gui.tryAgain=다시 시도	#
 gui.up=위로	#
 gui.warning.exitGameWarning=Minecraft를 종료하시겠습니까?	#
@@ -3463,7 +3527,7 @@ howtoplay.category.gettingSettled=정착하기	#
 howtoplay.category.gettingStarted=시작하기	#
 howtoplay.category.overworld=오버월드 A-Z		### Meaning: Everything Overworld in alphabetical order
 howtoplay.category.preparingForTheNight=어둠을 대비하기	#
-howtoplay.category.realms=Realm	#
+howtoplay.category.realms=Realm	#### {StrContains=realms} {MaxLength=18}
 howtoplay.category.redstoneEngineering=레드스톤 엔지니어링	#
 howtoplay.category.standsAndTables=스탠드와 테이블	#
 howtoplay.category.survivingTheFirstNight=첫 번째 밤을 생존하기	#
@@ -3683,18 +3747,18 @@ howtoplay.playingTogether.text.1=Minecraft는 기본적으로 멀티 플레이 �
 howtoplay.playingTogether.header.1=온라인 멀티 플레이	#
 howtoplay.playingTogether.text.2=모든 새로운 월드는 멀티 플레이가 활성화된 상태로 시작됩니다. §p비공개§f 플레이를 원하시면 월드 설정으로 이동하여 멀티 플레이를 끄세요.	#
 howtoplay.playingTogether.header.2=온라인 게임 참여	#
-howtoplay.playingTogether.text.3=다른 사람들과 함께 플레이하려면 §e친구 탭§f으로 이동하여 모든 Realm, 친구, LAN 게임을 확인하세요. 참여하려면 게임을 선택하세요.	#
+howtoplay.playingTogether.text.3=다른 사람들과 함께 플레이하려면 §e친구 탭§f으로 이동하여 모든 Realm, 친구, LAN 게임을 확인하세요. 참여하려면 게임을 선택하세요.	#### {StrContains=realms} {MaxLength=396}
 howtoplay.playingTogether.text.4=온라인 게임을 시작하거나 참여하면 친구가 자신의 친구 탭에서 이를 확인할 수 있습니다. 친구가 게임에 참여하면 그들의 친구들에게도 표시됩니다.	#
 howtoplay.playingTogether.text.5=멀티 플레이를 하려면 인터넷에 연결한 상태에서 §eMicrosoft 계정§f으로 로그인해야 합니다.	#
-howtoplay.playingTogether.header.3=Realm - 함께 플레이하기에 가장 좋은 방법	#
-howtoplay.playingTogether.text.6=§eRealm§f을 통해 쉽게 친구와 함께 플레이할 수 있습니다.	#
+howtoplay.playingTogether.header.3=Realm - 함께 플레이하기에 가장 좋은 방법	#### {StrContains=realms} {MaxLength=114}
+howtoplay.playingTogether.text.6=§eRealm§f을 통해 쉽게 친구와 함께 플레이할 수 있습니다.	#### {StrContains=realms} {MaxLength=144}
 howtoplay.playingTogether.text.7=본인과 최대 10명의 친구가 항상 온라인 상태인 월드에 연중무휴로 액세스할 수 있습니다. 탐험하거나, 창의력을 발휘하거나, 마켓플레이스에서 선별된 콘텐츠를 사용해 보세요.	#
-howtoplay.playingTogether.text.8=유료 Realm 구독만 있으면 됩니다. 무료 30일 체험판을 사용해 보시겠어요?	#
+howtoplay.playingTogether.text.8=유료 Realm 구독만 있으면 됩니다. 무료 30일 체험판을 사용해 보시겠어요?	#### {StrContains=realms} {MaxLength=228}
 howtoplay.playingTogether.header.4=플레이어 권한	#
 howtoplay.playingTogether.text.9=§e플레이어 권한§f을 변경하여 월드에서 사람들이 무엇을 할 수 있는지 결정할 수 있습니다.	#
 howtoplay.playingTogether.text.10=게임 메뉴를 열어 현재 월드에 있는 플레이어 목록을 확인한 다음 권한 아이콘을 선택하여 해당 플레이어의 권한을 조정할 수 있습니다.	#
-howtoplay.playingTogether.realms=Realm 해보기	#
-howtoplay.playingTogether.signIn=Realm을 사용하려면 로그인하세요	#
+howtoplay.playingTogether.realms=Realm 해보기	#### {StrContains=realms} {MaxLength=30}
+howtoplay.playingTogether.signIn=Realm을 사용하려면 로그인하세요	#### {StrContains=realms} {MaxLength=63}
 
 howtoplay.chalkboard=칠판	#
 howtoplay.chalkboard.title=플레이 방법: 칠판	#
@@ -3809,10 +3873,10 @@ howtoplay.elytra.text.6=아무 효과가 추가되지 않은 폭죽 로켓은 �
 howtoplay.enchantingTable=마법 부여대	#
 howtoplay.enchantingTable.text.1=경험치 구슬을 흡수하여 쌓은 경험치 점수는 무기와 갑옷, 도구, 책에 마법을 부여하는 데 사용할 수 있습니다.	#
 howtoplay.enchantingTable.header.1=마법 부여	#
-howtoplay.enchantingTable.text.2=마법 부여가 가능한 아이템을 마법 부여대의 책 아래 슬롯에 넣으면 오른쪽 슬롯 옆 세 개의 버튼에서 아이템에 부여할 수 있는 효과와 해당 효과부여에 필요한 경험치 레벨과 청금석이 표시됩니다.	#
+howtoplay.enchantingTable.text.2=마법 부여가 가능한 아이템을 마법 부여대의 책 아래 슬롯에 넣으면 오른쪽 슬롯 옆 세 개의 버튼에서 아이템에 부여할 수 있는 효과와 해당 효과부여에 필요한 경험치 레벨과 청금석이 표시됩니다.	# {MaxLength="500"}
 howtoplay.enchantingTable.text.3=실제로 적용되는 마법 부여는 표시된 비용에 따라 임의로 정해집니다.	#
 howtoplay.enchantingTable.header.2=더 강력한 마법 부여하기	#
-howtoplay.enchantingTable.text.4=마법 부여대에서 1 블록 간격을 두고 주변을 최대 15개의 책장으로 둘러싸면 마법 부여대의 책에서 신비롭게 빛나는 문양을 볼 수 있으며 효과부여의 강도가 높아집니다.	#
+howtoplay.enchantingTable.text.4=마법 부여대에서 1 블록 간격을 두고 주변을 최대 15개의 책장으로 둘러싸면 마법 부여대의 책에서 신비롭게 빛나는 문양을 볼 수 있으며 효과부여의 강도가 높아집니다.	#### How To Play help text. {MaxLength="500"}
 howtoplay.enchantingTable.header.3=마법이 부여된 책	#
 howtoplay.enchantingTable.text.5=마법이 부여된 책을 모루에서 사용하면 아이템에 마법을 부여할 수 있습니다. 이 방식을 사용하면 아이템에 원하는 마법을 부여할 가능성이 더 높아집니다.	#
 
@@ -3903,7 +3967,7 @@ howtoplay.gameSettings.header.2=치트 및 게임 규칙	#
 howtoplay.gameSettings.text.9=§e치트 활성화§f: 플레이어의 명령어 사용을 허용하는 설정입니다. 이 설정이 켜져 있으면 해당 월드의 모든 도전 과제가 비활성화됩니다.	#
 howtoplay.gameSettings.text.10=아래 게임 규칙은 치트가 켜져 있어야 사용할 수 있습니다.	#
 howtoplay.gameSettings.text.11=§e항상 낮§f: 이 설정이 켜져 있으면 밤이 되지 않습니다.	#
-howtoplay.gameSettings.text.12=§e시간대 전환 사용§f: 이 설정이 꺼져 있으면 시간이 정지됩니다.	#
+howtoplay.gameSettings.text.12=§e시간대 전환 사용§f: 이 설정이 꺼져 있으면 시간이 정지됩니다.	#### How To Play help text. {MaxLength="500"}
 howtoplay.gameSettings.text.13=§e보관함 보존§f: 이 설정을 사용하면 플레이어가 사망해도 보관함의 아이템을 잃지 않습니다.	#
 howtoplay.gameSettings.text.14=§e몹 생성§f: 이 설정이 꺼져 있으면 모든 몹이 생성되지 않습니다.	#
 howtoplay.gameSettings.text.15=§e몹에 의한 괴롭힘§f: 이 설정을 사용하면 몹이 월드에 피해를 입힐 수 없습니다.	#
@@ -3982,7 +4046,7 @@ howtoplay.minecoins.text.1=Minecraft의 게임 내 화폐인 Minecoins로 가능
 howtoplay.minecoins.text.2=Minecoin은 수령하면 Microsoft 계정과 연동되므로 다른 호환되는 기기들에서도 코인 및 구매한 상품을 이용할 수 있습니다!	#
 howtoplay.minecoins.button.text.1=코인 구매하기	#
 howtoplay.minecoins.header.1=주의 사항	#
-howtoplay.minecoins.text.3=*Minecoin을 사용하려면 Minecraft 마켓플레이스가 포함된 Minecraft: Bedrock Edition 버전이 필요합니다. Minecoin은 PlayStation®과 호환되지 않습니다. 호환성 정보는 minecraft.net/minecoins에서 확인하세요.	#### CertRequirement: [PlayStation®]
+howtoplay.minecoins.text.3=*Minecoin을 사용하려면 Minecraft 마켓플레이스가 포함된 Minecraft: Bedrock Edition 버전이 필요합니다. Minecoin은 PlayStation®과 호환되지 않습니다. 호환성 정보는 minecraft.net/minecoins에서 확인하세요.	#### CertRequirement:{PS4}[PlayStation®] CertRequirement:{PS5}[PlayStation®]{MaxLength=3000}
 
 
 howtoplay.mining=채굴	#
@@ -4144,25 +4208,25 @@ howtoplay.recipeBook.text.2.gamepad=필요한 제작 재료를 모았다면 제�
 howtoplay.recipeBook.text.2.touch=필요한 제작 재료를 모았다면 제작법을 한 번 더 탭한 다음, 결과물 슬롯에서 핫바 또는 보관함으로 옮기세요.	#
 
 howtoplay.redstone=레드스톤	#
-howtoplay.redstone.text.1=레드스톤 가루는 레드스톤에서 얻을 수 있으며 전기 신호를 전달합니다. 작동 중인 레드스톤 가루는 밝게 빛나며 옆에 있는 다른 레드스톤 아이템에 동력을 전달합니다.	#
+howtoplay.redstone.text.1=레드스톤 가루는 레드스톤에서 얻을 수 있으며 전기 신호를 전달합니다. 작동 중인 레드스톤 가루는 밝게 빛나며 옆에 있는 다른 레드스톤 아이템에 동력을 전달합니다.	# {MaxLength="500"}
 howtoplay.redstone.header.1=레드스톤 동력	#
 howtoplay.redstone.text.2=이 아이템 중 하나를 작동시키려면 손잡이, 버튼 또는 압력판 등의 동력원이 필요합니다. 실험을 통해 모두 찾아보세요!	#
 howtoplay.redstone.text.3=레드스톤 가루를 동력원 옆에 뿌리고 작동하면 동력이 발생합니다.	#
 howtoplay.redstone.text.4=호퍼나 피스톤 등 레드스톤 신호로 작동할 수 있는 아이템과 그 작동 효과는 다양합니다.	#
 howtoplay.redstone.text.5=레드스톤의 활용 방법에는 제한이 없습니다. 자동 농장처럼 플레이에 유용한 무언가를 만들어보세요!	#
 
-howtoplay.realms_stories=Realm 스토리	#
+howtoplay.realms_stories=Realm 스토리	#### {StrContains=realms} {MaxLength=42}
 howtoplay.realms_stories.text.1=여러분과 Realm의 모든 멤버를 위한 소셜 허브입니다. 스토리 피드에 스토리를 게시하여 모험과 창작물을 공유하고, 다른 멤버가 올린 스토리에 좋아요를 누르고 댓글을 달아 보세요.	#
 howtoplay.realms_stories.header.1=스토리를 들려주세요	#
 howtoplay.realms_stories.text.2=스토리 피드에서 스토리 추가 버튼을 클릭하면 나만의 스토리를 작성할 수 있습니다. 스크린샷 또는 텍스트(또는 둘 다!)를 선택해 입력할 수 있습니다. 게시 버튼을 클릭하면 모든 Realm의 멤버가 즐길 수 있도록 스토리 피드에 텍스트/스크린샷이 게시됩니다. 게시할 스크린샷이 없는 경우, 게임 메뉴의 §e카메라§f:camera:를 사용해 장면을 캡처할 수 있습니다.	#
 howtoplay.realms_stories.header.2=최신 정보를 놓치지 마세요	#
-howtoplay.realms_stories.text.3=피드에 아직 읽지 않은 새 스토리가 있을 때마다 Realm 스토리 버튼에 숫자가 표시됩니다. 내 Realm의 커뮤니티에 새로운 읽을 거리가 있으면 언제든 알 수 있습니다. 다른 사람이 공유한 내용이 마음에 들면 좋아요를 누르거나 댓글을 남기세요!	#
+howtoplay.realms_stories.text.3=피드에 아직 읽지 않은 새 스토리가 있을 때마다 Realm 스토리 버튼에 숫자가 표시됩니다. 내 Realm의 커뮤니티에 새로운 읽을 거리가 있으면 언제든 알 수 있습니다. 다른 사람이 공유한 내용이 마음에 들면 좋아요를 누르거나 댓글을 남기세요!	#### {StrContains=realms} {MaxLength=882}
 howtoplay.realms_stories.header.3=플레이 약속을 짜 보세요	#
 howtoplay.realms_stories.text.4=타임라인에서 누가 언제 플레이했는지 확인하세요. 스크롤을 내려 Realm 멤버 목록을 확인하며 마지막으로 플레이한 시간과 함께 플레이한 사람들을 확인하세요. 이 정보를 참고하여 모두가 함께 플레이할 수 있는 시간을 정하세요.	#
 howtoplay.realms_stories.header.4=Realm에 누가 있는지 알아보기	#
-howtoplay.realms_stories.text.5=멤버 탭을 사용해 Realm에 누가 있는지 알아보세요. 이곳에서 플레이할 수 있는 모든 플레이어의 목록을 확인할 수 있습니다. Realm의 주인과 운영자가 누구인지, 해당 Realm의 Realms Stories에 참여한 사람이 누구인지 확인할 수 있습니다. 검색, 정렬, 필터 옵션이 있어 원하는 멤버를 정확하게 찾을 수 있습니다.	#
+howtoplay.realms_stories.text.5=멤버 탭을 사용해 Realm에 누가 있는지 알아보세요. 이곳에서 플레이할 수 있는 모든 플레이어의 목록을 확인할 수 있습니다. Realm의 주인과 운영자가 누구인지, 해당 Realm의 Realms Stories에 참여한 사람이 누구인지 확인할 수 있습니다. 검색, 정렬, 필터 옵션이 있어 원하는 멤버를 정확하게 찾을 수 있습니다.	#### {StrContains=realms} {MaxLength=939}
 howtoplay.realms_stories.header.5=어디서든 접속하세요	#
-howtoplay.realms_stories.text.6=Realm 스토리는 Realm에서 플레이 중 게임 메뉴에서, 그리고 Realm 탭에서 이용할 수 있습니다. 게임을 플레이하지 않을 때에도 어디서든 최신 소식을 확인하고 스토리를 전할 수 있습니다. 콘솔, 컴퓨터, 모바일 기기에서 어디서나 Realm 스토리를 이용해 보세요.	#
+howtoplay.realms_stories.text.6=Realm 스토리는 Realm에서 플레이 중 게임 메뉴에서, 그리고 Realm 탭에서 이용할 수 있습니다. 게임을 플레이하지 않을 때에도 어디서든 최신 소식을 확인하고 스토리를 전할 수 있습니다. 콘솔, 컴퓨터, 모바일 기기에서 어디서나 Realm 스토리를 이용해 보세요.	#### {StrContains=realms} {MaxLength=855}
 
 
 howtoplay.scaffolding=비계	#
@@ -5206,7 +5270,7 @@ item.cooked_beef.name=스테이크	#
 item.cooked_chicken.name=익힌 닭고기	#
 item.cooked_porkchop.name=익힌 돼지고기	#
 item.chicken.name=익히지 않은 닭고기	#
-item.clay_ball.name=점토	#
+item.clay_ball.name=점토 덩이	#
 item.clock.name=시계	#
 item.coal.name=석탄	#
 item.comparator.name=레드스톤 비교기	#
@@ -6096,8 +6160,9 @@ menu.howToPlay.access.noicon=[A] 버튼을 눌러 플레이 방법을 여세요!
 menu.inbox=받은 편지함	#
 menu.loadingLevel=월드를 불러오는 중...	#
 menu.multiplayer=멀티플레이	#
-menu.online=Minecraft Realm	#
+menu.online=Minecraft Realm	#### {StrContains=realms} {MaxLength=48}
 menu.openMainMenu=메인 메뉴 열기	#
+menu.moreOptions=추가 설정		#### Shows under the getting started button for new players. Opens the normal start menu {MaxLength="40"}
 menu.options=설정	#
 menu.settings=설정	#
 menu.settings.caps=설정	#
@@ -6310,7 +6375,6 @@ options.csbExpired=%s 이후 만료됨	#
 options.csbHeading=MARKETPLACE PASS			#### {StrContains="MARKETPLACE PASS"}
 options.csbInfoLine01=150개 이상의 마켓플레이스 팩 및 아이템 카탈로그 	#### {MaxLength="100"}
 options.csbInfoLine02=매월 업데이트되는 콘텐츠	#
-options.csbSubheading=마켓플레이스 콘텐츠	#
 options.customizeTitle=사용자 지정 월드 설정	#
 options.destroyvibration=블록 파괴 시 진동	#
 options.splitvibration=스택 분할 시 진동	#
@@ -6323,7 +6387,7 @@ options.delete_account.confirm.warning=경고: %s 계정을 삭제하면 더 이
 options.delete_account.confirm.warning.2=이 게임에서 Microsoft 계정을 삭제할 경우 해당 계정을 사용하는 모든 Minecraft 게임에 영향을 미칠 것입니다.	#
 options.delete_account.confirm.checkbox1=다른 플랫폼에서 플레이할 때 더 이상 게임 내 상점 콘텐츠를 이용할 수 없습니다.	#
 options.delete_account.confirm.checkbox2=더 이상 친구들과 온라인으로 플레이할 수 없습니다.	#
-options.delete_account.confirm.checkbox3=더 이상 Realm에 접속할 수 없습니다. 여기에는 현재 활성화된 Realm 구독 또한 포함됩니다.	#
+options.delete_account.confirm.checkbox3=더 이상 Realms에 접속할 수 없습니다. 여기에는 현재 활성화된 Realms 구독 또한 포함됩니다.		#### {StrContains=realms} {MaxLength=306}
 options.delete_account.confirm.checkbox4=위 내용을 이해했으며 계정 삭제를 계속 진행하고 싶습니다.	#
 options.delete_account.confirm.button=삭제	#
 options.dev_game_tip=게임 플레이 팁	#
@@ -6344,8 +6408,8 @@ options.dev_force_trial_mode=체험판 모드 강제 활성화	#
 options.dev_eduDemo=교육용 데모(다시 로그인 필요)	#
 options.remote_imgui_toggle=원격 IMGUI 사용	#
 options.dev_enableDebugUI=디버그 UI 사용	#
-options.dev_createRealmWithoutPurchase=구매하지 않고 Reaml 생성	#
-options.dev_flushOrphanedRealmsPurchases=모든 싱글 Realm 구매 제거	#
+options.dev_createRealmWithoutPurchase=구매하지 않고 Realm 생성		#### {MaxLength=90}
+options.dev_flushOrphanedRealmsPurchases=모든 싱글 Realms 구매 제거		#### {StrContains=realms} {MaxLength=93}
 options.dev_enableMixerInteractive=Mixer 방송 명령어 사용 설정	#
 options.dev_storeOfferQueryRequiresXbl=스토어 제품 XBL이 필요합니다.	###disable_3rd_party_console_resource_pack_check
 options.dev_renderBoundingBox=바운딩 박스 랜더링	#
@@ -6374,7 +6438,7 @@ options.dev_serverInstanceThread=서버 인스턴스 스레드	#
 options.dev_newCuller=새 선별자 사용	#
 options.dev_showBuildInfo=빌드 정보 표시	#
 options.dev_showDevConsoleButton=개발자 콘솔 버튼 표시	#
-options.dev_realmsPermissionsEnabledButton=Realm 사용 권한 표시	#
+options.dev_realmsPermissionsEnabledButton=Realms 사용 권한 표시		#### {StrContains=realms} {MaxLength=69}
 options.dev_enableProfiler=프로파일러 활성화	#
 options.dev_newParticleSystem=새로운 입자 시스템 사용	#
 options.dev_enableDebugHudOverlay=디버그 HUD 사용	#
@@ -6451,19 +6515,19 @@ options.discoveryEnvironment.staging=스테이징	#
 options.discoveryEnvironment.local=로컬	#
 options.discoveryEnvironment.dev=개발 [불안정]	#
 options.discoveryEnvironment.perf=성능 [매우 불안정함]	#
-options.dev_realmsEnvironment=Realm 환경	#
+options.dev_realmsEnvironment=Realms 환경		#### {StrContains=realms} {MaxLength=54}
 options.dev_realms_environment.production=프로덕션	#
 options.dev_realms_environment.staging=스테이징	#
 options.dev_realms_environment.local=로컬	#
 options.dev_realms_environment.dev=개발	#
-options.dev_realmsSku=Realm SKU	#
+options.dev_realmsSku=Realms SKU		#### {StrContains=realms} {MaxLength=30}
 options.dev_realms_sku.production=프로덕션	#
 options.dev_realms_sku.fiveday=5일	#
 options.dev_realms_sku.default=기본	#
-options.dev_realmsEndpoint=Realm 엔드포인트	#
-options.dev_realmsEndpointPayment=Realm 엔드포인트 결제	#
-options.dev_realmsRelyingParty=Realm RP	#
-options.dev_realmsRelyingPartyPayment=Realm RP 결제	#
+options.dev_realmsEndpoint=Realms 엔드포인트		#### {StrContains=realms} {MaxLength=45}
+options.dev_realmsEndpointPayment=Realms 엔드포인트 결제		#### {StrContains=realms} {MaxLength=69}
+options.dev_realmsRelyingParty=Realms RP		#### {StrContains=realms} {MaxLength=60}
+options.dev_realmsRelyingPartyPayment=Realms RP 결제		#### {StrContains=realms} {MaxLength=84}
 options.dev_overrideXboxEnvironmentWindows=Xbox 샌드박스 재정의(Windows에서 제어되는 OS)	#
 options.dev_overrideXboxEnvironment=Xbox 샌드박스 재정의(재시작 필요)	#
 options.dev_xboxEnvironment=Xbox 샌드박스 환경(재시작 필요)	#
@@ -6488,14 +6552,14 @@ options.dev_addLabel=추가	#
 options.dev_applyTreatments=실험 적용	#
 options.dev_resetToDefault=기본값으로 초기화	#
 options.dev_clearFlights=지우기	#
-options.dev_experimentalProgressions=진행 상황 재정의	#
-options.dev_overrideRealmsFeatures=Realms 기능 재정의			#### Realms Features are dev flags that are hidden to players; this is an option to replace which ones are enabled or disabled
-options.dev_displayProgressionsPanel=진행 상황 표시	#
-options.dev_displayRealmsFeaturesPanel=Realms 기능 표시			#### Dev-only option to display Realms feature flags in the options menu
-options.dev_addProgressionId=진행 ID 추가	#
-options.dev_addRealmsFeatureId=Realms 기능 ID 추가			#### Dev-only button to add a Realms feature flag by name (ID)
-options.dev_currentRealmsFeaturesTitle=Realms 기능 플래그 활성화됨			#### Dev-only menu displaying enabled Realms feature flags
-options.dev_unusedRealmsFeaturesTitle=Realms 기능 플래그 비활성화됨			#### Dev-only menu displaying disabled Realms feature flags
+options.dev_experimentalConfigurations=Override Configurations		#### Dev-only option to replace configuration feature flags {MaxLength=30}
+options.dev_overrideRealmsFeatures=Realms 기능 재정의			#### Realms Features are dev flags that are hidden to players; this is an option to replace which ones are enabled or disabled {StrContains=Realms} {MaxLength=30}
+options.dev_displayConfigurationsPanel=Display Configurations		#### Dev-only option to display configuration feature flags {MaxLength=30}
+options.dev_displayRealmsFeaturesPanel=Realms 기능 표시			#### Dev-only option to display Realms feature flags in the options menu {StrContains=Realms} {MaxLength=30}
+options.dev_addConfigurationId=Add Configuration Id		#### Dev-only option to add a configuration feature flag by name (ID) {MaxLength=30}
+options.dev_addRealmsFeatureId=Realms 기능 ID 추가			#### Dev-only button to add a Realms feature flag by name (ID) {StrContains=Realms} {MaxLength=30}
+options.dev_currentRealmsFeaturesTitle=Realms 기능 플래그 활성화됨			#### Dev-only menu displaying enabled Realms feature flags {StrContains=Realms} {MaxLength=30}
+options.dev_unusedRealmsFeaturesTitle=Realms 기능 플래그 비활성화됨			#### Dev-only menu displaying disabled Realms feature flags {StrContains=Realms} {MaxLength=30}
 options.dev_reset_day_one_experience=발매일 경험치 초기화	#
 options.dev_reset_new_player_flow=새 플레이어 플로우 초기화 (월드와 팩을 삭제해야 함)	#
 options.dev_useZippedInPackagePacks=압축된 In-package 팩 사용	#
@@ -6521,6 +6585,7 @@ options.dev_overrideVersionPatch=패치	#
 options.dev_updateVersionOverride=클라이언트 버전 재정의 업데이트	#
 options.dev_resetOverrideDate=재정의 날짜 초기화	#
 options.dev_clearStoreCache=마켓플레이스 캐시 삭제	#
+options.dev_clearDownloadeCache=다운로드 캐시 삭제		#### Clears the internal download storage cache. {MaxLength="50"}
 options.dev_clearLibraryCache=라이브러리 캐시 지우기	#
 options.dev_clearScreenshotsCache=스크린샷 캐시 삭제	#
 options.dev_clearAllCache=모든 캐시 삭제	#
@@ -6533,7 +6598,7 @@ options.dev_connection_slow=느림 - 400Kbps, 지연 속도 300ms, 패킷 손실
 options.dev_connection_veryslow=매우 느림 - 200Kbps, 지연 속도 400ms, 패킷 손실 4%	#
 options.dev_deleteAllPersonas=모든 페르소나 삭제	#
 options.dev_deleteLocalScreenshots=로컬 스크린샷 삭제	#
-options.dev_deleteLegacyPersona=유산 페르소나 슬롯을 삭제하다	#
+options.dev_deleteLegacyPersona=오래된 페르소나 슬롯 삭제	#
 options.dev_identity_environment=새 ID 및 온라인 인프라 환경(다시 시작 필요)	#
 options.dev_identity_environment.dev=개발팀	#
 options.dev_identity_environment.test=테스트	#
@@ -6613,8 +6678,8 @@ options.fullKeyboardLayout=전체 키보드 레이아웃	#
 options.improvedInputResponsePlaceholder=개선된 입력 반응	#
 options.improvedInputResponsePlaceholder.tooltip=입력과 화면에 표시되는 내용 사이의 지연을 줄입니다. 이 설정은 배터리 전력을 더 많이 사용할 수 있습니다.	#
 options.dynamicTexturesToggle=권장 텍스처 제한 사용	#
-options.dynamicTexturesToggle.tooltip=Mojang이 텍스처 제한을 설정하도록 허용합니다. 이를 통해 텍스처 품질이 크게 향상됩니다. 대용량의 애드온과 리소스 팩으로 문제를 겪고 있다면 이 설정을 끄세요.	#
-options.dynamicTextures.popUp=권장 텍스처 제한 사용 옵션을 끄고 이를 적용하려면 게임을 다시 시작해야 합니다.	#
+options.dynamicTexturesToggle.tooltip=Mojang이 텍스처 제한을 설정하도록 허용합니다. 이를 통해 텍스처 품질을 크게 향상할 수 있습니다. 대용량의 애드온과 리소스 팩으로 문제를 겪고 있다면 이 설정을 끄세요.	#
+options.dynamicTextures.popUp=권장 텍스처 제한 사용 옵션을 껐을 시, 이를 적용하려면 게임을 다시 시작해야 합니다.	#
 options.dynamicTextures.popUp.title=계속하시겠습니까?	#
 options.dynamicTextures.popUp.continue=끄기	#
 options.fullscreen=전체 화면	#
@@ -6650,7 +6715,7 @@ options.group.graphics=그래픽	#
 options.group.graphics.experimental=실험	#
 options.group.input=컨트롤	#
 options.group.multiplayer=멀티 플레이	#
-options.group.realms=Realm 알파 서버로 이동?	#
+options.group.realms=Realms 알파 서버로 이동?		#### {StrContains=realms} {MaxLength=72}
 options.guiScale=방향 패드 사이즈	#
 options.guiScale.auto=자동	#
 options.guiScale.disabled=이 모니터는 UI 크기 조정이 지원되지 않으며, 그 이유는 대부분 해상도가 낮기 때문일 수 있습니다.	#
@@ -6820,7 +6885,7 @@ options.screenPositionX=수평 화면 배치	#
 options.screenPositionY=수직 화면 배치	#
 options.sensitivity=카메라 감도	#
 options.sensitivity.max=겁나 빠름!!!	#
-options.sensitivity.min=*하~품...*	#
+options.sensitivity.min=*하~007E;품...*	#
 options.spyglassdampen=망원경 감도	#
 options.staticjoystick=조이스틱 잠금	#
 options.dwellbeforedragtime=드래깅하기 전에 체류 시간 (ms)	#
@@ -6839,7 +6904,7 @@ options.xboxLiveAccountSettings=Microsoft 계정 설정	#
 options.xboxLiveSignedIn=Microsoft 계정으로 로그인함	#
 options.xboxLiveSignedOut=Microsoft 계정에서 로그아웃함	#
 options.xboxLive.privacyControl=개인 정보 보호 및 온라인 안전	#
-options.realms.checkInvites=Realm 멤버십 초대 관리	#
+options.realms.checkInvites=Realms 멤버십 초대 관리		#### {StrContains=realms} {MaxLength=96}
 options.skinCustomisation=사용자 지정 스킨...	#
 options.skinCustomisation.title=사용자 지정 스킨	#
 options.skin.change=스킨 변경	#
@@ -6936,14 +7001,14 @@ options.viewSubscriptions.mySubscriptions=내 구독	#
 options.viewSubscriptions.noActiveSubscriptions=현재 활성화된 구독이 없습니다.	#
 options.viewSubscriptions.signIn=로그인	#
 options.viewSubscriptions.buyAnAdditionalRealm=추가 Realm 구매	#
-options.viewSubscriptions.realmsPlusSubscriptionForRealm=%s Realm용 Realm Plus 구독.	#
-options.viewSubscriptions.additionalSubscriptionForRealm=%s Realm용 추가 구독.	#
+options.viewSubscriptions.realmsPlusSubscriptionForRealm=%s Realm용 Realms Plus 구독.		#### {StrContains=realms} {MaxLength=114}
+options.viewSubscriptions.additionalSubscriptionForRealm=%s Realm용 추가 구독.		#### {MaxLength=120}
 options.viewSubscriptions.realmsServer=Realms 서버 	#### {MaxLength="80"} {StrContains="Realms"}
 options.viewSubscriptions.startedInStore=상점에서 시작했습니다: %s	#
 options.viewSubscriptions.boughtOnAnotherDevice=다른 장치에서 구매함	#
-options.viewSubscriptions.deviceSunsetting=버전이 곧 Realm에 액세스하지 못할 수 있습니다.	#
-options.viewSubscriptions.deviceSunset=버전이 Realm에 액세스할 수 없습니다.	#
-options.viewSubscriptions.consumableToSubscriptionTransitionInfo=이 Realm은 갱신 정기구독에 연결되어 있지 않습니다. 만료되면 다시 활성화할 수 있습니다.	#
+options.viewSubscriptions.deviceSunsetting=버전이 곧 Realms에 액세스하지 못할 수 있습니다.		#### {StrContains=realms} {MaxLength=117}
+options.viewSubscriptions.deviceSunset=버전이 Realms에 액세스할 수 없습니다.		#### {StrContains=realms} {MaxLength=99}
+options.viewSubscriptions.consumableToSubscriptionTransitionInfo=이 Realm은 갱신 정기 구독 서비스에 연결되어 있지 않습니다. 만료되면 다시 활성화할 수 있습니다.	#
 options.swapJumpAndSneak=점프와 웅크리기 버튼 위치 바꾸기	#
 options.swapGamepadAB=A/B 버튼 교체	#
 options.swapGamepadXY=X/Y 버튼 교체	#
@@ -7066,21 +7131,23 @@ options.openPage.continue=추가 정보	#
 options.graphicsMode=그래픽 모드	#
 options.graphicsMode.simple=단순하게	#
 options.graphicsMode.fancy=화려하게	#
-options.graphicsMode.deferred=디퍼드 기술 미리 보기	#
+options.graphicsMode.deferred=선명한 비주얼   	#### Vibrant as in full of energy and life, bright and colorful, strong or resonant. Visuals as in what players can see, alternative word View. Avoid words like Graphics Mode {MaxLength="36"}
 options.graphicsMode.rayTraced=광선 추적	#
+options.graphicsMode.tooltip=선명한 비주얼을 사용하려면 지원되는 기기가 필요하며, 마켓플레이스의 텍스처 팩 또는 월드와 호환되지 않습니다.    	#### Vibrant should be full of energy and life, bright and colorful, strong or resonant. Visuals can be synonymous with views. Avoid Graphics Mode as translation for these words. {MaxLength="120"}
 options.graphicsQualityPresetMode=품질 프리셋 모드	#
 options.graphicsQualityPresetMode.performance=성능 선호	#
 options.graphicsQualityPresetMode.visuals=시각 선호	#
 options.graphicsQualityPresetMode.custom=사용자 지정	#
 options.graphicsModeOptions.simple=단순한 그래픽 옵션	#
 options.graphicsModeOptions.fancy=화려한 그래픽 옵션	#
-options.graphicsModeOptions.deferred=디퍼드 그래픽 옵션	#
+options.graphicsModeOptions.deferred=선명한 비주얼 옵션    	#### Vibrant as in full of energy and life, bright and colorful, strong or resonant. Visuals as in what players can see, alternative word View. Avoid words like Graphics Mode, first phrase should be the same value as options.graphicsMode.deferred {MaxLength="35"}
 options.graphicsModeOptions.rayTraced=광선 추적 그래픽 옵션	#
 options.shadowQuality=그림자 품질	#
 options.shadowQuality.low=낮음	#
 options.shadowQuality.medium=중간	#
 options.shadowQuality.high=높음	#
 options.shadowQuality.ultra=매우 높음	#
+options.pointLightLODingQuality.off=끄기		#### {MaxLength=32}
 options.pointLightShadowQuality=점광원 그림자	#
 options.pointLightShadowQuality.off=끄기	#
 options.pointLightShadowQuality.low=낮음	#
@@ -7110,6 +7177,11 @@ options.reflectionsQuality.low=낮음	#
 options.reflectionsQuality.medium=중간	#
 options.reflectionsQuality.high=높음	#
 options.reflectionsQuality.ultra=가장 높음	#
+options.cloudQuality=구름		#### Cloud quality slider name {MaxLength=32}
+options.cloudQuality.low=낮음		#### {MaxLength=32}
+options.cloudQuality.medium=중간		#### {MaxLength=32}
+options.cloudQuality.high=높음		#### {MaxLength=32}
+options.cloudQuality.ultra=매우 높음		#### {MaxLength=32}
 
 options.dcast_character.Title=캐릭터 생성의 새로운 캐릭터	#
 
@@ -7125,8 +7197,8 @@ sunsetting.popup.title=이 장치는 더 이상 지원되지 않습니다.	#
 sunsetting.popup.moreInfo=추가 정보	#
 sunsetting.popup.dontshow=이 메시지를 다시 표시 안 함	#
 
-sunsetting.popup.pendingSunset.device=이 장치에 대한 지원이 곧 종료됩니다. 2025년 3월에 이 장치의 마지막 업데이트가 이루어지며, 그때까지는 업데이트를 받을 수 있습니다.%s마지막 업데이트가 완료된 후에도 여러분의 월드에서 계속 플레이할 수 있으며, Minecoins를 포함한 마켓플레이스 구매 항목을 이용할 수 있습니다. 이 장치에서 관리되는 Realm은 해당 Realm의 소유자가 다른 장치에서 업데이트를 받지 않는 한 6개월 동안 더 이용할 수 있습니다.%sRealm 정기 구독 취소는 해당 Realm이 생성된 장치의 설정 메뉴의 정기 구독에서 할 수 있습니다.%s귀하는 더 이상 최신 업데이트를 받을 수 없게 되며, 계속 업데이트를 받는 장치와 Realm에서 멀티 플레이를 할 수 없습니다. 또한 일부 서버에 연결할 수 없게 됩니다.%s자세한 정보를 확인하려면 버튼을 클릭하세요.	#
-sunsetting.popup.sunset.device=이 장치에 대한 지원이 종료되었습니다. 2025년 3월부터 이 장치에서 업데이트를 받을 수 없으며, 이번 업데이트가 이 장치의 마지막 업데이트입니다.%s업데이트 이후에도 여러분의 월드에서 계속 플레이할 수 있으며, Minecoins를 포함한 마켓플레이스 구매 항목을 이용할 수 있습니다. 이 장치에서 관리되는 Realm은 해당 Realm의 소유자가 다른 장치에서 업데이트를 받지 않는 한 2025년 3월부터 6개월 동안 더 이용할 수 있습니다.%sRealm 정기 구독 취소는, 해당 Realm이 생성된 장치의 설정 메뉴의 정기 구독에서 할 수 있습니다.%s귀하는 더 이상 최신 업데이트를 받을 수 없게 되며, 계속 업데이트를 받는 장치와 Realm에서 멀티 플레이를 할 수 없습니다. 또한 일부 서버에 연결할 수 없게 됩니다.%s자세한 정보를 확인하려면 버튼을 클릭하세요.	#
+sunsetting.popup.pendingSunset.device=이 장치에 대한 지원이 곧 종료됩니다. 2025년 3월에 이 장치의 마지막 업데이트가 이루어지며, 그때까지는 업데이트를 받을 수 있습니다.%s마지막 업데이트가 완료된 후에도 여러분의 월드에서 계속 플레이할 수 있으며, Minecoins를 포함한 마켓플레이스 구매 항목을 이용할 수 있습니다. 이 장치에서 관리되는 Realm은 해당 Realm의 소유자가 다른 장치에서 업데이트를 받지 않는 한 6개월 동안 더 이용할 수 있습니다.%sRealm 정기 구독 취소는 해당 Realm이 생성된 장치의 설정 메뉴의 정기 구독에서 할 수 있습니다.%s귀하는 더 이상 최신 업데이트를 받을 수 없게 되며, 계속 업데이트를 받는 장치와 Realm에서 멀티 플레이를 할 수 없습니다. 또한 일부 서버에 연결할 수 없게 됩니다.%s자세한 정보를 확인하려면 버튼을 클릭하세요.	#### {StrContains=realms} {MaxLength=2499}
+sunsetting.popup.sunset.device=이 장치에 대한 지원이 종료되었습니다. 2025년 3월부터 이 장치에서 업데이트를 받을 수 없으며, 이번 업데이트가 이 장치의 마지막 업데이트입니다.%s업데이트 이후에도 여러분의 월드에서 계속 플레이할 수 있으며, Minecoins를 포함한 마켓플레이스 구매 항목을 이용할 수 있습니다. 이 장치에서 관리되는 Realm은 해당 Realm의 소유자가 다른 장치에서 업데이트를 받지 않는 한 2025년 3월부터 6개월 동안 더 이용할 수 있습니다.%sRealm 정기 구독 취소는, 해당 Realm이 생성된 장치의 설정 메뉴의 정기 구독에서 할 수 있습니다.%s귀하는 더 이상 최신 업데이트를 받을 수 없게 되며, 계속 업데이트를 받는 장치와 Realm에서 멀티 플레이를 할 수 없습니다. 또한 일부 서버에 연결할 수 없게 됩니다.%s자세한 정보를 확인하려면 버튼을 클릭하세요.	#### {StrContains=realms} {MaxLength=2409}
 sunsetting.popup.pendingSunset.windows_xr=이 VR/MR 그래픽 장치는 더 이상 지원되지 않습니다. 이 장치는 이 장치를 지원하는 최종 업데이트를 받게 되는 2025년 3월 이후의 업데이트에서 더 이상 지원되지 않습니다.%s최종 업데이트를 받은 후에도 PC에서 업데이트를 계속 받을 수 있으며 VR/MR 장치 없이 플레이할 수 있습니다. 이 시점부터 자신의 월드를 계속 구축할 수 있으며, 마켓플레이스에서 구매한 것(Minecoins 포함)은 컴퓨터 모니터와 같은 VR/MR이 아닌 그래픽 장치에서 계속 사용할 수 있습니다. 최신 업데이트에서 더 이상 지원되지 않으므로 더 이상 Minecraft에서 VR/MR 장치를 사용할 수 없습니다.%s자세한 내용을 보려면 버튼을 클릭하세요.	#
 sunsetting.popup.sunset.windows_xr=이 VR/MR 그래픽 장치는 더 이상 지원되지 않습니다. 이 VR/MR 장치는 더 이상 지원되지 않습니다. 이 그래픽 장치를 지원하는 최종 업데이트를 받았으며 PC에서 계속 업데이트를 받을 수 있고 VR/MR 장치 없이도 플레이할 수 있습니다. 이 시점부터 여러분은 자신의 월드를 계속 구축할 수 있으며, 마켓플레이스에서 구매한 것(Minecoins 포함)은 컴퓨터 모니터와 같은 VR/MR이 아닌 그래픽 장치에서 계속 사용할 수 있습니다. 최신 업데이트에서 더 이상 지원되지 않으므로 더 이상 Minecraft에서 VR/MR 장치를 사용할 수 없습니다.%s자세한 내용을 보려면 버튼을 클릭하세요. 불편을 끼쳐드려서 죄송하며, 저희 게임에 시간을 할애해 주시고 성원해 주셔서 깊이 감사드립니다.	#
 
@@ -7142,7 +7214,7 @@ sunsetting.store.incompatible=비호환 항목	#
 sunsetting.store.incompatiblePopup=이 콘텐츠는 장치와 호환되지 않습니다. https://aka.ms/MinecraftSunsetting을 확인하세요.	#
 
 pauseScreen.back=게임으로 돌아가기	#
-pauseScreen.realmsStories=Realm 스토리	#
+pauseScreen.realmsStories=Realms Stories		#### {StrContains=realms} {MaxLength=42}
 pauseScreen.currentWorld=현재 월드	#
 pauseScreen.header=게임 메뉴	#
 pauseScreen.options=설정	#
@@ -7248,10 +7320,10 @@ hudScreen.daysPlayed.overflow=너무 많아요!	#
 
 playscreen.fileSize.MB=MB	#
 playscreen.fileSize.GB=GB	#
-playscreen.joinableRealms=접속 가능한 Realm 목록	#
-playscreen.noFriendsRealms=현재 초대된 Realm이 없습니다. 	#
+playscreen.joinableRealms=접속 가능한 Realm 목록		#### {StrContains=realms} {MaxLength=45}
+playscreen.noFriendsRealms=현재 초대된 Realm이 없습니다.		#### {StrContains=realms} {MaxLength=141}
 playscreen.header.local=플레이	#
-playscreen.header.realms=Realm	#
+playscreen.header.realms=Realms		#### {StrContains=realms} {MaxLength=18}
 playscreen.lastPlayed.daysAgo=%1 일 전	#
 playscreen.lastPlayed.longAgo=오래전	#
 playscreen.lastPlayed.today=오늘	#
@@ -7259,30 +7331,30 @@ playscreen.lastPlayed.weeksAgo=%1주 전	#
 playscreen.lastPlayed.yesterday=어제	#
 playscreen.new=신규	#
 playscreen.remoteWorld=원격 월드:	#
-playscreen.realmsTrialWorld=Realm Plus를 30일 동안 무료로 체험해보세요.	#
+playscreen.realmsTrialWorld=30일동안 무료로 Realms Plus를 체험해보세요		#### {StrContains=realms} {MaxLength=96}
 playscreen.freePreviewRealmAvailable=무료 프리뷰 Realm 사용 가능	#
 playscreen.freeBetaRealmAvailable=무료 베타 Realm 사용 가능	#
-playscreen.withYourPaidRealms=유료 Realm 구독으로 이용	#
-playscreen.realmsCreateFirstWorld=첫 Realm을 만들어 보세요.	#
+playscreen.withYourPaidRealms=유료 Realms 구독으로 이용		#### {StrContains=realms} {MaxLength=102}
+playscreen.realmsCreateFirstWorld=첫 Realm을 만들어 보세요.		#### {MaxLength=70}
 playscreen.realmsCombo=친구들과 함께 플레이하고 150개 이상의 팩을 즐기세요	#
 playscreen.realmsGetServer=나만의 서버와 150개 이상의 팩을 받으세요	#
-playscreen.realmGoogleHoldBody=하나 이상의 Realm 구독에 문제가 발생했습니다. Google Play 구독 설정으로 이동하여 결제 수단을 수정하려면 '확인'을 클릭하세요.	#
+playscreen.realmGoogleHoldBody=하나 이상의 Realms 구독에 문제가 발생했습니다. Google Play 구독 설정으로 이동하여 결제 수단을 수정하려면 '확인'을 클릭하세요.		#### {StrContains=realms} {MaxLength=447}
 playscreen.realmsContent=150개가 넘는 마켓플레이스 팩을 플레이하세요	#
-playscreen.checkingRealmsCompatibility=Realm 호환성 검사 중...	#
-playscreen.fetchingRealms=Realm 가져오는 중...	#
+playscreen.checkingRealmsCompatibility=Realms 호환성 검사 중...		#### {StrContains=realms} {MaxLength=96}
+playscreen.fetchingRealms=Realms 가져오는 중...		#### {StrContains=realms} {MaxLength=54}
 playscreen.confirmLeaveMessage=정말로 %1$s Realm에서 나가시겠습니까?	#
 playscreen.confirmLeaveTitle=나가기	#
 playscreen.realmExpired=만료됨	#
 playscreen.realmFull=전체	#
-playscreen.realmClientOutdated=모든 Realm이 업데이트되었습니다. Realm을 계속 플레이하려면 게임을 업데이트해야 합니다.	#
-playscreen.realms=Realm	#
-playscreen.previewRealms=프리뷰 Realm	#
-playscreen.betaRealms=베타 Realm	#
+playscreen.realmClientOutdated=모든 Realm이 업데이트되었습니다. Realm를 계속 플레이하려면 게임을 업데이트해야 합니다.		#### {StrContains=realms} {MaxLength=258}
+playscreen.realms=Realms		#### {StrContains=realms} {MaxLength=18}
+playscreen.previewRealms=프리뷰 Realms		#### {StrContains=realms} {MaxLength=42}
+playscreen.betaRealms=베타 Realms		#### {StrContains=realms} {MaxLength=33}
 playscreen.realmsWarning.moreinfo=추가 정보	#
-playscreen.realmsCompatibilityFailure=지금은 Realm에 연결할 수 없습니다. 재연결을 시도하는 중 입니다.	#
-playscreen.realmsPreProdNotAuthorized=프리 프로덕션 단계에서는 Realm에 액세스할 수 없습니다. 액세스 권한을 얻으려면 #ask-Realm-preprod-access로 문의하거나 aka.ms/Realm-preprod-access에서 가이드를 참조하세요.	#
-playscreen.realmsSignIn=오늘 Realms에서 플레이하려면 로그인하세요!	#
-playscreen.realmsSignInFriends=오늘 친구의 Realms를 보려면 로그인하세요!	#
+playscreen.realmsCompatibilityFailure=지금은 Realms에 연결할 수 없습니다. 곧 다시 시도하겠습니다.		#### {StrContains=realms} {MaxLength=195}
+playscreen.realmsPreProdNotAuthorized=제작 전 단계에서는 Realms에 액세스할 수 없습니다. 액세스 권한을 얻으려면 #ask-Realms-preprod-access로 문의하거나 aka.ms/Realms-preprod-access에서 가이드를 참조하세요.		#### {StrContains=realms} {MaxLength=468}
+playscreen.realmsSignIn=오늘 Realms에서 플레이하려면 로그인하세요!		#### {StrContains=realms} {MaxLength=96}
+playscreen.realmsSignInFriends=오늘 친구의 Realms를 보려면 로그인하세요!		#### {StrContains=realms} {MaxLength=126}
 playscreen.worlds=월드	#
 playscreen.dontSeeLegacyWorlds=월드를 찾을 수 없으신가요?	#
 playscreen.syncLegacyWorlds=기존 월드 동기화하기	#
@@ -7296,10 +7368,10 @@ playscreen.noLegacyWorldsFound.title=월드를 찾을 수 없음	#
 playscreen.noLegacyWorldsFound.body=발견된 다른 버전의 Minecraft에서 월드를 찾을 수 없습니다.	#
 playscreen.failedToAutoSyncLegacyWorlds=기존 월드를 가져올 수 없습니다. 기존 월드를 가져오려면 기기의 저장 공간을 비워주세요.	#
 playscreen.lockedSkin=장착하신 스킨은 크로스 플랫폼 멀티 플레이에서 사용할 수 없는 콘텐츠 팩 스킨입니다. 계속 진행하면 이 월드에서 크로스 플랫폼 멀티 플레이가 비활성화됩니다.	#
-playscreen.multiplayerLockedSkin=장착하신 스킨은 크로스 멀티 플레이에서 사용할 수 없는 스킨 입니다. 계속 착용하고 있으면 해당 월드의 크로스 플랫폼 멀티 플레이가 비활성화 됩니다.	#
+playscreen.multiplayerLockedSkin=장착하신 스킨은 크로스 플랫폼 멀티 플레이에서 사용할 수 없는 스킨 입니다. 계속 착용하고 있으면 해당 월드의 크로스 플랫폼 멀티 플레이가 비활성화 됩니다.	#
 playscreen.worldsStorage=저장 공간	#
 playscreen.delete.legacy.content=정말로 선택한 월드를 삭제하시겠습니까? 지워지면 되돌릴 수 없습니다!	#
-playscreen.delete.legacy.title=%s을(를) 영구적으로 삭제하겠습니까?	#
+playscreen.delete.legacy.title=%s을(를) 영원히 삭제하시겠습니까?	#
 playscreen.delete.legacy.confirm=삭제	#
 playscreen.delete.legacy.deleting=월드를 삭제 중...	#
 playscreen.beta_worlds=베타 월드	#
@@ -7320,12 +7392,12 @@ permissions.ability.invisible=투명화	#
 permissions.ability.teleport=순간이동 사용	#
 permissions.NeedPermission=권한 필요	#
 permissions.AddFriends=귀하의 Microsoft 계정 설정으로 인해 친구를 추가할 수 없습니다. 온라인 보안 설정에서 친구 추가가 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	#
-permissions.MultiplayerSessions=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다. 온라인 보안 설정에서 멀티 플레이가 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	#
+permissions.MultiplayerSessions=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다. 온라인 보안 설정에서 멀티 플레이가 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.		#### {StrContains=realms} {MaxLength=627}
 permissions.Communications=귀하의 Microsoft 계정 설정으로 인해 다른 플레이어와 채팅을 할 수 없습니다. 프라이버시 설정에서 다른 사람과의 자유로운 커뮤니케이션이 허용되어 있는지 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	#
-permissions.RealmsAddFriends=Xbox 계정 설정 때문에 새 친구를 추가하여 여러분의 Realm에서 함께 플레이하지 못하게 됩니다. Xbox.com의 개인 정보와 온라인 안전 정보 설정에서 이 설정을 변경할 수 있습니다. 계속하시겠습니까?	#
+permissions.RealmsAddFriends=Xbox 계정 설정 때문에 친구를 새로 추가하여 Realm에서 함께 플레이할 수 없습니다. Xbox.com의 개인 정보 취급 방침 및 온라인 안전 설정에서 설정을 변경할 수 있습니다. 계속 진행하시겠습니까?		#### {MaxLength=640}
 permissions.CloudSave=계정 설정 때문에 Xbox 프로필에 월드를 저장할 수 없습니다. Xbox.com의 개인 정보 취급 방침 및 온라인 안전 설정에서 설정을 변경할 수 있습니다.	###disable_3rd_party_console_resource_pack_check
-permissions.MultiplayerSessionsOnConsole=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다. 온라인 보안 설정에서 멀티 플레이 허용 및 Xbox Live Gold 구독 활성화 여부를 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	###disable_3rd_party_console_resource_pack_check
-permissions.MultiplayerSessionsOnConsoleGamecore=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다.	###disable_3rd_party_console_resource_pack_check
+permissions.MultiplayerSessionsOnConsole=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다. 온라인 보안 설정에서 멀티 플레이 허용 및 Xbox Live Gold 구독 활성화 여부를 확인하세요. 해당 설정을 변경하려면, aka.ms/MCMultiplayerHelp의 설명을 확인하세요.	###disable_3rd_party_console_resource_pack_check	### {StrContains=realms} {MaxLength=921}
+permissions.MultiplayerSessionsOnConsoleGamecore=귀하의 Microsoft 계정 설정으로 인해 Realm에서 게임을 할 수 없습니다.	###disable_3rd_party_console_resource_pack_check	### {StrContains=realms} {MaxLength=363}
 permissions.open.account.help.button=문제 해결 도움말	#
 permissions.open.account.help.button.gamecore=이 문제 해결	#
 permissions.open.account.setting.button=서비스 약관 보기	#
@@ -7363,8 +7435,8 @@ permissions.banplayer=플레이어 차단	#
 permissions.banplayer.reason=호스트가 플레이어님을 세션에서 차단했습니다.	#
 permissions.banplayer.message=%s 님을 월드에서 차단하시겠어요? 차단당한 플레이어는 다시 참여할 수 없습니다.	#
 permissions.banplayer.title=플레이어를 차단할까요?	#
-permissions.ClubsAccess=클럽에 대한 액세스 권한이 없으므로 Realm 피드에 접속할 수 없습니다. aka.ms/MCClubsHelp에서 이러한 설정을 변경하는 방법에 대한 지침을 참조하세요.	#
-permissions.ClubsPost=클럽에 대한 액세스 권한이 없으므로 Realm 피드에 게시할 수 없습니다. aka.ms/MCClubsHelp에서 이러한 설정을 변경하는 방법에 대한 지침을 참조하세요.	#
+permissions.ClubsAccess=클럽에 대한 액세스 권한이 없으므로 Realms 피드에 접속할 수 없습니다. aka.ms/MCClubsHelp에서 이러한 설정을 변경하는 방법에 대한 지침을 참조하십시오.		#### {StrContains=realms} {MaxLength=426}
+permissions.ClubsPost=클럽에 대한 액세스 권한이 없으므로 Realms 피드에 게시할 수 없습니다. aka.ms/MCClubsHelp에서 이러한 설정을 변경하는 방법에 대한 지침을 참조하십시오.		#### {StrContains=realms} {MaxLength=429}
 
 ## edu permissions popup
 permissions.button.kickplayer=플레이어를 해당 게임에서 추방	#
@@ -7530,9 +7602,9 @@ persona.small.title=소형	#
 persona.medium.title=중형	#
 persona.tall.title=대형	#
 persona.realms.redeem=교환	#
-persona.realms.see.subscription=Realm Plus 내	#
+persona.realms.see.subscription=Realms Plus 내		#### {StrContains=realms} {MaxLength=42}
 persona.realms.time.remaining=교환하려면 %s	#
-persona.realms.savings=Realm Plus 구독으로 %s Minecoin을 아꼈습니다!	#
+persona.realms.savings=Realms Plus 구독으로 %s Minecoin을 아꼈습니다!		#### {StrContains=realms} {MaxLength=171}
 persona.csb.savings=Marketplace Pass 구독으로 %s Minecoin을 아꼈습니다!	#
 persona.preview.emote=이모티콘 재생	#
 
@@ -7551,6 +7623,7 @@ progressScreen.title.connectingExternal=외부 서버에 연결하는 중...	#
 progressScreen.title.connectingRealms=Realm에 연결하는 중...	#
 progressScreen.title.copyingWorld=월드 복사	#
 progressScreen.title.deleteStorageAreaContent=스토리지 캐시 삭제 중...	#
+progressScreen.title.deleteDownloadContent=다운로드 캐시 삭제 중... 	#### Progress bar text for when the Clear Download Cache button is pressed {MaxLength="100"}
 progressScreen.title.deleteScreenshotsCache=스크린샷 캐시 삭제 중...	#
 progressScreen.title.deleteLocalScreenshots=로컬 스크린샷 삭제 중..	#
 progressScreen.title.loadingSplitScreenAppearances=분할 화면 모양 불러오는 중...	#
@@ -7647,6 +7720,7 @@ progressScreen.editor.message.convert.projectToWorld.saveWorld=월드 데이터 
 progressScreen.editor.message.convert.worldToProject.saveProject=프로젝트 데이터 저장 중...	#
 progressScreen.label.mobileData=모바일 데이터	#
 progressScreen.noWifi.mobileDataWarning=현재 Wi-Fi에 연결되어 있지 않습니다. 모바일 데이터 요금이 부과될 수 있습니다.	#
+progressScreen.label.serverRegion=서버 지역: 	####{MaxLength=19}
 
 quiz.popup.ok=퀴즈를 푸세요	#
 quiz.popup.text=퀴즈는 새 창에 표시됩니다. 퀴즈를 완료하면 Minecraft로 돌아갈 수 있습니다.	#
@@ -7694,14 +7768,14 @@ resourcePack.selected.title=적용중인 리소스 팩	#
 resourcePack.selected.title.behaviorPacks=적용중인 행동 팩	#
 resourcePack.selected.title.packs=적용중인 팩	#
 resourcePack.selected.remove=비활성화	#
-resourcePack.realmsPlus.title.packs=Realm Plus 팩	#
+resourcePack.realmsPlus.title.packs=Realm Plus 팩	#### {StrContains=realms} {MaxLength=51}
 resourcePack.realmsPlus.title.packs.contentSub=Marketplace Pass 팩	#
 resourcePack.realmsPlus.expired=만료됨	#
 resourcePack.errors=오류: 	#
 resourcePack.error.ingame.packs=월드에서 플레이하는 중에는 리소스 팩을 변경할 수 없습니다.	#
 resourcePack.error.ingame.behaviorPacks=월드에서 플레이하는 중에는 행동 팩을 변경할 수 없습니다.	#
 resourcePack.error.enteringgame.title=Realm에서 만료된 팩	#
-resourcePack.error.enteringgame.message=Realm에 Realm Plus에서 만료된 리소스 또는 행동 팩이 포함되어 있습니다. 이 Realm에서 플레이를 하려면 해당 팩을 비활성화하거나 마켓플레이스에서 구매해야 합니다.	#
+resourcePack.error.enteringgame.message=Realm에 Realm Plus에서 만료된 리소스 또는 행동 팩이 포함되어 있습니다. 이 Realm에서 플레이를 하려면 해당 팩을 비활성화하거나 마켓플레이스에서 구매해야 합니다.	#### {StrContains=realms} {MaxLength=594}
 resourcePack.error.enteringgame.button=활성화 팩 보기	#
 resourcePack.title=리소스 팩 선택	#
 resourcePack.toast.atlasFallback.message=메모리가 부족합니다. 텍스처 세부 표현 수준이 하락합니다.	#
@@ -7787,8 +7861,8 @@ sidebar.skinsOwned=소유 스킨	#
 sidebar.skyblock=Skyblock	#
 sidebar.simulation=시뮬레이션	#
 sidebar.survival=서바이벌	#
-sidebar.realmsPlus=Realm Plus	#
-sidebar.skinsRealmsPlus=Realm Plus 스킨	#
+sidebar.realmsPlus=Realm Plus	#### {StrContains=realms} {MaxLength=33}
+sidebar.skinsRealmsPlus=Realm Plus 스킨	#### {StrContains=realms} {MaxLength=51}
 sidebar.skinsUnowned=더 보기	#
 sidebar.topSellers=최고의 판매자	#
 sidebar.trending=인기	#
@@ -7836,7 +7910,7 @@ storageManager.sync_retailtopreview_worlds.fetch_complete.content=리테일 버�
 
 storageManager.sync_legacy_worlds.conversion_explanation.title=월드 변환 중	#
 storageManager.sync_legacy_worlds.conversion_explanation.content=플레이할 수 있도록 최신 버전의 Minecraft로  “%s”을(를) 전환해야 합니다.	#
-storageManager.sync_legacy_worlds.conversion_explanation.confirm_button=전향	#
+storageManager.sync_legacy_worlds.conversion_explanation.confirm_button=변환	#
 storageManager.sync_legacy_worlds.conversion_explanation.cancel_button=취소	#
 
 storageManager.baseWorld=기본 월드	#
@@ -8280,8 +8354,8 @@ selectWorld.newWorld.educationCopyOf=[교육] %s	#
 selectWorld.worldTags.experimental=실험	#
 selectWorld.worldTags.hardcore=하드코어	#
 ## NOTE: "Realms" is the name of a service and doesn't get localized.
-selectWorld.realmsComingSoon=Realm 출시 예정!	#
-selectWorld.realmsBeta=Realm 베타	#
+selectWorld.realmsComingSoon=Realm 출시 예정!	#### {StrContains=realms} {MaxLength=57}
+selectWorld.realmsBeta=Realm 베타	#### {StrContains=realms} {MaxLength=33}
 selectWorld.worldTags=%1$s - %2$s	#
 selectWorld.learnMore=자세한 정보	#
 selectWorld.recreate=다시 만들기	#
@@ -8292,7 +8366,7 @@ selectWorld.resultFolder=저장될 이름:	#
 selectWorld.seedInfo=빈칸으로 놔두면 랜덤 시드가 적용됩니다	#
 selectWorld.select=선택된 월드 시작	#
 selectWorld.tab.worlds=월드	#
-selectWorld.tab.realms=Realm	#
+selectWorld.tab.realms=Realm	#### {StrContains=realms} {MaxLength=18}
 selectWorld.tab.friends=친구	#
 selectWorld.tab.classmates=친구	#
 selectWorld.tab.thirdParty=서버	#
@@ -8319,7 +8393,7 @@ selectTemplate.deleteMessage=%s을(를) 영구 삭제합니다. 계속할까요?
 selectTemplate.delete.confirm=월드 템플릿을 삭제할까요?	#
 selectTemplate.delete=삭제	#
 selectTemplate.myTemplates=내 월드 템플릿	#
-selectTemplate.realmsPlus=Realm Plus 추천 콘텐츠	#
+selectTemplate.realmsPlus=Realm Plus 추천 콘텐츠	#### {StrContains=realms} {MaxLength=90}
 selectTemplate.marketplacePass=Marketplace Pass 추천 콘텐츠			#### {StrContains="Marketplace Pass"}
 selectTemplate.importedTemplates=가져온 템플릿	#
 selectTemplate.download=다운로드	#
@@ -8485,26 +8559,26 @@ store.promo.claimDay=수령 일자	#
 store.promo.restrictedPopup.title=플랫폼 제한	#
 store.promo.restrictedPopup.body=이 아이템은 사용 중인 장치와 호환되지 않습니다.	#
 
-store.realmsPreview=Realm 프리뷰	#
-store.realmsBeta=Realm 베타	#
-store.realmsPlus=Realm Plus	#
+store.realmsPreview=Realm 프리뷰	#### {StrContains=realms} {MaxLength=42}
+store.realmsBeta=Realm 베타	#### {StrContains=realms} {MaxLength=33}
+store.realmsPlus=Realm Plus	#### {StrContains=realms} {MaxLength=33}
 store.realmsPlus.content=콘텐츠	#
 store.realmsPlus.faq=질문과 답변	#
 store.realmsPlus.buyNow=지금 구독 	### Maximum 13 characters
 store.realmsPlus.buyNowPerMonth=지금 구독 - 매월 %s	#
-store.realmsPlus.signInToSubscribe=Realm Plus를 구독하려면 로그인하세요	#
+store.realmsPlus.signInToSubscribe=Realm Plus를 구독하려면 로그인하세요	#### {StrContains=realms} {MaxLength=105}
 store.realmsPlus.buyNowTrialPerMonth=체험판 시작	### Maximum 25 characters
 store.realmsPlus.errorNoOffer=오류. 할인 발견되지 않음	#
 store.realmsPlus.manageSubscription=구독 관리	#
 store.realmsPlus.viewAllPacksTitle=최고의 가치 - §g$150(USD)§r 이상의 가치를 가진 팩!	#
 
-store.realmsPlus.nowActive=이제 이 장치에 Realm Plus가 활성화되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩에 접속할 수 있습니다. 귀하의 Realm에서 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 접속할 수 있습니다!	#
+store.realmsPlus.nowActive=이제 이 장치에 Realm Plus가 활성화되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩을 사용할 수 있습니다. 귀하의 Realm에서 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 접속할 수 있습니다!	#### {StrContains=realms} {MaxLength=759}
 
 store.realmsPlus.buyNow.buttonText=%s에 구매	#
 store.realmsPlus.buyNow.viewTerms=이용 약관	#
 store.realmsPlus.buyNow.viewPrivacyPolicy=개인정보처리방침	#
 
-store.realmsPlus.buyNow.title=Realm Plus 구독 시작	#
+store.realmsPlus.buyNow.title=Realm Plus 구독 시작	#### {StrContains=realms} {MaxLength=105}
 store.realmsPlus.startTrial.description=Realm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 달은 무료고 그 후 매월 %s의 요금이 청구되며, 언제든지 취소할 수 있습니다.	#
 store.realmsPlus.startTrial.description.contentSub=Realm과 Marketplace Pass에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 달은 무료고 그 후 매월 %s의 요금이 청구되며, 언제든지 취소할 수 있습니다.	#
 store.realmsPlus.noTrial.description=Realm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 내 Realm의 월드에 무료로 액세스할 수도 있습니다! 30일 동안 :minecoin:%s에 정기 서비스를 이용할 수 있습니다.	#
@@ -8513,10 +8587,10 @@ store.realmsPlus.noTrial.description.iap=Realm과 150개 이상의 마켓플레�
 store.realmsPlus.noTrial.description.iap.contentSub=Realm과 Marketplace Pass에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있습니다. 한 번에 최대 10명의 플레이어가 플레이할 수 있으며, 내 영역의 모든 월드를 무료로 이용할 수 있습니다! 월 %s이(가) 청구되며, 구독 설정에 액세스하여 구독을 취소하여 향후 요금이 청구되지 않도록 할 수 있습니다.	#
 store.realmsPlus.realmName.placeholder=%s님의 Realm		#The string passed in here is the gamertag of the player to indicate the name of the player's world.	#
 
-store.realmsPlus.recurring.offerTrial=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료고 그 후 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#
-store.realmsPlus.recurring.offerTrial.contentSub=Realms Plus는 구독을 취소할 때까지 매월 자동으로 정기 구독 요금이 청구되는 구독 서비스 상품입니다.%s귀하의 Realm과 Marketplace Pass에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료로 제공되며 그 후 매월 %s의 요금이 청구됩니다. 구독 서비스 설정에서 언제든지 구독 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#
-store.realmsPlus.recurring.withoutTrial=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#
-store.realmsPlus.recurring.withoutTrial.contentSub=Realms Plus는 구독을 취소할 때까지 매월 자동으로 정기 구독 요금이 청구되는 구독 서비스 상품입니다.%s귀하의 Realm과 Marketplace Pass에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm 월드에 무료로 액세스할 수도 있습니다! 매월 %s의 요금이 청구되며, 구독 서비스 설정에서 언제든지 구독 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#
+store.realmsPlus.recurring.offerTrial=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료고 그 후 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#### {StrContains=realms} {MaxLength=1461}
+store.realmsPlus.recurring.offerTrial.contentSub=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 마켓플레이스 패스에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료고 그 후 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#### {StrContains=realms} {MaxLength=1560}
+store.realmsPlus.recurring.withoutTrial=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#### {StrContains=realms} {MaxLength=1326}
+store.realmsPlus.recurring.withoutTrial.contentSub=Realm Plus는 정기 서비스를 취소할 때까지 매월 정기 서비스 자동 결제 요금이 청구되는 정기 서비스 상품입니다.%sRealm과 마켓플레이스 패스에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm 월드에 무료로 액세스할 수도 있습니다! 매월 %s의 요금이 청구되며, 정기 서비스 설정에서 언제든 정기 서비스를 취소하여 이후 청구를 중단할 수 있습니다.	#### {StrContains=realms} {MaxLength=1425}
 store.realmsPlus.consumable.offerTrial=Realm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료고, 그 후 30일마다 %s의 가격으로 서비스를 갱신할 수 있습니다.	#
 store.realmsPlus.consumable.offerTrial.contentSub=Realm과 Marketplace Pass에 포함된 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 첫 30일은 무료고, 그 후 30일마다 %s의 가격으로 서비스를 갱신할 수 있습니다.	#
 store.realmsPlus.consumable.withoutTrial=Realm과 150개 이상의 마켓플레이스 팩을 즉시 사용할 수 있게 됩니다. 또한 최대 10명의 플레이어가 동시에 플레이를 할 수 있으며, 귀하의 Realm의 월드에 무료로 액세스할 수도 있습니다! 30일 동안 %s에 정기 서비스를 이용할 수 있습니다.	#
@@ -8537,42 +8611,42 @@ store.realmsPlus.landing.info2.cancel=Minecraft 설정의 구독 페이지에서
 store.realmsPlus.landing.info2.subscribe=매월 %s에 지금 구독하세요	#
 store.realmsPlus.landing.info2.recentlyAdded=최근 추가한 항목	#
 store.realmsPlus.landing.info2.persona=무료 캐릭터 만들기 아이템. 매달 새로운 세트를 받으세요!	#
-store.realmsPlus.landing.info2.social=Realm 스토리로 인싸가 되세요	#
+store.realmsPlus.landing.info2.social=Realm 스토리로 인싸가 되세요	#### {StrContains=realms} {MaxLength=90}
 
 store.realmsPlus.landing.beta=베타	#
 store.realmsPlus.landing.preview=프리뷰	#
 
-store.realmsPlus.landing.info3.para1=Realm은 Minecraft %s의 모든 Realm 구독자에게 무료로 제공됩니다! 이 새로운 Realm은 새로운 기능이 출시되기 전에 미리 체험해볼 수 있는 기회를 제공합니다.	#
-store.realmsPlus.landing.info3.para2=Realm을 구독하면 기본 메뉴의 '새로 만들기' 버튼을 사용하여 새로운 %s Realm을 만들 수 있습니다. 아직 구독하지 않았다면, Minecraft 정식 버전으로 이동하여 가입하세요. 	#
-store.realmsPlus.landing.info3.para3=새 구독을 구매하거나 기존 Realm의 구독을 관리하는 것을 제외한 모든 Realm 화면과 기능은 %s에서 사용할 수 있습니다. 	#
+store.realmsPlus.landing.info3.para1=Realm은 Minecraft %s의 모든 Realm 구독자에게 무료로 제공됩니다! 이 새로운 Realm은 새로운 기능이 출시되기 전에 미리 체험해볼 수 있는 기회를 제공합니다.	#### {StrContains=realms} {MaxLength=483}
+store.realmsPlus.landing.info3.para2=Realm을 구독하면 기본 메뉴의 '새로 만들기' 버튼을 사용하여 새로운 %s Realm을 만들 수 있습니다. 아직 구독하지 않았다면, Minecraft 정식 버전으로 이동하여 가입하세요. 	#### {StrContains=realms} {MaxLength=612}
+store.realmsPlus.landing.info3.para3=새 구독을 구매하거나 기존 Realm의 구독을 관리하는 것을 제외한 모든 Realm 화면과 기능은 %s에서 사용할 수 있습니다. 	#### {StrContains=realms} {MaxLength=417}
 store.realmsPlus.landing.info3.para4=%s Realm은 %s Realm이 연결된 유료 Realm 구독이 있는 한 활성 상태로 유지됩니다.	#
 
 store.realmsPlus.faq.header=자주 묻는 질문	#
-store.realmsPlus.faq.question1=Realm Plus는 무엇인가요?	#
-store.realmsPlus.faq.answer1=Realm Plus는 동시에 10명의 플레이어를 지원하는 개인 서버 정기 서비스이며, 매월 저렴한 가격으로 150가지가 넘는 뛰어난 Minecraft 월드, 텍스처 팩, 스킨 팩, 매시업을 무제한 이용할 수 있습니다.	#
+store.realmsPlus.faq.question1=Realm Plus는 무엇인가요?	#### {StrContains=realms} {MaxLength=60}
+store.realmsPlus.faq.answer1=Realm Plus는 동시에 10명의 플레이어를 지원하는 개인 서버 정기 서비스이며, 매월 저렴한 가격으로 150가지가 넘는 뛰어난 Minecraft 월드, 텍스처 팩, 스킨 팩, 매시업을 무제한 이용할 수 있습니다.	#### {StrContains=realms} {MaxLength=657}
 store.realmsPlus.faq.question2=개인 서버란 무엇인가요?	#
 store.realmsPlus.faq.answer2=개인 서버를 사용하면 Minecraft 마켓플레이스가 있는 모든 장치에 언제든 온라인으로 접근할 수 있는 공유형 월드를 생성할 수 있습니다. 여러분이 Realm에 초대한 플레이어는 언제든 해당 월드에서 플레이할 수 있습니다.	#
-store.realmsPlus.faq.question3=친구들도 Realm Plus를 구매해야 내 Realm에서 플레이할 수 있나요?	#
-store.realmsPlus.faq.answer3=친구들이 Realm Plus 정기 서비스를 구매해야 내 Realm에서 플레이할 수 있는 것은 아닙니다. 멀티플레이 이용 권한이 있는 친구라면 누구든 내 Realm을 무료로 이용할 수 있도록 초대할 수 있습니다.	#
-store.realmsPlus.faq.question4=어떤 장치에서 Minecraft Realm Plus를 지원하나요?	#
-store.realmsPlus.faq.answer4=Realms Plus는 현재 Minecraft Bedrock Edition을 설치할 수 있는 모든 플랫폼에서 이용할 수 있습니다. Microsoft 계정으로 로그인할 경우 해당 장치에서 Realm을 플레이하고 Realm Plus의 모든 콘텐츠를 이용할 수 있습니다.	###disable_3rd_party_console_resource_pack_check
-store.realmsPlus.faq.question5=Realm Plus 구독 요금은 얼마인가요?	#
+store.realmsPlus.faq.question3=친구들도 Realm Plus를 구매해야 내 Realm에서 플레이할 수 있나요?	#### {StrContains=realms} {MaxLength=189}
+store.realmsPlus.faq.answer3=친구들이 Realm Plus 정기 서비스를 구매해야 내 Realm에서 플레이할 수 있는 것은 아닙니다. 멀티플레이 이용 권한이 있는 친구라면 누구든 내 Realm을 무료로 이용할 수 있도록 초대할 수 있습니다.	#### {StrContains=realms} {MaxLength=567}
+store.realmsPlus.faq.question4=어떤 장치에서 Minecraft Realm Plus를 지원하나요?	#### {StrContains=realms} {MaxLength=144}
+store.realmsPlus.faq.answer4=Realms Plus는 현재 Minecraft Bedrock Edition을 설치할 수 있는 모든 플랫폼에서 이용할 수 있습니다. Microsoft 계정으로 로그인할 경우 해당 장치에서 Realm을 플레이하고 Realm Plus의 모든 콘텐츠를 이용할 수 있습니다.	###disable_3rd_party_console_resource_pack_check	### {StrContains=realms} {MaxLength=819}
+store.realmsPlus.faq.question5=Realm Plus 구독 요금은 얼마인가요?	#### {StrContains=realms} {MaxLength=138}
 store.realmsPlus.faq.answer5=매월 %s에 10인 플레이어 서버 및 150개 이상의 마켓플레이스 팩 이용 권한을 제공합니다.	#
 store.realmsPlus.faq.answer5.contentSub=매월 %s. 멤버를 무한하게 추가하여 다른 플레이어 10명과 동시에 온라인으로 플레이하세요. 그리고 Marketplace Pass 카탈로그에 있는 150개 이상의 마켓플레이스 콘텐츠를 무료로 즐기세요.	#
-store.realmsPlus.faq.question6=Realm Plus에 새 팩이 얼마나 자주 추가되나요?	#
-store.realmsPlus.faq.answer6=새 팩은 매달 Realm Plus에 추가됩니다.	#
-store.realmsPlus.faq.question7=Realm Plus 내의 팩들은 얼마나 오래 접속할 수 있나요?	#
-store.realmsPlus.faq.answer7=Realm Plus 멤버는 150가지가 넘는 엄청난 Minecraft 월드, 텍스처 팩, 스킨 팩, 매시업 등을 정기 서비스가 만료되거나 팩이 카탈로그에서 제외될 때까지 무제한으로 이용할 수 있습니다.	#
-store.realmsPlus.faq.question8=어디서 내 Realm Plus 팩을 이용할 수 있나요?	#
+store.realmsPlus.faq.question6=Realm Plus에 새 팩이 얼마나 자주 추가되나요?	#### {StrContains=realms} {MaxLength=135}
+store.realmsPlus.faq.answer6=새 팩은 매달 Realm Plus에 추가됩니다.	#### {StrContains=realms} {MaxLength=129}
+store.realmsPlus.faq.question7=Realm Plus 내의 팩들은 얼마나 오래 접속할 수 있나요?	#### {StrContains=realms} {MaxLength=162}
+store.realmsPlus.faq.answer7=Realm Plus 멤버는 150가지가 넘는 엄청난 Minecraft 월드, 텍스처 팩, 스킨 팩, 매시업 등을 정기 서비스가 만료되거나 팩이 카탈로그에서 제외될 때까지 무제한으로 이용할 수 있습니다.	#### {StrContains=realms} {MaxLength=567}
+store.realmsPlus.faq.question8=어디서 내 Realm Plus 팩을 이용할 수 있나요?	#### {StrContains=realms} {MaxLength=102}
 store.realmsPlus.faq.answer8=정기 서비스에 포함된 월드와 팩은 온라인, 개인 Realm, 로컬 장치에서 플레이할 수 있습니다. 30일에 최소 한 번 온라인으로 플레이하여 정기 서비스가 활성화되어 있음을 확인하면 됩니다.	#
-store.realmsPlus.faq.question9=정기 서비스가 만료되면 내 Realm와 월드는 어떻게 되나요?	#
-store.realmsPlus.faq.answer9=구독이 종료되면 여러분과 친구들이 Realm에서 온라인으로 함께 플레이할 수 없고, Realm Plus 팩에 접속할 수 없습니다. 구독 종료 후 18개월 이내에 Realm에 저장된 모든 월드를 다운로드할 수 있습니다. Realm Plus 월드, 텍스처 팩 또는 매시업을 이용했다면 해당 팩을 상점에서 구매해야 하며, 아직 Realm Plus에 남아 있다면 다시 구독하여 해당 월드 템플릿을 플레이할 수 있습니다.	#
-store.realmsPlus.faq.question10=Realms Plus와 Marketplace Pass 둘 다 꼭 구매해야 하나요?	#
-store.realmsPlus.faq.answer10=아니요. Marketplace Pass는 150개 이상의 팩을 포함하는 카탈로그입니다. Realms Plus는 Marketplace Pass가 포함된 10인 플레이어 Realm입니다. 그러므로 당신에게 적합한 것을 골라서 구독하는 것을 권장합니다.	#
-store.realmsPlus.faq.question11=Realm 스토리는 무엇인가요?	#
-store.realmsPlus.faq.answer11=Realm 스토리는 내 Realm과 관련된 소셜 허브입니다. 스토리 피드에 게시물을 올려 지금 무엇을 하는지 다른 사람들에게 알리고 모험과 창작물을 공유하세요. 멤버 목록으로 누가 누구인지 쉽게 확인할 수 있습니다. 다른 멤버들이 플레이하는 시간을 확인하고 창작물을 구경하러 가거나, 추후에 함께 할 계획을 세우세요.	#
+store.realmsPlus.faq.question9=정기 서비스가 만료되면 내 Realm와 월드는 어떻게 되나요?	#### {StrContains=realms} {MaxLength=198}
+store.realmsPlus.faq.answer9=구독이 종료되면 여러분과 친구들이 Realm에서 온라인으로 함께 플레이할 수 없고, Realm Plus 팩에 접속할 수 없습니다. 구독 종료 후 18개월 이내에 Realm에 저장된 모든 월드를 다운로드할 수 있습니다. Realm Plus 월드, 텍스처 팩 또는 매시업을 이용했다면 해당 팩을 상점에서 구매해야 하며, 아직 Realm Plus에 남아 있다면 다시 구독하여 해당 월드 템플릿을 플레이할 수 있습니다.	#### {StrContains=realms} {MaxLength=1371}
+store.realmsPlus.faq.question10=Realm Plus와 마켓플레이스 패스 둘 다 꼭 구매해야 하나요?	#### {StrContains=realms} {MaxLength=129}
+store.realmsPlus.faq.answer10=아니요. 마켓플레이스 패스는 150개 이상의 팩을 포함하는 카탈로그입니다. Realm Plus는 마켓플레이스 패스가 포함된 10인 플레이어 Realm입니다. 그러므로 당신에게 적합한 것을 골라서 구독하는 것을 권장합니다.	#### {StrContains=realms} {MaxLength=594}
+store.realmsPlus.faq.question11=Realm 스토리는 무엇인가요?	#### {StrContains=realms} {MaxLength=69}
+store.realmsPlus.faq.answer11=Realm 스토리는 내 Realm과 관련된 소셜 허브입니다. 스토리 피드에 게시물을 올려 지금 무엇을 하는지 다른 사람들에게 알리고 모험과 창작물을 공유하세요. 멤버 목록으로 누가 누구인지 쉽게 확인할 수 있습니다. 다른 멤버들이 플레이하는 시간을 확인하고 창작물을 구경하러 가거나, 추후에 함께 할 계획을 세우세요.	#### {StrContains=realms} {MaxLength=891}
 
-store.realmsPlus.content.marketplacePass=Realms Plus에는 Marketplace Pass가 포함되어 있습니다!	#
+store.realmsPlus.content.marketplacePass=Realm Plus에는 Marketplace Pass가 포함되어 있습니다!	#### {StrContains=realms} {MaxLength=114}
 store.realmsPlus.content.skinDescription=스킨으로 외모를 바꾸세요!	#
 store.realmsPlus.content.skinDescriptionPersona=스킨으로 옷을 입으세요!	#
 store.realmsPlus.content.skinDescriptionPersona.contentSub=스킨으로 여러분의 옷장을 확장하세요!	#
@@ -8586,14 +8660,14 @@ store.realmsPlus.content.personaDescription.contentSub=탈의실에서 매달 �
 store.realmsPlus.content.recentlyAdded=최근 추가한 항목	#
 store.realmsPlus.content.friendsGetAccess=친구들이 귀하의 Realm에서 사용된 콘텐츠를 무료로 이용할 수 있습니다.	#
 
-store.realmsPlus.content.popularPacks=Realm Plus의 인기 있는 팩:	#
+store.realmsPlus.content.popularPacks=Realm Plus의 인기 있는 팩:	#### {StrContains=realms} {MaxLength=87}
 store.realmsPlus.content.viewAllPacks=모든 팩 보기	#
-store.realmsPlus.content.contentDescription=놀라운 Minecraft 콘텐츠 소스를 활용하세요! Realm Plus로 매시업, 월드, 스킨 팩, 에픽 모험 등 150가지 이상의 마켓플레이스 아이템을 바로 이용할 수 있습니다. 또한 매월 새로운 아이템이 추가됩니다. 여러분의 콘텐츠는 개인 서버에 저장되며, Realm과 Minecraft 마켓플레이스를 이용하는 모든 플랫폼에서 사용할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이하고 무료로 내 Realm의 월드를 이용할 수 있습니다!	#
+store.realmsPlus.content.contentDescription=놀라운 Minecraft 콘텐츠 소스를 활용하세요! Realm Plus로 매시업, 월드, 스킨 팩, 에픽 모험 등 150가지 이상의 마켓플레이스 아이템을 바로 이용할 수 있습니다. 또한 매월 새로운 아이템이 추가됩니다. 여러분의 콘텐츠는 개인 서버에 저장되며, Realm과 Minecraft 마켓플레이스를 이용하는 모든 플랫폼에서 사용할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이하고 무료로 내 Realm의 월드를 이용할 수 있습니다!	#### {StrContains=realms} {MaxLength=1326}
 
 store.realmsPlus.freeTrial=무료 체험판 시작	#
 
 store.realmsPlus.purchase.warningDialog.title=알림	#
-store.realmsPlus.purchase.warningDialog.body=Realm Plus에는 Marketplace Pass 콘텐츠가 포함되어 있습니다. Realm Plus에 가입한 후에는 Marketplace Pass 구독을 취소하는 것이 좋습니다.		#### {StrContains="Marketplace Pass"}
+store.realmsPlus.purchase.warningDialog.body=Realm Plus에는 마켓플레이스 패스 콘텐츠가 포함되어 있습니다. Realm Plus에 가입한 후에는 Marketplace Pass 구독을 취소하는 것이 좋습니다.		#### {StrContains="Marketplace Pass"} {StrContains=Realms} {MaxLength=150}
 store.realmsPlus.purchase.warningDialog.checkbox=이해했습니다	#
 store.realmsPlus.purchase.warningDialog.button.back=돌아가기	#
 store.realmsPlus.purchase.warningDialog.button.continue=구매	#
@@ -8638,6 +8712,7 @@ store.csb.landing.info.line4=매달 새로운 기간 한정 캐릭터 만들기 
 store.csb.landing.info.line5=구독은 취소할 때까지 매달 자동으로 갱신됩니다.	#
 store.csb.landing.info.line6=Minecraft 설정의 구독 페이지에서 취소하기	#
 store.csb.landing.info.line7=매월 %s에 지금 구독하세요	#
+store.csb.landing.info.line8=Marketplace Pass 카탈로그의 콘텐츠에서 엄청난 할인 혜택을 누리세요		#### {StrContains="Marketplace Pass"} {MaxLength="100"}
 
 store.csb.landing.beta=베타	#
 store.csb.landing.preview=프리뷰	#
@@ -8653,14 +8728,16 @@ store.csb.faq.question4=Marketplace Pass를 해지하면 내 콘텐츠는 어떻
 store.csb.faq.answer4=카탈로그에서 삭제된 월드, 텍스처 팩, 스킨 팩, 매시업을 계속 플레이하려면 마켓플레이스에서 해당 아이템을 구매해야 합니다. 팩은 삭제할 때까지 로컬 저장소에 저장됩니다. 사용한 월간 캐릭터 만들기 아이템은 보유할 수 있습니다.	#
 store.csb.faq.question5=구독이 끝나면 어떻게 되나요?	#
 store.csb.faq.answer5=Minecraft에서 제공 중인 아이템이라면, 구독 종료 후 18개월 이내에 클라우드 스토리지에 저장된 모든 월드 템플릿을 구매하고 다운로드할 수 있습니다. 사용한 월간 캐릭터 크리에이터 아이템은 보유할 수 있습니다.	#
-store.csb.faq.question6=이것과 Realm Plus의 차이점은 무엇인가요?	#
-store.csb.faq.answer6=두 구독의 차이점은 Realm Plus에는 한 번에 최대 10명의 친구와 플레이할 수 있는 개인 서버가 포함되어 있다는 것입니다. Marketplace Pass 구독으로 액세스할 수 있는 컨텐츠 카탈로그는 Realm Plus 구독에서 사용할 수 있는 것과 동일한 카탈로그입니다.		#### {StrContains="Marketplace Pass"}
-store.csb.faq.question7=Marketplace Pass와 Realm Plus를 모두 구독할 수 있나요?		#### {StrContains="Marketplace Pass"}
-store.csb.faq.answer7=Realm Plus 구독은 Marketplace Pass를 포함합니다. Marketplace Pass를 구독하고 Realm Plus를 탐험하고 싶다면, 먼저 Marketplace Pass의 구독을 해지하세요. Realm Plus 구독을 활성화한 구독자는 Marketplace Pass를 구독할 수 없습니다.		#### {StrContains="Marketplace Pass"}
+store.csb.faq.question6=이것과 Realm Plus의 차이점은 무엇인가요?	#### {StrContains=realms} {MaxLength=153}
+store.csb.faq.answer6=두 구독의 차이점은 Realm Plus에는 한 번에 최대 10명의 친구와 플레이할 수 있는 개인 서버가 포함되어 있다는 것입니다. Marketplace Pass 구독으로 액세스할 수 있는 컨텐츠 카탈로그는 Realm Plus 구독에서 사용할 수 있는 것과 동일한 카탈로그입니다.		#### {StrContains="Marketplace Pass"} {StrContains=Realms} {MaxLength=300}
+store.csb.faq.question7=Marketplace Pass와 Realm Plus를 모두 구독할 수 있나요?		#### {StrContains="Marketplace Pass"} {StrContains=Realms} {MaxLength=60}
+store.csb.faq.answer7=Realm Plus 구독은 Marketplace Pass를 포함합니다. 마켓플레이스 패스를 구독하고 Realm Plus를 탐험하고 싶다면, 먼저 Marketplace Pass의 구독을 해지하세요. Realm Plus 구독을 활성화한 구독자는 Marketplace Pass를 구독할 수 없습니다.		#### {StrContains="Marketplace Pass"} {StrContains=Realms} {MaxLength=270}
 store.csb.faq.question8=어떤 기기에서든 Marketplace Pass 콘텐츠를 이용할 수 있나요?		#### {StrContains="Marketplace Pass"}
 store.csb.faq.answer8=Marketplace Pass를 구매한 경우, Marketplace 계정에 로그인하면 Minecraft Marketplace(별도 판매)가 포함된 Minecraft: Bedrock Edition의 호환 버전이 있는 기기에서 모든 팩에 액세스할 수 있습니다. Amazon Kindle Fire 또는 Minecraft Java Edition에서는 지원되지 않습니다.		#### {StrContains="Marketplace Pass"}
 store.csb.faq.question9=Windows 또는 XBOX에서 Minecraft 베타에 참여하면 Marketplace Pass 콘텐츠를 플레이할 수 있나요?		#### {StrContains="Marketplace Pass"}
 store.csb.faq.answer9=이미 구독한 경우라면 구독 콘텐츠를 볼 수 있지만, 프리뷰/베타 빌드에서 Marketplace Pass를 구독할 수는 없습니다.		#### {StrContains="Marketplace Pass"}
+store.csb.faq.question10=Marketplace Pass 카탈로그에 제공된 콘텐츠를 구매하여 소유할 수 있나요?		#### {StrContains="Marketplace Pass"} {MaxLength="100"}
+store.csb.faq.answer10=네, 구독자는 Marketplace Pass 카탈로그의 콘텐츠를 할인된 가격으로 구매할 수 있습니다. 카탈로그에서 사라지기 전에 좋아하는 콘텐츠를 할인된 가격으로 구매하여 영구적으로 소유할 수 있습니다.		#### {StrContains="Marketplace Pass"} {MaxLength="200"}
 store.csb.faq.bottom2=도움말 사이트를 방문하세요	#
 
 store.csb.contentPacks.worldDescription=미니 게임, 테마 월드 등을 플레이하세요!	#
@@ -8681,8 +8758,8 @@ store.csb.welcomeDialog.body=지금 바로 150개 이상의 모험, 미니 게�
 store.csb.welcomeDialog.continue=브라우저 사용 시작하기	#
 
 store.csb.purchase.warningDialog.title=알림	#
-store.csb.purchase.warningDialog.body.line1=Marketplace Pass는 Realm Plus 구독에 포함되어 있습니다.		#### {StrContains="Marketplace Pass"}
-store.csb.purchase.warningDialog.body.line2=활성화된 Realm Plus 구독을 취소한 후 구매를 시도하세요.	#
+store.csb.purchase.warningDialog.body.line1=Marketplace Pass는 Realm Plus 구독에 포함되어 있습니다.		#### {StrContains="Marketplace Pass"} {StrContains=Realms} {MaxLength=70}
+store.csb.purchase.warningDialog.body.line2=활성화된 Realm Plus 구독을 취소한 후 구매를 시도하세요.	#### {StrContains=realms} {MaxLength=225}
 store.csb.purchase.warningDialog.button.back=돌아가기	#
 
 store.csb.upsell.bestValue=최고의 가격	#
@@ -8699,7 +8776,7 @@ store.csb.upsell.learnMore=더 알아보기	#
 store.csb.upsell.price=%s/월	#
 store.csb.upsell.firstPeriodFree=30일 무료 체험!	#
 
-store.csb.upsell.realmsPlus=§dRealm PLUS	#
+store.csb.upsell.realmsPlus=§dRealm PLUS	#### {StrContains=realms} {MaxLength=39}
 
 store.csb.purchaseErrorDialog.title=구입 오류	#
 store.csb.purchaseErrorDialog.body=지금 구독을 처리하는 데 문제가 있습니다. 잠시 후 다시 시도해 주세요. 감사합니다!	#
@@ -8753,6 +8830,9 @@ store.popup.xblRequired.message=이미 잠금 해제한 항목을 확인할 수 
 store.popup.download.title.KB=콘텐츠를 다운로드할까요? - %sKB	#
 store.popup.download.title.MB=콘텐츠를 다운로드할까요? - %sMB	#
 store.popup.download.msg=%s을(를) 장치에 다운로드합니다.	#
+store.popup.download.noSpaceMarketplace.msg=%s을(를) 다운로드할 수 있는 충분한 저장 공간이 없습니다. 마켓플레이스 캐시를 지우고 다시 시도하세요.		#### Download warning message, instructing the user to use the clear marketplace cache button, located here options.dev_clearStoreCache. {MaxLength="500"}
+store.popup.download.noSpaceDownload.msg=%s을(를) 다운로드할 수 있는 충분한 저장 공간이 없습니다. 다운로드 캐시를 지우고 다시 시도하세요.		#### Download warning message, instructing the user to use clear the download cache button, located here options.dev_clearDownloadeCache. {MaxLength="500"}
+store.popup.download.noSpaceLongTerm.msg=%s을(를) 다운로드할 수 있는 충분한 저장 공간이 없습니다. 일부 파일을 삭제하고 다시 시도하세요.		#### Download warning message, instructing the user to delete installed items to free up space. {MaxLength="500"}
 store.popup.downloadCell.title.KB=셀룰러를 통해 다운로드할까요? - %sKB	#
 store.popup.downloadCell.title.MB=셀룰러를 통해 다운로드할까요? - %sMB	#
 store.popup.downloadCell.msg=Wi-Fi에 연결되어 있지 않습니다. 셀룰러를 통해 %s을(를) 다운로드할까요?	#
@@ -8767,7 +8847,7 @@ store.popup.download.noInternet.title=오류 발생	#
 store.popup.download.noInternet.msg=죄송합니다. %s을(를) 다운로드할 수 없습니다. 인터넷 연결을 확인해보시겠어요?	#
 store.popup.download.noSpace.title.KB=저장 공간 부족 - %sKB	#
 store.popup.download.noSpace.title.MB=저장 공간 부족 - %sMB	#
-store.popup.download.noSpace.msg=장치에 %s의 다운로드에 필요한 저장 공간이 부족합니다.	#
+store.popup.download.noSpace.msg=장치에 %s의 다운로드에 필요한 저장 공간이 부족합니다.	#### Download warning message, instructing the user to delete downloaded content, or use the two clear cache buttons located here options.dev_clearStoreCache, options.dev_clearDownloadeCache. {MaxLength="500"}
 store.popup.download.unOwned.title=팩을 구입할까요?	#
 store.popup.download.unOwned.msg=이 월드에서 사용되는 팩을 구입할까요?	#
 store.popup.download.unOwnedTemplate.title=월드 템플릿을 구매하시겠습니까?	#
@@ -8859,13 +8939,13 @@ store.addon.choseNewWorld=신규	#
 store.addon.selectWorldTitle=월드 선택	#
 store.addon.continue=계속하기	#
 store.addon.local.worlds.title=월드(%s)	#
-store.addon.realms.worlds.title=Realm(%s)	#
+store.addon.realms.worlds.title=Realm(%s)	#### {StrContains=realms} {MaxLength=33}
 store.addon.update.local.title=월드를 업데이트하시겠습니까?	#
 store.addon.update.local.body1=이 월드는 수정하지 않은 월드와는 모양이나 동작이 다를 수 있으며, 도전 과제를 획득할 수 없습니다.	#
 store.addon.update.local.body2=계속하기 전에 월드의 사본을 저장하는 것이 좋습니다.	#
 store.addon.update.local.buttonCopy=사본 생성 및 계속하기	#
 store.addon.update.local.buttonContinue=계속하기	#
-store.addon.update.realms.title=Realm에서 월드를 업데이트하시겠어요?	#
+store.addon.update.realms.title=Realm에서 월드를 업데이트하시겠어요?	#### {StrContains=realms} {MaxLength=84}
 store.addon.update.realms.body1=이 월드는 수정하지 않은 월드와는 모양이나 동작이 다를 수 있으며, 도전 과제를 획득할 수 없습니다.	#
 store.addon.update.realms.body2=Realm 백업은 자동으로 저장되지만, 해당 백업을 영구적으로 보존하려면 장치에 로컬로 다운로드해야 합니다.	#
 store.addon.update.realms.buttonCopy=다운로드 및 계속	#
@@ -8963,7 +9043,7 @@ store.coins.fixAppReceipt.button=상점 로그인	#
 
 store.purchase.toast.generic=구매 완료: %s	#
 
-store.featured.realms.title=Realm 무료 체험	#
+store.featured.realms.title=Realm 무료 체험	#### {StrContains=realms} {MaxLength=45}
 store.featured.realms.desc=친구들과 함께 Minecraft를 플레이할 가장 좋은 방법을 경험하십시오.	#
 
 store.hyperlink.creator.notFound=죄송합니다. 하이퍼링크에 지정된 제작자를 찾을 수 없습니다.	#
@@ -9074,7 +9154,7 @@ store.search.filter.creator.selectedCount=%d 제작자	#
 store.search.filter.offer_type=할인 유형	#
 store.search.filter.offer_type.selectedCount=할인 유형 %d개	#
 store.search.filter.offer_type.bundles=번들	#
-store.search.filter.offer_type.realmsplus=Realm Plus	#
+store.search.filter.offer_type.realmsplus=Realm Plus	#### {StrContains=realms} {MaxLength=33}
 store.search.filter.offer_type.csb=Marketplace Pass		#### {StrContains="Marketplace Pass"}
 
 store.search.filter.clear.pack_type=팩 유형 필터 지우기	#
@@ -9107,8 +9187,8 @@ store.search.sort_menu.sortConstWord=분류	#
 store.search.sort_menu.Default=관련	#
 store.search.sort_menu.NewestFirst=최신 콘텐츠부터 보기	#
 store.search.sort_menu.OldestFirst=오래된 콘텐츠부터 보기	#
-store.search.sort_menu.A_to_Z=A~Z	#
-store.search.sort_menu.Z_to_A=Z~A	#
+store.search.sort_menu.A_to_Z=A~007E;Z	#
+store.search.sort_menu.Z_to_A=Z~007E;A	#
 store.search.sort_menu.Installed=설치됨	#
 store.search.sort_menu.notInstalled=설치되지 않음	#
 store.search.sort_menu.HighestPrice=가격: 높은 가격순	#
@@ -9117,8 +9197,8 @@ store.search.sort_menu.HighestRating=평가: 낮은 평가에서 높은 평가 �
 store.search.sort_menu.LowestRating=평가: 높은 평가에서 낮은 평가 순	#
 store.search.sort_menu.resultText=제작자: %s	#
 
-store.search.sort_menu.A_to_Z.tts.title='A'~'Z'		### Single quotes (') are there for emphasis on the sound of the letters that will be spoken. 
-store.search.sort_menu.Z_to_A.tts.title='Z'~'A'		### Single quotes (') are there for emphasis on the sound of the letters that will be spoken.
+store.search.sort_menu.A_to_Z.tts.title='A'~007E;'Z'		### Single quotes (') are there for emphasis on the sound of the letters that will be spoken. 
+store.search.sort_menu.Z_to_A.tts.title='Z'~007E;'A'		### Single quotes (') are there for emphasis on the sound of the letters that will be spoken.
 
 store.pagination.next=다음 >		### Chevrons (< and >) should not be moved
 store.pagination.previous=< 이전		### Chevrons (< and >) should not be moved
@@ -9133,7 +9213,7 @@ store.uploadContentToRealmsProgressText=선택한 콘텐츠를 Realm에 적용 �
 store.uploadContentToRealmsFail.message=선택한 Realm에 콘텐츠를 업로드하지 못했습니다!	#
 store.uploadContentToRealmsFail.forbidden.message=적용된 콘텐츠 중 하나 이상을 보유하지 않았습니다!	#
 store.applyToRealm=Realm에서 만들기	#
-store.inRealmsPlus=Realm Plus 내	#
+store.inRealmsPlus=Realm Plus 내	#### {StrContains=realms} {MaxLength=42}
 store.inCsb=Marketplace Pass에 있음		#### {StrContains="Marketplace Pass"}
 store.uploadWorldTitle=월드를 교체할까요?	#
 store.uploadPackTitle=팩을 교체할까요?	#
@@ -9349,7 +9429,7 @@ tile.blackstone_slab.name=흑암 반 블록	#
 tile.polished_blackstone_brick_slab.name=윤나는 흑암 벽돌 반 블록	#
 tile.chain.name=사슬	#
 tile.soul_soil.name=영혼 흙	#
-tile.blue_fire.name=파란 불	#
+tile.soul_fire.name=영혼 불	#
 tile.polished_blackstone.name=윤나는 흑암	#
 tile.polished_blackstone_stairs.name=윤나는 흑암 계단	#
 tile.polished_blackstone_slab.name=윤나는 흑암 반 블록	#
@@ -9416,7 +9496,7 @@ tile.stained_glass_pane.blue.name=파란색 색유리 판	#
 tile.stained_glass_pane.purple.name=보라색 색유리 판	#
 tile.stained_glass_pane.magenta.name=자홍색 색유리 판	#
 tile.stained_glass_pane.pink.name=분홍색 색유리 판	#
-tile.clay.name=점토 블록	#
+tile.clay.name=점토	#
 tile.hardened_clay.name=테라코타	#
 tile.stained_hardened_clay.black.name=검은색 테라코타	#
 tile.stained_hardened_clay.blue.name=파란색 테라코타	#
@@ -10374,7 +10454,7 @@ trial.upsell.expiredDescription.line1=시간이 만료되었습니다. 전체 �
 trial.upsell.expiredDescription.line2=-무제한의 월드를 탐험하세요	#
 trial.upsell.expiredDescription.line3=-친구와 함께 플레이하세요	#
 trial.upsell.expiredDescription.line4=-수백 개의 아이템을 제작하세요	#
-trial.upsell.expiredDescription.line5=-불가사의한 건축물과 Realm을 발견하세요	#
+trial.upsell.expiredDescription.line5=-불가사의한 건축물과 Realm을 발견하세요	#### {StrContains=Realms} {MaxLength=50}
 trial.upsell.expiredNewDescription=탐험, 제작, 건설을 계속하시겠습니까? 정식 버전을 잠금 해제하면 원하는 만큼 얼마든지 플레이가 가능합니다! 이 월드는 게임을 종료한 상태에서 저장되지만, 정식 버전을 구매하지 않으면 월드를 변경할 수 없습니다.	#
 trial.upsell.expiredNewDescription.worldsDontTransferToFullGame.line1=계속 탐험하고, 제작하고, 건설하고 싶나요? 정식 버전 게임을 잠금 해제해서 원하는 만큼 오랫동안 무한한 월드를 즐기세요!*	#
 trial.upsell.expiredTitle=시간 종료!	#
@@ -10487,9 +10567,9 @@ autosave.info.desktop=이 아이콘이 보이면 게임을 저장 중인 것입�
 
 ## Xbox network strings
 xbox.signin.error=Microsoft 계정으로 로그인하여 친구와 함께 플레이하고 게이머 점수와 도전 과제를 얻으세요.	#
-xbox.signin.error.pocket.line1=Realm를 테스트해 주셔서 감사합니다! 현재 기능은 최종 사항이 아니며 버그가 발생할 수도 있습니다. 여러분의 의견을 보내주세요! 귀 기울여 듣겠습니다.	#
+xbox.signin.error.pocket.line1=Realm를 테스트해 주셔서 감사합니다! 현재 기능은 최종 사항이 아니며 버그가 발생할 수도 있습니다. 여러분의 의견을 보내주세요! 귀 기울여 듣겠습니다.	#### {StrContains=realms} {MaxLength=351}
 xbox.signin.error.pocket.line2=	#
-xbox.signin.error.pocket.line3=이 테스트가 진행되는 동안 모든 사람이 Microsoft 계정에 로그인되어 있어야 초대를 받고 Realm에 추가될 수 있습니다.	#
+xbox.signin.error.pocket.line3=이 테스트가 진행되는 동안 모든 사람이 Microsoft 계정에 로그인되어 있어야 초대를 받고 Realm에 추가될 수 있습니다.	#### {StrContains=realms} {MaxLength=363}
 xbox.signin.warning.kickPlayer=이렇게 하면 메인 메뉴로 돌아갑니다. 계속하시겠습니까?	#
 xbox.connection.error=Microsoft 계정 연결 해제됨	#
 xbox.signin=로그인	#
@@ -10497,7 +10577,7 @@ xbox.signin.qr=로그인하는 두 가지 방법	#
 xbox.signin.qr.left.header=QR 코드 스캔	#
 xbox.signin.qr.left.body=장치에서 카메라 앱 또는 QR code 리더를 사용합니다.	#
 xbox.signin.qr.right.header=또는 웹사이트를 방문합니다.	#
-xbox.signin.qr.account=무료 Microsoft 계정으로 로그인하여 여러 플랫폼의 친구와 온라인으로 플레이하세요.	#
+xbox.signin.qr.account=무료 Microsoft 계정으로 로그인하여 여러 플랫폼의 친구와 온라인으로 플레이하세요.	#### {StrContains=Realms} {MaxLength=420}
 xbox.signin.beta.blocked=현재 베타 버전에서는 Microsoft 계정으로 로그인할 수 없습니다.	#
 xbox.signin.enterCode=후 다음 코드 입력:	#
 xbox.signin.enterCode.qr=2. 메시지가 표시되면 아래 코드를 입력하세요.	#
@@ -10517,7 +10597,7 @@ xbox.signinquestion=로그인할까요?	#
 xbox.notnow=나중에	#
 xbox.signingin=Microsoft 계정으로 로그인하는 중...	#
 xbox.signingin.offline=로그인	#
-xbox.failedsignin.body=Microsoft 계정으로 로그인하지 못했습니다. Realm, 프로필, 마켓플레이스 아이템 이용이 제한됩니다. 나중에 다시 시도해 주세요.	#
+xbox.failedsignin.body=Microsoft 계정으로 로그인하지 못했습니다. Realm, 프로필, 마켓플레이스 아이템 이용이 제한됩니다. 나중에 다시 시도해 주세요.	#### {StrContains=realms} {MaxLength=438}
 xbox.failedsignin.error=오류 코드:	#
 xbox.failedsignin.moreInfo=추가 정보	#
 xbox.dev_wrongSandboxSigninFailed.title=오류가 발생했습니다.	#
@@ -10529,10 +10609,6 @@ xbox.thirdpartysignin.line1=즐거운 미니 게임과 새로운 플레이어를
 xbox.thirdpartysignin.line2=연결하려면 Microsoft 계정으로 로그인해야 합니다!	#
 xbox.signInLong=무료로 로그인하세요!	#
 xbox.signOutLong=Microsoft 계정에서 로그아웃하기	#
-
-xbox.genericsignin.line1=Minecraft 계정이 있으면 PC 또는 모바일 기기에서 친구와 함께 온라인 멀티 플레이를 즐길 수 있습니다. 가장 좋은 점이 뭔지 아세요?	#
-xbox.genericsignin.line2=무료라는 사실이죠.	#
-xbox.genericsignin.line3=계정을 사용해 어디에서나 Minecraft를 플레이하세요.	#
 
 xbox.disconectionscreen.notSignedIn=Microsoft 계정으로 로그인하여 친구와 함께 플레이하세요.	#
 xbox.disconectionscreen.multiplayerNotAllowed=Microsoft 계정에는 멀티 플레이 게임에 참여할 권한이 없습니다.	#
@@ -10620,7 +10696,7 @@ safety.bannedSkin.button=자세한 정보	#
 safety.bannedSkin.continue=기본 스킨으로 계속하기	#
 safety.bannedSkin=현재 스킨이 커뮤니티 규정을 위반합니다. 멀티 플레이어 게임에 참여하려면 다른 스킨을 선택해 주세요. "%s"을(를) 클릭하여 커뮤니티 규정을 확인하거나 현재 스킨에 대한 사례 리뷰를 제출하세요.	#
 
-safety.textProcessorOffline.message=§e현재 이 Realm에서 채팅 및 다른 사용자 생성 텍스트를 사용할 수 없습니다. 나중에 다시 시도하세요.§f	#
+safety.textProcessorOffline.message=§e현재 이 Realm에서 채팅 및 다른 사용자 생성 텍스트를 사용할 수 없습니다. 나중에 다시 시도하세요.§f	####Error message indicating that chat is unavailable.{MaxLength="450"}
 
 authserver.notavailable=오류가 발생했습니다. 현재 연결하려는 서버가 신뢰할 수 있는 서버인지 확인할 수 없습니다. 나중에 다시 시도하는 것을 권장합니다.	#
 authserver.authfailed=오류가 발생했습니다. 이 서버는 서버 유효성 검증 테스트에 실패했습니다. 신뢰할 수 없는 출처에서 신뢰할 수 있는 서버를 가장한 경우일 수 있습니다.	#
@@ -10639,8 +10715,7 @@ packdiscoveryerror.incomplete_pack=완전하지 않은 팩입니다.	#
 packdiscoveryerror.unsupported_file_format=지원되지 않는 포멧으로 압축된 파일입니다. Zip 포멧으로 압축해주세요!	#
 packdiscoveryerror.missing_manifest=팩의 매니페스트를 열 수 없습니다.	#
 packdiscoveryerror.manifest_parse_error=%s 스택의 팩 매니페스트를 해석할 수 없습니다.	#
-packdiscoveryerror.required_manifest_property_missing=팩 매니페스트의 '%s' 요소를 찾을 수 없습니다.	#
-packdiscoveryerror.required_manifest_property_wrong_type=팩 매니페스트에 필요한 '%s' 요소의 형식이 잘못되었습니다.	#
+packdiscoveryerror.required_manifest_property_missing=팩 매니페스요한 '%s' 요소의 형식이 잘못되었습니다.	#
 packdiscoveryerror.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다.	#
 packdiscoveryerror.required_manifest_property_invalid_value=팩 매니페스트에 제공된 '%s' 요소의 값이 유효하지 않습니다.	#
 packdiscoveryerror.malformed_uuid=제공된 '%s' 요소는 팩 매니페스트의 유효한 UUID가 아닙니다.	#
@@ -10661,7 +10736,8 @@ packdiscoveryerror.folder_structure_too_deep=팩 내 폴더 구조가 너무 깊
 ## pack upgrading
 packupgradewarning.invalidpacktype=팩 매니페스트에 제공된 '%s' 요소의 값이 유효하지 않습니다. 리소스 팩으로 기본 설정됩니다.	#
 packupgradewarning.required_manifest_property_missing=팩 매니페스트에서 '%s' 요소를 찾을 수 없습니다. '%s'(으)로 기본 설정됩니다.	#
-packupgradewarning.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다. '%s'(으)로 기본 설정됩니다.	#
+packupgrade트의 '%s' 요소를 찾을 수 없습니다.	#
+packdiscoveryerror.required_manifest_property_wrong_type=팩 매니페스트에 필warning.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.malformed_uuid=제공된  '%s' 요소는 팩 매니페스트의 유효한 UUID가 아닙니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.malformed_version=제공된 '%s' 요소는 SemVer(semver.org)를 준수하지 않습니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.manifest_upgraded=팩 매니페스트가 새로운 버전으로 업그레이드되었습니다.	#
@@ -10823,7 +10899,7 @@ beginnerTips.8=몬스터는 어둠 속에서 생성됩니다. 횃불을 만들�
 beginnerTips.9=침대가 최고예요! 침대를 제작해 밤을 빠르게 보내고 리스폰 지점을 설정하세요.	#
 beginnerTips.10=조심해서 수영하세요. 물에 너무 오래 머물면 숨이 찰 거예요.	#
 beginnerTips.11=서바이벌 모드에서는 4가지 난이도 레벨(평화로움, 쉬움, 보통, 어려움)을 즐길 수 있습니다. 또는 크리에이티브 모드로 플레이하고 무한한 자원을 얻으세요!	#
-beginnerTips.12=Minecraft 월드의 놀라움은 끝이 없습니다. 다양한 동물, 식물, §f§k§a§b§r §f§k§a§b§r§f까지 찾아보세요.		### please leave "§f§k§a§b§r" unchanged
+beginnerTips.12=Minecraft 월드의 놀라움은 끝이 없습니다. 다양한 동물, 식물, §f§k§a§b§r §f§k§a§b§r까지 찾아보세요.		### please leave "§f§k§a§b§r" unchanged
 
 
 midgameTips.1=철 골렘은 플레이어를 위해 싸웁니다!	#
@@ -10843,7 +10919,7 @@ midgameTips.14=화로에서 용암 한 양동이를 사용하면 블록 100개�
 midgameTips.15=노트 블록이 연주하는 악기는 그 아래 재료에 따라 달라집니다.	#
 midgameTips.16=늑대를 공격하면 근처에 있는 늑대들이 적대적으로 변해 플레이어를 공격합니다. 	#
 midgameTips.17=늑대와 철 골렘은 크리퍼를 공격하지 않습니다.	#
-midgameTips.18=닭은 5~10분마다 달걀을 낳습니다.	#
+midgameTips.18=닭은 5~007E;10분마다 달걀을 낳습니다.	#
 midgameTips.19=흑요석은 다이아몬드 곡괭이로 채굴할 수 있습니다.	#
 midgameTips.20=크리퍼는 화약을 가장 쉽게 구할 수 있는 공급원입니다.	#
 midgameTips.21=길들인 늑대는 꼬리의 위치로 체력을 알 수 있습니다. 고기를 먹이면 치유됩니다.	#
@@ -10926,12 +11002,12 @@ lategameTips.27=섬록암은 좋아하거나 싫어하거나 둘 중 하나입�
 
 tips.realms.1=게임 메뉴를 사용하여 스크린샷을 찍습니다.	#
 tips.realms.2=Realm은 언제나 온라인이니, 원할 때마다 언제든지 친구들과 함께 플레이하세요.	#
-tips.realms.3=Realm 스토리의 스토리 피드를 확인하여 Realm에서 일어나는 일을 놓치지 마세요.	#
+tips.realms.3=Realm 스토리의 스토리 피드를 확인하여 Realm에서 일어나는 일을 놓치지 마세요.	#### {StrContains=realms} {MaxLength=288}
 tips.realms.4=스토리 피드에 스토리를 추가하여 이 Realm의 다른 플레이어들과 멋진 순간을 공유하세요.	#
-tips.realms.5=다른 사람들이 언제 플레이하는지 확인하려면 Realm 스토리의 타임라인을 확인하세요.	#
-tips.realms.6=Realm에서 플레이하는 동안 게임 메뉴에서 Realm 스토리에 접속하세요.	#
-tips.realms.7=Realm 스토리의 멤버 탭에서 Realm 커뮤니티에 대해 알아보세요.	#
-tips.realms.8=Realm 스토리를 사용하여 사람들과 어울리고, 친구의 진행 상황을 확인하고, 플레이 시간을 계획하세요.	#
+tips.realms.5=다른 사람들이 언제 플레이하는지 확인하려면 Realm 스토리의 타임라인을 확인하세요.	#### {StrContains=realms} {MaxLength=219}
+tips.realms.6=Realm에서 플레이하는 동안 게임 메뉴에서 Realm 스토리에 접속하세요.	#### {StrContains=realms} {MaxLength=204}
+tips.realms.7=Realm 스토리의 멤버 탭에서 Realm 커뮤니티에 대해 알아보세요.	#### {StrContains=realms} {MaxLength=216}
+tips.realms.8=Realm 스토리를 사용하여 사람들과 어울리고, 친구의 진행 상황을 확인하고, 플레이 시간을 계획하세요.	#### {StrContains=realms} {MaxLength=279}
 
 tips.creative.1=중력에 질리셨나요? 두 번 점프해서 날아보세요!		####A fun way to tell players that they can fly if they press the jump button twice.{MaxLength="200"}
 tips.creative.2=생성 알로 몹을 즉시 소환합니다.		####Players can use an item called Sawn Egg to summon animals and monsters.{MaxLength="200"}
@@ -10950,7 +11026,7 @@ tips.creative.14=관전 모드를 사용해 고체 물체를 통과하며 이동
 tips.creative.15=도구가 필요하신가요? 크리에이티브 모드에서 성공을 향한 길을 뚫고 나아가며 블록을 즉시 제거하세요.		####Block breaking happens very fast when you're in Creative Mode.{MaxLength="200"}
 tips.creative.16=눈에 보이는 게 마음에 드시나요? 블록 선택 버튼을 사용하여 눈에 보이는 건 뭐든 만들어보세요. 네, 심지어 몹도 만들 수 있답니다!		####There is a feature called "Pick block" that enables players to instantly equip any block they click on. If you click on a mob(animal or monster) you will get a spawn egg that summons another monster/animal of that kind.{MaxLength="200"}
 tips.creative.17=/tp 명령어를 사용해 바로 이동하세요.		####You can teleport yourself in Creative. You use the /tp command in the chat.{MaxLength="200"}
-tips.creative.18=크리에이티브 모드에서는 몹이 여러분의 존재는 알아차리지 못하지만, 서로는 알아차릴 겁니다... 		####Mobs(animals & monsters) won't notice you in creative mode, but they'll still notice each other… meaning that they can still kill each other.{MaxLength="200"}
+tips.creative.18=크리에이티브 모드에서는 몹이 여러분의 존재는 알아차리지 못하지만, 서로는 알아차릴 겁니다... 		####Mobs(animals & monsters) won't notice you in creative mode, but they'll still notice each other... meaning that they can still kill each other.{MaxLength="200"}
 tips.creative.19=하루 한 번 워든으로... 흠, 모든 게 멀어진답니다. 		####The Warden is a scary monster that live in underground cities.{MaxLength="200"}
 tips.creative.20=수중 기지를 안 지을 이유가 있을까요? 물에 빠진다고 죽는 것도 아닐 텐데요. 		####You can't drown in creative mode. So it's possible to build underwater without danger.{MaxLength="200"}
 tips.creative.21=상상할 수 있는 건 뭐든 만들 수 있답니다. (크리에이티브 모드에서는) 자원에 제약이 없습니다.		####Players have endless resources in Creative mode. They get all the building blocks from their inventory.{MaxLength="200"}
@@ -11116,7 +11192,7 @@ dr.classic_skins.custom_skin_section_title=소유 스킨	#
 dr.classic_skins.invalidCustomSkin=64x64, 64x32 또는 128x128 크기의 .png 파일을 불러오세요.	#
 dr.classic_skins.owned=보유함	#
 dr.classic_skins.purchasable=더 보기	#
-dr.classic_skins.realms_plus=Realm Plus	#
+dr.classic_skins.realms_plus=Realm Plus	#### {StrContains=realms} {MaxLength=33}
 dr.classic_skins.right_side.author_name=제작자: %s	#
 dr.classic_skins.right_side.author_minecraft=Minecraft	#
 dr.classic_skins.right_side.custom_skin=사용자 지정 스킨	#
@@ -11134,7 +11210,7 @@ dr.classic_skins.right_side.world_count.plural=월드 %s개	#
 dr.classic_skins.right_side.world_count.singular=월드 %s개	#
 dr.classic_skins.see_pack_in_store=상점에서 팩 보기	#
 dr.classic_skins.see_in_store=상점에서 보기	#
-dr.classic_skins.realms_plus_button=Realm Plus	#
+dr.classic_skins.realms_plus_button=Realm Plus	#### {StrContains=realms} {MaxLength=33}
 dr.classic_skins.select_skin=스킨에 맞는 모델을 선택하세요	#
 dr.classic_skins.select_skin.title=스킨 유형	#
 dr.classic_skins.upsellWithoutStore=해당 스킨을 사용하려면 스킨 팩을 구매해야 합니다. 지금은 마켓플레이스에 연결할 수 없습니다.	#
@@ -11264,8 +11340,8 @@ dr.emotes.slot=감정 표현 %d	#
 dr.emotes.key=주요 %d	#
 dr.character_creator_getting_started_title=시작하기	#
 dr.character_creator_getting_started_detail=왼쪽에 있는 아이템을 선택해 캐릭터가 어떻게 보이는지 확인하세요!	#
-dr.deep_link_fail.profile=딥 연결 실패: 프로필을 불러올 수 없음	#
-dr.deep_link_fail.dressing_room=딥 연결 실패: 제안을 열 수 없음	#
+dr.deep_link_fail.profile=딥링크 실패: 프로필을 불러올 수 없음	#
+dr.deep_link_fail.dressing_room=딥링크 실패: 제안을 열 수 없음	#
 dr.marketplace.get_more_skins=스킨 더 찾아보기	#
 dr.classic_skins.show_more=더 보기	#
 
