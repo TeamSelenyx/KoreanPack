@@ -676,9 +676,9 @@ color.yellow=노란색	#
 color.white=하얀색	#
 
 commandBlockScreen.blockType=블록 유형:	#
-commandBlockScreen.blockType.impulse=임펄스	#
-commandBlockScreen.blockType.chain=체인	#
-commandBlockScreen.blockType.repeat=반복	#
+commandBlockScreen.blockType.impulse=반응형	#
+commandBlockScreen.blockType.chain=연쇄형	#
+commandBlockScreen.blockType.repeat=반복형	#
 commandBlockScreen.condition=조건:	#
 commandBlockScreen.condition.conditional=조건부	#
 commandBlockScreen.condition.unconditional=무조건부	#
@@ -2065,7 +2065,6 @@ createWorldScreen.experimentalDeferredTechnicalPreviewDescription=디퍼드 렌�
 createWorldScreen.experimentalVibrantVisuals=선명한 비주얼    	#### Vibrant as in full of energy and life, bright and colorful, strong or resonant. Visuals as in what players can see, alternative word View. Avoid words like Graphics Mode {MaxLength="60"}
 createWorldScreen.experimentalVibrantVisualsDescription=활성화 시 게임의 시각적 효과가 향상됩니다    	#### Turning on this will make the look of the game better, avoid words that could map to Graphics Mode {MaxLength="200"}
 
-
 ## Cross Platform Toggle
 crossPlatformToggle.startMenuScreen.title=크로스 플랫폼 플레이	#
 crossPlatformToggle.startMenuScreen.enable=크로스 플랫폼 플레이 활성화	#
@@ -2080,7 +2079,7 @@ crossPlatformToggle.crossPlatformDisabled.realms=주 메뉴에서 크로스 플�
 crossPlatformToggle.crossPlatformDisabled.servers=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 서버를 추가하거나 서버에 참여할 수 있게 합니다.	#
 crossPlatformToggle.crossPlatformDisabled.multiplayerSettings=주 메뉴에서 크로스 플랫폼 플레이를 활성화하여 다른 플랫폼에 있는 친구들과 함께 플레이할 수 있게 합니다.	#
 
-realmsPendingInvitationsScreen.pendingInvitations=Realm 멤버십 초대	#### {StrContains=Realms} {MaxLength=75}
+realmsPendingInvitationsScreen.pendingInvitations=Realms 멤버십 초대		#### {StrContains=Realms} {MaxLength=75}
 realmsPendingInvitationsScreen.noInvites=보류 중인 초대가 없습니다.	#
 realmsPendingInvitationsScreen.fetchingInvites=초대장을 가져오는 중...	#
 realmsPendingInvitationsScreen.decline=거절	#
@@ -2128,7 +2127,7 @@ realmsInvitationScreen.kick=삭제	#
 realmsInvitationScreen.kickAndBlock=차단	#
 realmsInvitationScreen.kickPopupTitle=액세스 허용을 취소할까요?	#
 realmsInvitationScreen.kickPopupText=이 플레이어의 액세스 허용을 취소할까요? 이 설정은 언제든지 취소할 수 있습니다.	#
-realmsInvitationScreen.copyToastMessage=Realm 링크가 클립보드에 복사되었습니다!	#### {MaxLength=120}
+realmsInvitationScreen.copyToastMessage=Realm 링크가 클립보드에 복사되었습니다!		#### {MaxLength=120}
 realmsInvitationScreen.playerFilterTitle=플레이어 필터링	#
 realmsInvitationScreen.setPermissionFail=%s 사용자의 사용 권한을 설정할 수 없습니다.	#
 realmsInvitationScreen.setDefaultPermissionFail=기본 사용 권한을 설정할 수 없습니다.	#
@@ -2154,9 +2153,9 @@ realmsSharingScreen.cantJoinClosedMessage=%s이(가) 닫혀 있습니다. %s님�
 realmsSharingScreen.failedSignInModalTitle=이 Realm에 참여하려면 로그인하세요.	#
 realmsSharingScreen.failedSignInModalMessage=Realm에 참여하려면 Microsoft 계정에 로그인해야 합니다. 로그인하고 다시 시도하세요.	#
 realmsSharingScreen.invalidPermissionTitle=유효한 권한이 필요합니다	#
-realmsSharingScreen.unexpectedServerResponseTitle=Realm 오류	#### {StrContains=realms} {MaxLength=36}
+realmsSharingScreen.unexpectedServerResponseTitle=Realms 오류		#### {StrContains=realms} {MaxLength=36}
 realmsSharingScreen.unexpectedServerResponseMessage=Realm에 연결하는 중에 문제가 발생했습니다. 다시 시도하세요.	#
-realmsSharingScreen.inviteLinkNotFoundTitle=Realm 오류	#### {StrContains=realms} {MaxLength=36}
+realmsSharingScreen.inviteLinkNotFoundTitle=Realms 오류		#### {StrContains=realms} {MaxLength=36}
 realmsSharingScreen.inviteLinkNotFoundMessage=이 초대 링크는 유효하지 않습니다.	#
 
 realmsCreateScreen.title.create=Realm 서버 생성	#
@@ -2265,13 +2264,13 @@ realmsWorld.creatingWorld=월드 생성 중	#
 
 realmsPlus.popup.top_button_text=추가 정보	#
 realmsPlus.popup.bottom_button_text=구독 갱신	#
-realmsPlus.popup.title=Realm Plus 구독 만료	#### {StrContains=realms} {MaxLength=96}
-realmsPlus.popup.message=Realm Plus 구독이 만료되었습니다. Realm Plus에서 받은 Realm, 팩 또는 스킨에 다시 접속하려면 구독을 갱신해야 합니다. 	#### {StrContains=realms} {MaxLength=489}
+realmsPlus.popup.title=Realms Plus 구독 만료		#### {StrContains=realms} {MaxLength=96}
+realmsPlus.popup.message=Realms Plus 구독이 만료되었습니다. Realm Plus에서 받은 Realm, 팩 또는 스킨에 다시 접속하려면 구독을 갱신해야 합니다.		#### {StrContains=realms} {MaxLength=489}
 
-realmsPlusUpgradeNotice.title=Realm Plus에 어서 오세요!	#### {StrContains=realms} {MaxLength=69}
-realmsPlusUpgradeNotice.body=Realm 정기 서비스가 Realm Plus로 업그레이드되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩에 접속할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 가입할 수 있습니다!	#### {StrContains=realms} {MaxLength=777}
+realmsPlusUpgradeNotice.title=Realms Plus에 어서 오세요!		#### {StrContains=realms} {MaxLength=69}
+realmsPlusUpgradeNotice.body=Realms 정기 서비스가 Realms Plus로 업그레이드되었습니다. 이제 마켓플레이스에서 추가 비용 없이 150개 이상의 콘텐츠 팩에 접속할 수 있습니다. 최대 10명의 플레이어가 동시에 플레이할 수 있고 Realm에서 모든 구독자 콘텐츠에 무료로 가입할 수 있습니다!		#### {StrContains=realms} {MaxLength=777}
 realmsPlusUpgradeNotice.continue=계속하기	#
-realmsPlusUpgradeNotice.viewpacks=Realm Plus 팩 보기	#### {StrContains=realms} {MaxLength=66}
+realmsPlusUpgradeNotice.viewpacks=Realms Plus 팩 보기		#### {StrContains=realms} {MaxLength=66}
 
 csbCreateScreen.popupTitle=Marketplace Pass		#### {StrContains="Marketplace Pass"}
 csbCreateScreen.viewTOS=Marketplace Pass의 이용 약관을 확인하려면, 아무 웹 브라우저에서 https://aka.ms/MinecraftEULA 링크를 방문하세요.		#### {StrContains="Marketplace Pass"}
@@ -2360,7 +2359,7 @@ thirdPartyWorld.playNow=지금 플레이하기	#
 thirdPartyWorld.loadingServers=서버 정보를 가져오고 있습니다. 잠시만 기다려주세요...	#
 thirdPartyWorld.loadingFeaturedServers=서버를 가져오는 중...	#
 
-realmsSlotsScreen.description=Realm 서버에 업로드할 월드를 최대 3개 선택하세요. 활성화하거나 편집할 월드를 선택하세요!	#### {StrContains=realms} {MaxLength=291}
+realmsSlotsScreen.description=Realms 서버에 업로드할 월드를 최대 3개 선택하세요. 활성화하거나 편집할 월드를 선택하세요!		#### {StrContains=realms} {MaxLength=291}
 realmsSlotsScreen.new=새로운 월드	#
 realmsSlotsScreen.readyToPlay=플레이 준비	#
 realmsSlotsScreen.editRealm=Realm 관리	#
@@ -2369,7 +2368,7 @@ realmsSlotsScreen.activateWorld=월드 활성화	#
 realmsSlotsScreen.gamesettings=게임 설정	#
 realmsSlotsScreen.chooseSlot=슬롯 선택	#
 realmsSlotsScreen.activateWarning=이 월드를 편집하거나 활성화하면 모든 활동 중인 플레이어를 추방하게 됩니다. 다시 접속할 수 있으니 걱정하지 마세요.	#
-realmsSlotsScreen.celebrationMap=Realm 기념행사 월드	#### {StrContains=realms} {MaxLength=66}
+realmsSlotsScreen.celebrationMap=Realms 기념행사 월드		#### {StrContains=realms} {MaxLength=66}
 
 realmsSettingsScreen.playerCountLabel=크기	#
 realmsSettingsScreen.forceResourcePackFail=포스 리소스 팩 가격 설정 실패	#
@@ -2545,7 +2544,7 @@ realmsSettingsScreen.inviteLinkExpirationDescription=이 링크의 만료일을 
 realmsSettingsScreen.inviteLinkExpirationTTS=만료일. 텍스트 블록. 링크가 %s에 만료됩니다. 이 링크의 만료일을 설정합니다.	#
 realmsSettingsScreen.inviteLinkExpirationNeverTTS=만료일. 텍스트 블록. 링크 %s. 이 링크의 만료일을 설정합니다.	#
 realmsSettingsScreen.inviteLink.errorLinkAddingTitle=링크 추가 오류	#
-realmsSettingsScreen.inviteLink.errorLinkAddingBody=이 Realm에 링크를 추가하는 도중 오류가 발생했습니다. 다시 시도하세요.	#### {MaxLength=200}
+realmsSettingsScreen.inviteLink.errorLinkAddingBody=이 Realm에 링크를 추가하는 도중 오류가 발생했습니다. 다시 시도하세요.		#### {MaxLength=200}
 realmsSettingsScreen.inviteLink.errorLinkDeleteTitle=링크 삭제 오류	#
 realmsSettingsScreen.inviteLink.errorLinkDeleteBody=이 링크를 삭제하는 도중에 오류가 발생했습니다. 다시 시도하세요.	#
 realmsSettingsScreen.inviteLink.errorLinkUpdateTitle=링크 업데이트 오류	#
@@ -2682,13 +2681,13 @@ dayOneExperience.carousel.title=새로운 Minecraft에 어서 오세요!	#
 dayOneExperience.carousel.welcome_text=이 새 버전의 Minecraft에는 새롭고 흥미진진한 콘텐츠가 가득합니다. 마켓플레이스를 살펴보고, Realm을 만들고, 크로스 플랫폼 친구들과 함께 온라인으로 플레이하세요!	#
 dayOneExperience.carousel.marketplace=Minecraft 마켓플레이스는 다양한 제작자들이 선보이는 새로운 스킨 팩, 텍스처 팩, 월드 팩과 매시업 팩을 만날 수 있는 곳입니다.	#
 dayOneExperience.carousel.cross_platform=크로스 플랫폼 플레이를 통해 다른 플랫폼의 플레이어와 연결할 수 있습니다. Microsoft 계정으로 로그인하여 모든 Minecraft 친구들과 함께 플레이하세요!	#
-dayOneExperience.carousel.realms=Realm은 여러분과 친구들을 위해 저희가 운영하는 서버입니다. 소유자가 접속하지 않아도 언제나 온라인으로 유지되는 Minecraft 월드를 간직하세요.	#### {StrContains=realms} {MaxLength=417}
+dayOneExperience.carousel.realms=Realms은 여러분과 친구들을 위해 저희가 운영하는 서버입니다. 소유자가 접속하지 않아도 언제나 온라인으로 유지되는 Minecraft 월드를 간직하세요.	#### {StrContains=realms} {MaxLength=417}
 dayOneExperience.carousel.villager=새로운 Minecraft는 새로운 기능, 몹, 아이템, 블록 등등 앞으로의 업데이트를 받을 수 있는 유일한 곳입니다!	#
 
 dayOneExperience.tab.landing=업데이트 정보	#
 dayOneExperience.tab.marketplace=마켓플레이스	#
 dayOneExperience.tab.crossplatform=크로스 플랫폼 플레이	#
-dayOneExperience.tab.realms=Realm	#### {StrContains=realms} {MaxLength=18}
+dayOneExperience.tab.realms=Realms	#### {StrContains=realms} {MaxLength=18}
 dayOneExperience.tab.villager=더 많은 콘텐츠	#
 
 dayOneExperience.finish=완료	#
@@ -3558,10 +3557,10 @@ howtoplay.anvil.text.4=아이템 결합은 모루를 사용했을 때 더 효과
 howtoplay.anvil.text.5=모루는 사용할 때마다 손상될 수 있으며, 사용량이 일정 수준에 도달하면 망가집니다.	#
 
 howtoplay.armor=갑옷	#
-howtoplay.armor.text.1=갑옷를 착용하면 각종 피해로부터 몸을 보호해줍니다. 갑옷 레벨은 HUD에서 :armor: 아이콘으로 표시되며, 레벨이 높을수록 피해를 적게 받습니다.	#
+howtoplay.armor.text.1=갑옷을 착용하면 각종 피해로부터 몸을 보호해줍니다. 갑옷 레벨은 HUD에서 :armor: 아이콘으로 표시되며, 레벨이 높을수록 피해를 적게 받습니다.	#
 howtoplay.armor.header.1=제작	#
-howtoplay.armor.text.2=갑옷는 가죽, 철, 금, 다이아몬드로 제작할 수 있으며 사슬 갑옷은 마을 주민과 거래하거나 좀비, 스켈레톤등을 처치하면 얻을 수 있습니다.	#
-howtoplay.armor.text.3=보관함을 열어 플레이어 스킨 옆에 있는 갑옷 슬롯에 각각 해당 부위의 갑옷를 끌어 놓는 방식으로 착용합니다.	#
+howtoplay.armor.text.2=갑옷은 가죽, 철, 금, 다이아몬드로 제작할 수 있으며 사슬 갑옷은 마을 주민과 거래하거나 좀비, 스켈레톤등을 처치하면 얻을 수 있습니다.	#
+howtoplay.armor.text.3=보관함을 열어 플레이어 스킨 옆에 있는 갑옷 슬롯에 각각 해당 부위의 갑옷을 끌어 놓는 방식으로 착용합니다.	#
 howtoplay.armor.text.4=철 갑옷, 사슬 갑옷, 금 갑옷을 화로에 녹이면 철 또는 금 조각을 얻을 수 있습니다.		#### How To Play help text. {MaxLength="500"}
 howtoplay.armor.header.2=방패	#
 howtoplay.armor.text.5.keyboard=방패는 각종 피해를 막아줍니다. 방패는 보조 손 슬롯 및 핫바에 장착할 수 있습니다. 방패로 막을려면 :_input_key.sneak:를 길게 누르세요.	#
@@ -3576,7 +3575,7 @@ howtoplay.armor.header.3=위장	#
 howtoplay.armor.text.7=조각된 호박도 머리에 쓸 수 있습니다. 따로 :armor:을 제공하지는 않지만, 호박을 쓰고 있을 때는 엔더맨을 바라보고 있어도 공격하지 않습니다.	#
 
 howtoplay.armorStand=갑옷 거치대	#
-howtoplay.armorStand.text.1=사용하지 않는 갑옷는 갑옷 거치대에 보관할 수 있습니다.	#
+howtoplay.armorStand.text.1=사용하지 않는 갑옷은 갑옷 거치대에 보관할 수 있습니다.	#
 howtoplay.armorStand.header.1=외모 꾸미기	#
 howtoplay.armorStand.text.2.notTouch=갑옷 아이템을 손에 들고 갑옷 거치대를 대상으로 :_input_key.use: 키를 누르면 해당 아이템이 장착됩니다.	#
 howtoplay.armorStand.text.2.touch=갑옷 아이템을 손에 들고 갑옷 거치대를 터치하면 해당 아이템이 장착됩니다.	#
@@ -3625,7 +3624,7 @@ howtoplay.beds.text.5=네더는 잠을 자기에는 지나치게 뜨거운 경�
 howtoplay.bedsNew=침대	#
 howtoplay.bedsNew.title=플레이 방법: 침대	#
 howtoplay.bedsNew.text.1=부드러운 침대는 밤에 숙면을 취하도록 해줍니다. 그리고 그걸 만들려면 양털과 안전한 장소가 필요합니다.	#
-howtoplay.bedsNew.text.2=침대에서 잠을 자면 §e생성 지점§f이 설정되어, 죽어도 바로 집에서 다시 생성됩니다!	#
+howtoplay.bedsNew.text.2=침대에서 잠을 자면 §e리스폰 지점§f이 설정되어, 죽어도 바로 집에서 다시 생성됩니다!	#
 howtoplay.bedsNew.text.3=밤이나 천둥번개가 치는 날처럼 아늑할 때만 잠들 수 있습니다.	#
 
 howtoplay.blocks=블록	#
@@ -3668,8 +3667,8 @@ howtoplay.cauldron.header.2=화살 담그기	#
 howtoplay.cauldron.text.4.notTouch=화살을 손에 들고 가마솥에 :_input_key.use: 키를 사용하면 다양한 종류의 화살을 만들 수 있습니다.	#
 howtoplay.cauldron.text.4.touch=화살을 손에 들고 가마솥을 탭하면 다양한 종류의 화살을 만들 수 있습니다.	#
 howtoplay.cauldron.header.3=갑옷 염색하기	#
-howtoplay.cauldron.text.5.notTouch=가죽 갑옷나 가죽 말 갑옷를 염색하려면 원하는 색상의 염료를 손에 든 상태로 물이 담긴 가마솥에 :_input_key.use: 키를 사용하세요. 가마솥 안의 물 색상이 바뀌면 갑옷를 든 상태로 가마솥에 :_input_key.use: 키를 사용해 담그면 됩니다.	#
-howtoplay.cauldron.text.5.touch=가죽 갑옷나 가죽 말 갑옷를 염색하려면 원하는 색상의 염료를 손에 든 상태로 물이 담긴 가마솥을 탭하세요. 가마솥 안의 물 색상이 바뀌면 갑옷를 든 상태로 가마솥을 탭해 담그면 됩니다.	#
+howtoplay.cauldron.text.5.notTouch=가죽 갑옷이나 가죽 말 갑옷을 염색하려면 원하는 색상의 염료를 손에 든 상태로 물이 담긴 가마솥에 :_input_key.use: 키를 사용하세요. 가마솥 안의 물 색상이 바뀌면 갑옷을 든 상태로 가마솥에 :_input_key.use: 키를 사용해 담그면 됩니다.	#
+howtoplay.cauldron.text.5.touch=가죽 갑옷이나 가죽 말 갑옷을 염색하려면 원하는 색상의 염료를 손에 든 상태로 물이 담긴 가마솥을 탭하세요. 가마솥 안의 물 색상이 바뀌면 갑옷을 든 상태로 가마솥을 탭해 담그면 됩니다.	#
 howtoplay.cauldron.text.6=염색을 취소하려면 염색한 아이템을 일반 물이 담긴 가마솥에 담궈 씻어낼 수 있습니다.	#
 
 howtoplay.chat=채팅	#
@@ -3689,9 +3688,9 @@ howtoplay.commandBlocks.text.2=명령 블록을 얻는 방법은 §e/give <플�
 howtoplay.commandBlocks.text.3=명령 블록에 저장된 명령어가 실행되거나 실행에 실패하면 화살표 방향으로 레드스톤 신호를 전송합니다.	#
 howtoplay.commandBlocks.text.4=커서 항목 메시지에서 명령 블록 이름을 설정할 수 있습니다.	#
 howtoplay.commandBlocks.text.5=§e블록 유형§f - 명령 블록에는 세 가지 유형이 있으며 각각 색상과 작동 방식이 다릅니다.	#
-howtoplay.commandBlocks.text.5.1=§e임펄스§f - 블록이 레드스톤 신호를 받았을 때만 저장된 명령어를 실행합니다.	#
-howtoplay.commandBlocks.text.5.2=§e체인§f - 바로 뒤의 명령 블록이 명령을 실행하거나 실행에 실패했을 때 저장된 명령어를 실행합니다. 	#
-howtoplay.commandBlocks.text.5.3=§e반복§f - 이 명령 블록은 활성화되면 블록을 제거하지 않는 한 계속해서 저장된 명령어를 실행합니다.	#
+howtoplay.commandBlocks.text.5.1=§e반응형§f - 블록이 레드스톤 신호를 받았을 때만 저장된 명령어를 실행합니다.	#
+howtoplay.commandBlocks.text.5.2=§e연쇄형§f - 바로 뒤의 명령 블록이 명령을 실행하거나 실행에 실패했을 때 저장된 명령어를 실행합니다. 	#
+howtoplay.commandBlocks.text.5.3=§e반복형§f - 이 명령 블록은 활성화되면 블록을 제거하지 않는 한 계속해서 저장된 명령어를 실행합니다.	#
 howtoplay.commandBlocks.text.6=§e조건§f - 명령 블록의 작동 방식에 영향을 주는 조건은 다음 두 가지입니다.	#
 howtoplay.commandBlocks.text.6.1=§e무조건부§f - 바로 뒤의 명령 블록이 명령 실행에 실패한 경우에도 저장된 명령어를 실행합니다.	#
 howtoplay.commandBlocks.text.6.2=§e조건부§f - 바로 뒤의 명령 블록이 성공적으로 명령을 실행한 경우에만 저장된 명령어를 실행합니다.	#
@@ -3714,9 +3713,9 @@ howtoplay.conduits.text.4=더 많은 동력을 끌어올수록 기능이 닿는 
 howtoplay.craftingATool=도구 제작	#
 howtoplay.craftingATool.title=플레이 방법: 도구 제작	#
 howtoplay.craftingATool.text.1=§e도구§f는 작업을 더 빠르게 완료할 수 있도록 도와줍니다. §e곡괭이§f:wood_pickaxe:는 돌과 다양한 광석을 채굴할 수 있게 해줍니다. §e검§f:wood_sword:과 같은 다른 도구는 적을 막는 데 도움이 됩니다.	#
-howtoplay.craftingATool.text.2.keyboard=도구를 제작하려면 §e작업대§f:crafting_table:로 가서 열고 마우스 오른쪽 버튼으로 클릭하세요. 막대기 두 개와 널빤지 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
-howtoplay.craftingATool.text.2.gamepad=도구를 제작하려면 §e제작 테이블§f:crafting_table:로 가서 :_input_key.use:를 눌러 여세요. 막대기 두 개와 널빤지 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
-howtoplay.craftingATool.text.2.touch=도구를 제작하려면 §e제작 테이블§f:crafting_table:로 가서 탭하세요. 막대기 두 개와 널빤지 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
+howtoplay.craftingATool.text.2.keyboard=도구를 제작하려면 §e작업대§f:crafting_table:로 가서 열고 마우스 오른쪽 버튼으로 클릭하세요. 막대기 두 개와 판자 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
+howtoplay.craftingATool.text.2.gamepad=도구를 제작하려면 §e작업대§f:crafting_table:로 가서 :_input_key.use:를 눌러 여세요. 막대기 두 개와 판자 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
+howtoplay.craftingATool.text.2.touch=도구를 제작하려면 §e작업대§f:crafting_table:로 가서 탭하세요. 막대기 두 개와 판자 몇 개로 대부분의 도구를 기본 버전으로 제작할 수 있으며, §e제작법 책§f에 방법이 나와 있습니다!	#
 
 howtoplay.worldBuilder=월드 빌더	#
 howtoplay.worldBuilder.title=플레이 방법: 월드 빌더	#
@@ -3733,11 +3732,11 @@ howtoplay.worldBuilder.text.9=/ability @p worldbuilder	#
 howtoplay.permissionBlocks=권한 블록	#
 howtoplay.permissionBlocks.title=플레이 방법: 권한 블록	#
 howtoplay.permissionBlocks.text.1=Minecraft Education은 교사들이 수업 작성 및 운용을 쉽게 할 수 있도록 몇 가지 특별한 블록을 제공합니다. 월드 빌더 기능을 가진 플레이어들만 이 블록을 배치하고 파괴할 수 있습니다. 월드 빌더 기능이 없는 플레이어들은 이 블록에 의해 제한받게 됩니다.	#
-howtoplay.permissionBlocks.title.1=수락/거부	#
-howtoplay.permissionBlocks.text.2=수락 및 거부 블록은 플레이어가 월드에 건설할 수 있는 지역을 제한합니다.	#
-howtoplay.permissionBlocks.text.3=플레이어는 수락 블록 위에서 블록 배치 및 파괴가 가능합니다. 플레이어는 거부 블록 위에서는 블록 배치 및 파괴가 불가능합니다.	#
-howtoplay.permissionBlocks.text.4=수락 및 거부 블록은 그 아래의 지역에는 영향을 주지 않습니다.	#
-howtoplay.permissionBlocks.text.5=수락 블록 아래에 거부 블록이 있으면 그 사이의 공간에는 플레이어가 아무것도 건설할 수 없습니다. 수락 블록 위에는 플레이어들이 블록 배치 및 파괴가 가능합니다.	#
+howtoplay.permissionBlocks.title.1=허용/거부	#
+howtoplay.permissionBlocks.text.2=허용 및 거부 블록은 플레이어가 월드에 건설할 수 있는 지역을 제한합니다.	#
+howtoplay.permissionBlocks.text.3=플레이어는 허용 블록 위에서 블록 배치 및 파괴가 가능합니다. 플레이어는 거부 블록 위에서는 블록 배치 및 파괴가 불가능합니다.	#
+howtoplay.permissionBlocks.text.4=허용 및 거부 블록은 그 아래의 지역에는 영향을 주지 않습니다.	#
+howtoplay.permissionBlocks.text.5=허용 블록 아래에 거부 블록이 있으면 그 사이의 공간에는 플레이어가 아무것도 건설할 수 없습니다. 허용 블록 위에는 플레이어들이 블록 배치 및 파괴가 가능합니다.	#
 howtoplay.permissionBlocks.title.2=경계	#
 howtoplay.permissionBlocks.text.6=경계 블록은 다른 블록이 있거나 말거나 상관없이 위 또는 아래로 무한히 뻗어 나가는 에너지장을 제공합니다. 플레이어는 경계 블록을 통과하거나, 그 위나 아래로 이동할 수 없습니다. 플레이어는 경계 블록 위나 아래에 블록을 배치하거나 파괴할 수 없습니다.	#
 
@@ -3873,10 +3872,10 @@ howtoplay.elytra.text.6=아무 효과가 추가되지 않은 폭죽 로켓은 �
 howtoplay.enchantingTable=마법 부여대	#
 howtoplay.enchantingTable.text.1=경험치 구슬을 흡수하여 쌓은 경험치 점수는 무기와 갑옷, 도구, 책에 마법을 부여하는 데 사용할 수 있습니다.	#
 howtoplay.enchantingTable.header.1=마법 부여	#
-howtoplay.enchantingTable.text.2=마법 부여가 가능한 아이템을 마법 부여대의 책 아래 슬롯에 넣으면 오른쪽 슬롯 옆 세 개의 버튼에서 아이템에 부여할 수 있는 효과와 해당 효과부여에 필요한 경험치 레벨과 청금석이 표시됩니다.	# {MaxLength="500"}
+howtoplay.enchantingTable.text.2=마법 부여가 가능한 아이템을 마법 부여대의 책 아래 슬롯에 넣으면 오른쪽 슬롯 옆 세 개의 버튼에서 아이템에 부여할 수 있는 마법와 해당 마법 부여에 필요한 경험치 레벨과 청금석이 표시됩니다.	# {MaxLength="500"}
 howtoplay.enchantingTable.text.3=실제로 적용되는 마법 부여는 표시된 비용에 따라 임의로 정해집니다.	#
 howtoplay.enchantingTable.header.2=더 강력한 마법 부여하기	#
-howtoplay.enchantingTable.text.4=마법 부여대에서 1 블록 간격을 두고 주변을 최대 15개의 책장으로 둘러싸면 마법 부여대의 책에서 신비롭게 빛나는 문양을 볼 수 있으며 효과부여의 강도가 높아집니다.	#### How To Play help text. {MaxLength="500"}
+howtoplay.enchantingTable.text.4=마법 부여대에서 1 블록 간격을 두고 주변을 최대 15개의 책장으로 둘러싸면 마법 부여대의 책에서 신비롭게 빛나는 문양을 볼 수 있으며 마법 부여의 강도가 높아집니다.	#### How To Play help text. {MaxLength="500"}
 howtoplay.enchantingTable.header.3=마법이 부여된 책	#
 howtoplay.enchantingTable.text.5=마법이 부여된 책을 모루에서 사용하면 아이템에 마법을 부여할 수 있습니다. 이 방식을 사용하면 아이템에 원하는 마법을 부여할 가능성이 더 높아집니다.	#
 
@@ -4649,38 +4648,54 @@ item.banner.flower.red=빨간색 꽃 모양	#
 item.banner.flower.silver=회백색 꽃 모양	#
 item.banner.flower.white=하얀색 꽃 모양	#
 item.banner.flower.yellow=노란색 꽃 모양	#
-item.banner.gradient.black=검은색 상단 그라데이션	#
-item.banner.gradient.blue=파란색 상단 그라데이션	#
-item.banner.gradient.brown=갈색 상단 그라데이션	#
-item.banner.gradient.cyan=청록색 상단 그라데이션	#
-item.banner.gradient.gray=회색 상단 그라데이션	#
-item.banner.gradient.green=초록색 상단 그라데이션	#
-item.banner.gradient.lightBlue=하늘색 상단 그라데이션	#
-item.banner.gradient.lime=연두색 상단 그라데이션	#
-item.banner.gradient.magenta=자홍색 상단 그라데이션	#
-item.banner.gradient.orange=주황색 상단 그라데이션	#
-item.banner.gradient.pink=분홍색 상단 그라데이션	#
-item.banner.gradient.purple=보라색 상단 그라데이션	#
-item.banner.gradient.red=빨간색 상단 그라데이션	#
-item.banner.gradient.silver=회백색 상단 그라데이션	#
-item.banner.gradient.white=하얀색 상단 그라데이션	#
-item.banner.gradient.yellow=노란색 상단 그라데이션	#
-item.banner.gradient_up.black=검은색 하단 그라데이션	#
-item.banner.gradient_up.blue=파란색 하단 그라데이션	#
-item.banner.gradient_up.brown=갈색 하단 그라데이션	#
-item.banner.gradient_up.cyan=청록색 하단 그라데이션	#
-item.banner.gradient_up.gray=회색 하단 그라데이션	#
-item.banner.gradient_up.green=초록색 하단 그라데이션	#
-item.banner.gradient_up.lightBlue=하늘색 하단 그라데이션	#
-item.banner.gradient_up.lime=연두색 하단 그라데이션	#
-item.banner.gradient_up.magenta=자홍색 하단 그라데이션	#
-item.banner.gradient_up.orange=주황색 하단 그라데이션	#
-item.banner.gradient_up.pink=분홍색 하단 그라데이션	#
-item.banner.gradient_up.purple=보라색 하단 그라데이션	#
-item.banner.gradient_up.red=빨간색 하단 그라데이션	#
-item.banner.gradient_up.silver=회백색 하단 그라데이션	#
-item.banner.gradient_up.white=하얀색 하단 그라데이션	#
-item.banner.gradient_up.yellow=노란색 하단 그라데이션	#
+item.banner.globe.black=검은색 지구 모양	#
+item.banner.globe.blue=파란색 지구 모양	#
+item.banner.globe.brown=갈색 지구 모양	#
+item.banner.globe.cyan=청록색 지구 모양	#
+item.banner.globe.gray=회색 지구 모양	#
+item.banner.globe.green=초록색 지구 모양	#
+item.banner.globe.lightBlue=하늘색 지구 모양	#
+item.banner.globe.lime=연두색 지구 모양	#
+item.banner.globe.magenta=자홍색 지구 모양	#
+item.banner.globe.orange=주황색 지구 모양	#
+item.banner.globe.pink=분홍색 지구 모양	#
+item.banner.globe.purple=보라색 지구 모양	#
+item.banner.globe.red=빨간색 지구 모양	#
+item.banner.globe.silver=회백색 지구 모양	#
+item.banner.globe.white=하얀색 지구 모양	#
+item.banner.globe.yellow=노란색 지구 모양	#
+item.banner.gradient.black=검은색 위쪽 그라데이션	#
+item.banner.gradient.blue=파란색 위쪽 그라데이션	#
+item.banner.gradient.brown=갈색 위쪽 그라데이션	#
+item.banner.gradient.cyan=청록색 위쪽 그라데이션	#
+item.banner.gradient.gray=회색 위쪽 그라데이션	#
+item.banner.gradient.green=초록색 위쪽 그라데이션	#
+item.banner.gradient.lightBlue=하늘색 위쪽 그라데이션	#
+item.banner.gradient.lime=연두색 위쪽 그라데이션	#
+item.banner.gradient.magenta=자홍색 위쪽 그라데이션	#
+item.banner.gradient.orange=주황색 위쪽 그라데이션	#
+item.banner.gradient.pink=분홍색 위쪽 그라데이션	#
+item.banner.gradient.purple=보라색 위쪽 그라데이션	#
+item.banner.gradient.red=빨간색 위쪽 그라데이션	#
+item.banner.gradient.silver=회백색 위쪽 그라데이션	#
+item.banner.gradient.white=하얀색 위쪽 그라데이션	#
+item.banner.gradient.yellow=노란색 위쪽 그라데이션	#
+item.banner.gradient_up.black=검은색 아래쪽 그라데이션	#
+item.banner.gradient_up.blue=파란색 아래쪽 그라데이션	#
+item.banner.gradient_up.brown=갈색 아래쪽 그라데이션	#
+item.banner.gradient_up.cyan=청록색 아래쪽 그라데이션	#
+item.banner.gradient_up.gray=회색 아래쪽 그라데이션	#
+item.banner.gradient_up.green=초록색 아래쪽 그라데이션	#
+item.banner.gradient_up.lightBlue=하늘색 아래쪽 그라데이션	#
+item.banner.gradient_up.lime=연두색 아래쪽 그라데이션	#
+item.banner.gradient_up.magenta=자홍색 아래쪽 그라데이션	#
+item.banner.gradient_up.orange=주황색 아래쪽 그라데이션	#
+item.banner.gradient_up.pink=분홍색 아래쪽 그라데이션	#
+item.banner.gradient_up.purple=보라색 아래쪽 그라데이션	#
+item.banner.gradient_up.red=빨간색 아래쪽 그라데이션	#
+item.banner.gradient_up.silver=회백색 아래쪽 그라데이션	#
+item.banner.gradient_up.white=하얀색 아래쪽 그라데이션	#
+item.banner.gradient_up.yellow=노란색 아래쪽 그라데이션	#
 item.banner.gray.name=회색 현수막	#
 item.banner.green.name=초록색 현수막	#
 item.banner.guster.black=검은색 소용돌이	#
@@ -5241,8 +5256,8 @@ item.tropicalSchoolYellowTang.name=노랑양쥐좀	#
 item.tropicalSchoolYellowtailParrot.name=노랑꼬리비늘돔	#
 item.cake.name=케이크	#
 item.camera.name=카메라	#
-item.canBreak=상호작용이 가능한 대상:	#
-item.canPlace=설치가 가능한 블록:	#
+item.canBreak=파괴 가능한 대상:	#
+item.canPlace=설치 가능한 대상:	#
 item.customProperties=사용자 지정 속성이 있음	#
 item.itemLock.cantDrop=:hollow_star: 뱉기가 불가능한 아이템은 다음 행동을 할 수 없음:	#
 item.itemLock.cantMove=:solid_star: 해당 아이템은 다음 행동을 할 수 없음:	#
@@ -5360,11 +5375,11 @@ item.fireworksCharge.white=하얀색	#
 item.fireworksCharge.yellow=노란색	#
 item.clownfish.name=열대어	#
 item.cooked_fish.name=익힌 대구	#
-item.fish.name=날 대구	#
+item.fish.name=익히지 않은 대구	#
 item.photo.name=사진	#
 item.pufferfish.name=복어	#
 item.cooked_salmon.name=익힌 연어	#
-item.salmon.name=날 연어	#
+item.salmon.name=익히지 않은 연어	#
 item.fishing_rod.name=낚싯대	#
 item.flint.name=부싯돌	#
 item.flint_and_steel.name=부싯돌과 부시	#
@@ -5632,13 +5647,13 @@ item.wind_charge.name=돌풍구	#
 item.wheat.name=밀	#
 item.wolf_armor.name=늑대 갑옷	#
 item.writable_book.name=책과 깃펜	#
-item.written_book.name=쓰여진 책	#
+item.written_book.name=글이 쓰인 책	#
 item.glowstone_dust.name=발광석 가루	#
 item.shulker_shell.name=셜커 껍데기	#
 item.totem.name=불사의 토템	#
 item.trial_key.name=시련 열쇠	#
 item.turtle_helmet.name=거북 등딱지	#
-item.turtle_shell_piece.name=인갑	#
+item.turtle_shell_piece.name=거북 인갑	#
 item.phantom_membrane.name=팬텀 막	#
 item.sweet_berries.name=달콤한 열매	#
 item.suspicious_stew.name=수상한 스튜	#
@@ -7383,7 +7398,7 @@ playscreen.ownershipVerifyState.signingIn=로그인 중...	#
 
 permissions.ability.build=블록 설치	#
 permissions.ability.mine=블록 파괴	#
-permissions.ability.doorsandswitches=문과 버튼및 압력판, 레버 사용	#
+permissions.ability.doorsandswitches=문과 스위치 사용	#
 permissions.ability.opencontainers=보관 블록 이용	#
 permissions.ability.attackplayers=플레이어 공격	#
 permissions.ability.attackmobs=몹 공격	#
@@ -7982,7 +7997,7 @@ entity.chest_boat.name=상자가 실린 보트	#
 feature.ancient_city=고대 도시	#
 
 action.hint.exit.camel=웅크려서 내리기	#
-action.hint.exit.console.camel=뗏목에서 내리려면 :_input_key.jump: 키를 누르세요.	#
+action.hint.exit.console.camel=내리려면 :_input_key.jump: 키를 누르세요.	#
 action.hint.exit.console.raft=뗏목에서 내리려면 :_input_key.jump: 키를 누르세요.	#
 action.hint.exit.raft=점프해서 뗏목에서 내리기	#
 action.hint.exit.scheme.camel=내리려면 내리기를 탭하세요	#
@@ -9314,7 +9329,7 @@ tile.bed.notValid=당신의 집 침대 또는 충전된 리스폰 정박기가 �
 tile.bed.occupied=다른 사람이 이미 침대에 누워 있습니다	#
 tile.bed.respawnSet=리스폰 지역 설정	#
 tile.bed.tooFar=침대가 너무 멀리 있어 쉴 수 없습니다	#
-tile.bed.obstructed=침대가 파괴되었습니다.	#
+tile.bed.obstructed=침대가 파괴되었습니다	#
 tile.bedrock.name=기반암	#
 tile.bell.name=종	#
 tile.camera.name=카메라	#
@@ -9348,7 +9363,7 @@ tile.iron_block.name=철 블록	#
 tile.lapis_block.name=청금석 블록	#
 tile.redstone_block.name=레드스톤 블록	#
 tile.bookshelf.name=책장	#
-tile.brick_block.name=벽돌 블록	#
+tile.brick_block.name=벽돌	#
 tile.brown_mushroom.name=갈색 버섯	#
 tile.brown_mushroom_block.mushroom.name=버섯	#
 tile.brown_mushroom_block.stem.name=버섯 자루	#
@@ -9359,7 +9374,7 @@ tile.birch_button.name=자작나무 버튼	#
 tile.dark_oak_button.name=짙은 참나무 버튼	#
 tile.jungle_button.name=정글나무 버튼	#
 tile.respawn_anchor.respawnSet=리스폰 지역 설정	#
-tile.respawn_anchor.notValid=충전된 리스폰 정박기가 없거나, 가로막혀 있습니다.	#
+tile.respawn_anchor.notValid=충전된 리스폰 정박기가 없거나, 가로막혀 있습니다	#
 tile.spruce_button.name=가문비나무 버튼	#
 tile.stone_button.name=돌 버튼	#
 tile.cactus.name=선인장	#
@@ -9516,7 +9531,7 @@ tile.stained_hardened_clay.silver.name=회백색 테라코타	#
 tile.stained_hardened_clay.white.name=하얀색 테라코타	#
 tile.stained_hardened_clay.yellow.name=노란색 테라코타	#
 tile.structure_block.name=구조물 블록	#
-structure_block.waterlog_block=워터로그 블록	#
+structure_block.waterlog_block=물에 잠긴 블록	#
 tile.structure_void.name=구조물 공허 공간	#
 tile.trial_spawner.name=시련 생성기	#
 tile.vault.name=금고	#
@@ -9554,9 +9569,9 @@ tile.cobblestone_wall.red_nether_brick.name=붉은 네더 벽돌 담장	#
 tile.cocoa.name=코코아	#
 tile.command_block.name=명령 블록	#
 tile.composter.name=퇴비통	#
-tile.light_block.name=조명 블록	#
-tile.repeating_command_block.name=반복 명령 블록	#
-tile.chain_command_block.name=체인 명령 블록	#
+tile.light_block.name=빛	#
+tile.repeating_command_block.name=반복형 명령 블록	#
+tile.chain_command_block.name=연쇄형 명령 블록	#
 tile.wheat.name=작물	#
 tile.darkOakFence.name=짙은 참나무 울타리	#
 tile.dark_oak_fence_gate.name=짙은 참나무 울타리 문	#
@@ -9569,7 +9584,7 @@ tile.dirt.name=흙	#
 tile.podzol.name=회백토	#
 tile.purpur_block.default.name=퍼퍼 블록	#
 tile.purpur_block.lines.name=퍼퍼 기둥	#
-tile.purpur_block.chiseled.name=조각된 퍼퍼 블록	#
+tile.purpur_block.chiseled.name=조각된 퍼퍼	#
 tile.dispenser.name=발사기	#
 tile.iron_door.name=철문	#
 tile.doorWood.name=나무 문	#
@@ -10087,7 +10102,7 @@ tile.wood.stripped.dark_oak.name=껍질 벗긴 짙은 참나무	#
 
 tile.netherite_block.name=네더라이트 블록	#
 tile.ancient_debris.name=고대 잔해	#
-tile.nether_gold_ore.name=네더 금광석	#
+tile.nether_gold_ore.name=네더 금 광석	#
 
 tile.respawn_anchor.name=리스폰 정박기	#
 tile.crying_obsidian.name=우는 흑요석	#
@@ -10242,23 +10257,23 @@ tile.brown_candle.name=갈색 초	#
 tile.green_candle.name=초록색 초	#
 tile.red_candle.name=빨간색 초	#
 tile.black_candle.name=검은색 초	#
-tile.candle_cake.name=초가 꽂힌 케이크	#
-tile.white_candle_cake.name=하얀색 초가 꽂힌 케이크	#
-tile.orange_candle_cake.name=주황색 초가 꽂힌 케이크	#
-tile.magenta_candle_cake.name=자홍색 초가 꽂힌 케이크	#
-tile.light_blue_candle_cake.name=하늘색 초가 꽂힌 케이크	#
-tile.yellow_candle_cake.name=노란색 초가 꽂힌 케이크	#
-tile.lime_candle_cake.name=연두색 초가 꽂힌 케이크	#
-tile.pink_candle_cake.name=분홍색 초가 꽂힌 케이크	#
-tile.gray_candle_cake.name=회색 초가 꽂힌 케이크	#
-tile.light_gray_candle_cake.name=회백색 초가 꽂힌 케이크	#
-tile.cyan_candle_cake.name=청록색 초가 꽂힌 케이크	#
-tile.purple_candle_cake.name=보라색 초가 꽂힌 케이크	#
-tile.blue_candle_cake.name=파란색 초가 꽂힌 케이크	#
-tile.brown_candle_cake.name=갈색 초가 꽂힌 케이크	#
-tile.green_candle_cake.name=초록색 초가 꽂힌 케이크	#
-tile.red_candle_cake.name=빨간색 초가 꽂힌 케이크	#
-tile.black_candle_cake.name=검은색 초가 꽂힌 케이크	#
+tile.candle_cake.name=초를 꽂은 케이크	#
+tile.white_candle_cake.name=하얀색 초를 꽂은 케이크	#
+tile.orange_candle_cake.name=주황색 초를 꽂은 케이크	#
+tile.magenta_candle_cake.name=자홍색 초를 꽂은 케이크	#
+tile.light_blue_candle_cake.name=하늘색 초를 꽂은 케이크	#
+tile.yellow_candle_cake.name=노란색 초를 꽂은 케이크	#
+tile.lime_candle_cake.name=연두색 초를 꽂은 케이크	#
+tile.pink_candle_cake.name=분홍색 초를 꽂은 케이크	#
+tile.gray_candle_cake.name=회색 초를 꽂은 케이크	#
+tile.light_gray_candle_cake.name=회백색 초를 꽂은 케이크	#
+tile.cyan_candle_cake.name=청록색 초를 꽂은 케이크	#
+tile.purple_candle_cake.name=보라색 초를 꽂은 케이크	#
+tile.blue_candle_cake.name=파란색 초를 꽂은 케이크	#
+tile.brown_candle_cake.name=갈색 초를 꽂은 케이크	#
+tile.green_candle_cake.name=초록색 초를 꽂은 케이크	#
+tile.red_candle_cake.name=빨간색 초를 꽂은 케이크	#
+tile.black_candle_cake.name=검은색 초를 꽂은 케이크	#
 
 item.spyglass.name=망원경	#
 item.amethyst_shard.name=자수정 조각	#
@@ -10469,7 +10484,7 @@ trial.tabbed_upsell.title=정식 버전 게임 구매	#
 trial.tabbed_upsell.button=Minecraft를 구입하세요!	#
 trial.tabbed_upsell.buttonAlternate=Minecraft 정식 버전 게임 잠금 해제	#
 trial.tabbed_upsell.minecraft.title=MINECRAFT 	#
-trial.tabbed_upsell.minecraft.description=여러분만의 특별한 월드를 끝없이 탐험하며 간단한 집에서부터 웅장한 성채에 이르기까지 모든 것을 만들어 보세요! 무한대의 자원을 이용할 수 있는 크리에이티브 모드로 플레이하거나 서바이벌 모드를 탐험하며 무기와 갑옷를 제작해 위험한 몹을 물리치고 밤에도 살아남으세요. 더불어, 온라인에서 친구와 플레이하세요! 오늘 정식 버전 게임을 잠금 해제하세요!	#
+trial.tabbed_upsell.minecraft.description=여러분만의 특별한 월드를 끝없이 탐험하며 간단한 집에서부터 웅장한 성채에 이르기까지 모든 것을 만들어 보세요! 무한대의 자원을 이용할 수 있는 크리에이티브 모드로 플레이하거나 서바이벌 모드를 탐험하며 무기와 갑옷을 제작해 위험한 몹을 물리치고 밤에도 살아남으세요. 더불어, 온라인에서 친구와 플레이하세요! 오늘 정식 버전 게임을 잠금 해제하세요!	#
 trial.tabbed_upsell.xbl.title=MICROSOFT 계정	#
 trial.tabbed_upsell.xbl.description=정식 버전 Minecraft에서는 크리에이티브 모드, 도전 과제 등을 즐길 수 있으며, Microsoft 계정을 통해 Minecraft 커뮤니티의 다른 플레이어를 만날 수 있습니다! 친구들의 월드에 참여하고, 서버에서 새로운 친구와 사귀고, 마켓플레이스에서 구매한 상품을 Minecraft를 플레이하는 모든 장치에서 같이 사용하세요.	#
 trial.tabbed_upsell.xbl.description.line2=*(마켓플레이스 버전 해당)	#
@@ -10696,7 +10711,7 @@ safety.bannedSkin.button=자세한 정보	#
 safety.bannedSkin.continue=기본 스킨으로 계속하기	#
 safety.bannedSkin=현재 스킨이 커뮤니티 규정을 위반합니다. 멀티 플레이어 게임에 참여하려면 다른 스킨을 선택해 주세요. "%s"을(를) 클릭하여 커뮤니티 규정을 확인하거나 현재 스킨에 대한 사례 리뷰를 제출하세요.	#
 
-safety.textProcessorOffline.message=§e현재 이 Realm에서 채팅 및 다른 사용자 생성 텍스트를 사용할 수 없습니다. 나중에 다시 시도하세요.§f	####Error message indicating that chat is unavailable.{MaxLength="450"}
+safety.textProcessorOffline.message=§e현재 채팅 및 다른 사용자 생성 텍스트를 사용할 수 없습니다. 나중에 다시 시도하세요.§f		####Error message indicating that chat is unavailable.{MaxLength="450"}
 
 authserver.notavailable=오류가 발생했습니다. 현재 연결하려는 서버가 신뢰할 수 있는 서버인지 확인할 수 없습니다. 나중에 다시 시도하는 것을 권장합니다.	#
 authserver.authfailed=오류가 발생했습니다. 이 서버는 서버 유효성 검증 테스트에 실패했습니다. 신뢰할 수 없는 출처에서 신뢰할 수 있는 서버를 가장한 경우일 수 있습니다.	#
@@ -10716,6 +10731,7 @@ packdiscoveryerror.unsupported_file_format=지원되지 않는 포멧으로 압�
 packdiscoveryerror.missing_manifest=팩의 매니페스트를 열 수 없습니다.	#
 packdiscoveryerror.manifest_parse_error=%s 스택의 팩 매니페스트를 해석할 수 없습니다.	#
 packdiscoveryerror.required_manifest_property_missing=팩 매니페스요한 '%s' 요소의 형식이 잘못되었습니다.	#
+packdiscoveryerror.required_manifest_property_wrong_type=팩 매니페스트에 필요한 '%s' 요소의 형식이 잘못되었습니다.	#
 packdiscoveryerror.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다.	#
 packdiscoveryerror.required_manifest_property_invalid_value=팩 매니페스트에 제공된 '%s' 요소의 값이 유효하지 않습니다.	#
 packdiscoveryerror.malformed_uuid=제공된 '%s' 요소는 팩 매니페스트의 유효한 UUID가 아닙니다.	#
@@ -10736,8 +10752,7 @@ packdiscoveryerror.folder_structure_too_deep=팩 내 폴더 구조가 너무 깊
 ## pack upgrading
 packupgradewarning.invalidpacktype=팩 매니페스트에 제공된 '%s' 요소의 값이 유효하지 않습니다. 리소스 팩으로 기본 설정됩니다.	#
 packupgradewarning.required_manifest_property_missing=팩 매니페스트에서 '%s' 요소를 찾을 수 없습니다. '%s'(으)로 기본 설정됩니다.	#
-packupgrade트의 '%s' 요소를 찾을 수 없습니다.	#
-packdiscoveryerror.required_manifest_property_wrong_type=팩 매니페스트에 필warning.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다. '%s'(으)로 기본 설정됩니다.	#
+packupgradewarning.required_manifest_property_empty=팩 매니페스트에 필요한 '%s' 요소가 비어 있습니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.malformed_uuid=제공된  '%s' 요소는 팩 매니페스트의 유효한 UUID가 아닙니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.malformed_version=제공된 '%s' 요소는 SemVer(semver.org)를 준수하지 않습니다. '%s'(으)로 기본 설정됩니다.	#
 packupgradewarning.manifest_upgraded=팩 매니페스트가 새로운 버전으로 업그레이드되었습니다.	#
@@ -11600,6 +11615,28 @@ item.brown_egg.name=갈색 달걀		####A brown chicken egg which hatches a warm 
 item.blue_egg.name=파란색 달걀		####A blue chicken egg which hatches a cold climate variant of a chicken{MaxLength=100}
 tile.short_dry_grass.name=키 작은 마른 잔디		####A patch of short dried grass on the ground{MaxLength=100}
 tile.tall_dry_grass.name=키 큰 마른 잔디		####A patch of tall dried grass on the ground{MaxLength=100}
+entity.happy_ghast.name=행복한 가스트	#
+item.spawn_egg.entity.happy_ghast.name=행복한 가스트 생성 알	#
+tile.dried_ghast.name=마른 가스트	#
+itemGroup.name.harnesses=하네스	#
+item.black_harness.name=검은색 하네스	#
+item.blue_harness.name=파란색 하네스	#
+item.brown_harness.name=갈색 하네스	#
+item.cyan_harness.name=청록색 하네스	#
+item.gray_harness.name=회색 하네스	#
+item.green_harness.name=초록색 하네스	#
+item.light_blue_harness.name=하늘색 하네스	#
+item.light_gray_harness.name=회백색 하네스	#
+item.lime_harness.name=연두색 하네스	#
+item.magenta_harness.name=자홍색 하네스	#
+item.orange_harness.name=주황색 하네스	#
+item.pink_harness.name=분홍색 하네스	#
+item.purple_harness.name=보라색 하네스	#
+item.red_harness.name=빨간색 하네스	#
+item.white_harness.name=하얀색 하네스	#
+item.yellow_harness.name=노란색 하네스	#
+action.hint.exit.happy_ghast=웅크리기를 눌러서 내리기	#
+action.hint.exit.scheme.happy_ghast=웅크리기를 눌러서 내리기	#
 
 
 ## comment on the same line, use TABs.
