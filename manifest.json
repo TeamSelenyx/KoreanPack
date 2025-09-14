@@ -1,38 +1,48 @@
 {
-	"format_version": 2,
-	"header": {
-		"name": "Korean Pack",
-		"description": "§f버전: §hv1.21.9 §7§o[ v1.21.100 ]§r\n§iMinecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
-		"uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
-		"version": [ 1, 21, 9 ],
-		"min_engine_version": [ 1, 21, 100 ]
-	},
-	"modules": [
-		{
-			"type": "resources",
-			"uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
-			"version": [ 1, 21, 9 ]
-		}
-	],
+    "format_version": 3,
+    "header": {
+        "name": "Korean Pack",
+        "description": "§f버전: §hv1.21.10 §7§o[ v1.21.110 ]§r\n§iMinecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
+        "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
+        "version": {
+            "major": 1,
+            "minor": 21,
+            "patch": 10,
+            "buildMeta": "vanilla"
+        },
+        "min_engine_version": "1.21.110"
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
+            "version": {
+                "major": 1,
+                "minor": 21,
+                "patch": 10,
+                "buildMeta": "vanilla"
+            }
+        }
+    ],
     "metadata": {
         "authors": [ "NeroLuna" ]
     },
-	"settings": [
-		{
-			"type": "label",
-			"text": "§lKorean Pack§r"
-		},
-		{
-			"type": "label",
-			"text": " * 해당 리소스 팩은 Minecraft: Bedrock Edition의 한국어 번역을 Java Edition과 유사하게 수정해주는 리소스 팩 입니다."
-		},
-		{
-			"type": "label",
-			"text": " * 해당 리소스 팩은 §h[ Team Selenyx ]§f에서 수정 및 제작했으며, 다른 곳에 배포 시 제작자 명과 Github 링크를 반드시 기재해주시기 바랍니다."
-		},
-		{
-			"type": "label",
-			"text": " * 기타 문의 사항은 §enerolunakr@gmail.com§f으로 연락주시기 바랍니다."
-		}
-	]
+    "settings": [
+        {
+            "type": "label",
+            "text": "§lKorean Pack§r"
+        },
+        {
+            "type": "label",
+            "text": " * 해당 리소스 팩은 Minecraft: Bedrock Edition의 한국어 번역을 Java Edition과 유사하게 수정해주는 리소스 팩 입니다."
+        },
+        {
+            "type": "label",
+            "text": " * 해당 리소스 팩은 §h[ Team Selenyx ]§f에서 수정 및 제작했으며, 다른 곳에 배포 시 제작자 명과 Github 링크를 반드시 기재해주시기 바랍니다."
+        },
+        {
+            "type": "label",
+            "text": " * 기타 문의 사항은 §enerolunakr@gmail.com§f으로 연락주시기 바랍니다."
+        }
+    ]
 }
