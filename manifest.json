@@ -2,15 +2,15 @@
     "format_version": 3,
     "header": {
         "name": "Korean Pack(Ore UI)",
-        "description": "§f버전: §hv1.21.12(Ore UI) §7§o[ v1.21.120 ]§r\n§iOre UI§f에서 사용되는 한국어 번역을 수정했습니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
+        "description": "§f버전: §hv1.21.13(Ore UI) §7§o[ v1.21.130 ]§r\n§iOre UI§f에서 사용되는 한국어 번역을 수정했습니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
         "uuid": "aef9de86-43e7-465f-94b3-785fe2a66b58",
         "version": {
             "major": 1,
             "minor": 21,
-            "patch": 12,
+            "patch": 13,
             "buildMeta": "OreUI"
         },
-        "min_engine_version": "1.21.120"
+        "min_engine_version": "1.21.130"
     },
     "modules": [
         {
@@ -19,7 +19,7 @@
             "version": {
                 "major": 1,
                 "minor": 21,
-                "patch": 12,
+                "patch": 13,
                 "buildMeta": "OreUI"
             }
         }
