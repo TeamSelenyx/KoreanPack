@@ -2,15 +2,15 @@
     "format_version": 3,
     "header": {
         "name": "Korean Pack",
-        "description": "§f버전: §hv1.21.13 §7§o[ v1.21.130 ]§r\n§iMinecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
+        "description": "§f버전: §hv1.26.0 §7§o[ v26.0 ]§r\n§iMinecraft: BE§f의 한국어 번역을 다시 작업한 리소스 팩 입니다.\n번역 & 공유 관련 문의: §anerolunakr@gmail.com§f",
         "uuid": "1ad37131-6fd3-4191-b430-5b1363d7a329",
         "version": {
             "major": 1,
-            "minor": 21,
-            "patch": 13,
+            "minor": 26,
+            "patch": 0,
             "buildMeta": "vanilla"
         },
-        "min_engine_version": "1.21.130"
+        "min_engine_version": "1.26.0"
     },
     "modules": [
         {
@@ -18,8 +18,8 @@
             "uuid": "fc2c24f8-015f-11e9-8eb2-f2511f1b9fd1",
             "version": {
                 "major": 1,
-                "minor": 21,
-                "patch": 13,
+                "minor": 26,
+                "patch": 0,
                 "buildMeta": "vanilla"
             }
         }
