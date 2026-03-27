@@ -24,6 +24,9 @@
             }
         }
     ],
+    "capabilities": [
+    "pbr"
+    ],
     "metadata": {
         "authors": [ "NeroLuna", "Team Selenyx" ],
         "license": "AGPL-3.0"
